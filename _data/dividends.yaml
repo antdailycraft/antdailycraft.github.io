@@ -1,0 +1,5630 @@
+- s: CSL
+  c: Carlisle Companies Inc. Dividend Information
+  r: 5
+  y: $3.00
+  yr: 1.12%
+  y5y: 1.17%
+  pr: 19.00%
+  pr5y: 25.00%
+  i: 46 Years
+- s: ADM
+  c: Archer Daniels Midland Co. Dividend Information
+  r: 5
+  y: $1.80
+  yr: 2.06%
+  y5y: 2.71%
+  pr: 21.00%
+  pr5y: 39.00%
+  i: 48 Years
+- s: GWW
+  c: Grainger (W.W.) Inc. Dividend Information
+  r: 5
+  y: $7.44
+  yr: 0.92%
+  y5y: 1.49%
+  pr: 22.00%
+  pr5y: 37.00%
+  i: 51 Years
+- s: AFL
+  c: AFLAC Inc Dividend Information
+  r: 5
+  y: $1.68
+  yr: 2.27%
+  y5y: 2.44%
+  pr: 24.00%
+  pr5y: 23.00%
+  i: 40 Years
+- s: XOM
+  c: Exxon Mobil Corp Dividend Information
+  r: 5
+  y: $3.64
+  yr: 3.49%
+  y5y: 5.25%
+  pr: 24.00%
+  pr5y: 150.00%
+  i: 40 Years
+- s: TNC
+  c: Tennant Co. Dividend Information
+  r: 5
+  y: $1.06
+  yr: 1.29%
+  y5y: 1.34%
+  pr: 24.00%
+  pr5y: 34.00%
+  i: 50 Years
+- s: EMR
+  c: Emerson Electric Co. Dividend Information
+  r: 5
+  y: $2.08
+  yr: 2.26%
+  y5y: 2.60%
+  pr: 26.00%
+  pr5y: 48.00%
+  i: 66 Years
+- s: FUL
+  c: Fuller (HB) Company Dividend Information
+  r: 5
+  y: $0.82
+  yr: 1.08%
+  y5y: 1.21%
+  pr: 27.00%
+  pr5y: 24.00%
+  i: 55 Years
+- s: DOV
+  c: Dover Corp Dividend Information
+  r: 5
+  y: $2.02
+  yr: 1.35%
+  y5y: 1.61%
+  pr: 27.00%
+  pr5y: 35.00%
+  i: 67 Years
+- s: SCL
+  c: Stepan Co. Dividend Information
+  r: 5
+  y: $1.46
+  yr: 1.48%
+  y5y: 1.18%
+  pr: 28.00%
+  pr5y: 23.00%
+  i: 55 Years
+- s: NDSN
+  c: Nordson Corp. Dividend Information
+  r: 5
+  y: $2.60
+  yr: 1.06%
+  y5y: 0.90%
+  pr: 29.00%
+  pr5y: 27.00%
+  i: 42 Years
+- s: SHW
+  c: Sherwin-Williams Co (The) Dividend Information
+  r: 5
+  y: $2.42
+  yr: 0.90%
+  y5y: 0.84%
+  pr: 30.00%
+  pr5y: 40.00%
+  i: 43 Years
+- s: CTBI
+  c: Community Trust Bancorp, Inc. Dividend Information
+  r: 5
+  y: $1.76
+  yr: 4.76%
+  y5y: 4.14%
+  pr: 39.00%
+  pr5y: 39.00%
+  i: 43 Years
+- s: LOW
+  c: Lowe's Companies Inc Dividend Information
+  r: 5
+  y: $4.40
+  yr: 1.82%
+  y5y: 1.67%
+  pr: 41.00%
+  pr5y: 40.00%
+  i: 61 Years
+- s: GPC
+  c: Genuine Parts Co. Dividend Information
+  r: 5
+  y: $3.80
+  yr: 2.38%
+  y5y: 2.79%
+  pr: 42.00%
+  pr5y: 229.00%
+  i: 66 Years
+- s: ED
+  c: Consolidated Edison Inc Dividend Information
+  r: 5
+  y: $3.24
+  yr: 3.34%
+  y5y: 3.68%
+  pr: 46.00%
+  pr5y: 70.00%
+  i: 48 Years
+- s: PPG
+  c: PPG Industries Inc Dividend Information
+  r: 5
+  y: $2.60
+  yr: 1.66%
+  y5y: 1.70%
+  pr: 46.00%
+  pr5y: 46.00%
+  i: 51 Years
+- s: MGEE
+  c: MGE Energy Inc Dividend Information
+  r: 5
+  y: $1.63
+  yr: 1.99%
+  y5y: 1.99%
+  pr: 55.00%
+  pr5y: 54.00%
+  i: 47 Years
+- s: SJW
+  c: SJW Group Dividend Information
+  r: 5
+  y: $1.52
+  yr: 2.04%
+  y5y: 2.00%
+  pr: 55.00%
+  pr5y: 77.00%
+  i: 55 Years
+- s: AWR
+  c: American States Water Co Dividend Information
+  r: 5
+  y: $1.59
+  yr: 1.79%
+  y5y: 1.63%
+  pr: 60.00%
+  pr5y: 55.00%
+  i: 69 Years
+- s: ADP
+  c: Automatic Data Processing Inc. Dividend Information
+  r: 5
+  y: $5.00
+  yr: 2.02%
+  y5y: 1.99%
+  pr: 61.00%
+  pr5y: 63.00%
+  i: 47 Years
+- s: MMM
+  c: 3M Co Dividend Information
+  r: 5
+  y: $6.00
+  yr: 5.73%
+  y5y: 4.02%
+  pr: 62.00%
+  pr5y: 67.00%
+  i: 64 Years
+- s: BKH
+  c: Black Hills Corporation Dividend Information
+  r: 5
+  y: $2.50
+  yr: 4.03%
+  y5y: 3.34%
+  pr: 63.00%
+  pr5y: 60.00%
+  i: 51 Years
+- s: HRL
+  c: Hormel Foods Corp. Dividend Information
+  r: 5
+  y: $1.10
+  yr: 2.70%
+  y5y: 2.14%
+  pr: 63.00%
+  pr5y: 56.00%
+  i: 56 Years
+- s: MCD
+  c: McDonald's Corp Dividend Information
+  r: 5
+  y: $6.08
+  yr: 2.00%
+  y5y: 2.20%
+  pr: 64.00%
+  pr5y: 63.00%
+  i: 46 Years
+- s: UVV
+  c: Universal Corp Dividend Information
+  r: 5
+  y: $3.20
+  yr: 6.45%
+  y5y: 6.16%
+  pr: 64.00%
+  pr5y: 85.00%
+  i: 52 Years
+- s: PG
+  c: Procter & Gamble Company (The) Dividend Information
+  r: 5
+  y: $3.76
+  yr: 2.46%
+  y5y: 2.45%
+  pr: 64.00%
+  pr5y: 111.00%
+  i: 69 Years
+- s: SYY
+  c: Sysco Corp Dividend Information
+  r: 5
+  y: $2.00
+  yr: 2.61%
+  y5y: 2.54%
+  pr: 65.00%
+  pr5y: 153.00%
+  i: 46 Years
+- s: NWN
+  c: Northwest Natural Holding Co Dividend Information
+  r: 5
+  y: $1.94
+  yr: 4.37%
+  y5y: 3.47%
+  pr: 67.00%
+  pr5y: 74.00%
+  i: 67 Years
+- s: APD
+  c: Air Products & Chemicals Inc Dividend Information
+  r: 5
+  y: $7.00
+  yr: 2.24%
+  y5y: 2.13%
+  pr: 69.00%
+  pr5y: 62.00%
+  i: 40 Years
+- s: SWK
+  c: Stanley Black & Decker Inc Dividend Information
+  r: 5
+  y: $3.20
+  yr: 3.28%
+  y5y: 2.21%
+  pr: 70.00%
+  pr5y: 52.00%
+  i: 55 Years
+- s: TGT
+  c: Target Corp Dividend Information
+  r: 5
+  y: $4.40
+  yr: 3.21%
+  y5y: 2.34%
+  pr: 74.00%
+  pr5y: 44.00%
+  i: 51 Years
+- s: CWT
+  c: California Water Service Group (DE) Dividend Information
+  r: 5
+  y: $1.04
+  yr: 1.93%
+  y5y: 1.65%
+  pr: 76.00%
+  pr5y: 63.00%
+  i: 55 Years
+- s: KO
+  c: Coca-Cola Co (The) Dividend Information
+  r: 5
+  y: $1.84
+  yr: 2.89%
+  y5y: 3.05%
+  pr: 79.00%
+  pr5y: 84.00%
+  i: 60 Years
+- s: KMB
+  c: Kimberly-Clark Corp. Dividend Information
+  r: 5
+  y: $4.72
+  yr: 3.47%
+  y5y: 3.22%
+  pr: 80.00%
+  pr5y: 76.00%
+  i: 48 Years
+- s: CLX
+  c: Clorox Co (The) Dividend Information
+  r: 5
+  y: $4.72
+  yr: 3.05%
+  y5y: 2.57%
+  pr: 800.00%
+  pr5y: 222.00%
+  i: 46 Years
+- s: PEP
+  c: PepsiCo Inc Dividend Information
+  r: 5
+  y: $5.06
+  yr: 2.49%
+  y5y: 2.71%
+  pr: 82.00%
+  pr5y: 69.00%
+  i: 51 Years
+- s: JNJ
+  c: Johnson & Johnson Dividend Information
+  r: 5
+  y: $4.76
+  yr: 2.72%
+  y5y: 2.61%
+  pr: 96.00%
+  pr5y: 69.00%
+  i: 60 Years
+- s: MDT
+  c: Ord/Medtronic PLC Dividend Information
+  r: 5
+  y: $2.73
+  yr: 3.06%
+  y5y: 2.43%
+  pr: 97.00%
+  pr5y: 75.00%
+  i: 45 Years
+- s: CL
+  c: Colgate-Palmolive Co. Dividend Information
+  r: 5
+  y: $1.92
+  yr: 2.47%
+  y5y: 2.35%
+  pr: 99.00%
+  pr5y: 71.00%
+  i: 60 Years
+- s: SCHD
+  c: US Dividend Equity ETF/Schwab Strategic Trust Dividend Information
+  r: 4
+  y: $2.60
+  yr: 3.47%
+  y5y: 3.20%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 11 Years
+- s: AQN
+  c: Algonquin Power & Utilities Corp Dividend Information
+  r: 4
+  y: $0.43
+  yr: 6.90%
+  y5y: 4.96%
+  pr: 1,019.00%
+  pr5y: 288.00%
+  i: 13 Years
+- s: KALU
+  c: Kaiser Aluminum Corp. Dividend Information
+  r: 4
+  y: $3.08
+  yr: 3.91%
+  y5y: 3.30%
+  pr: 1,088.00%
+  pr5y: 262.00%
+  i: 11 Years
+- s: UFPI
+  c: UFP Industries Inc Dividend Information
+  r: 4
+  y: $1.00
+  yr: 0.99%
+  y5y: 0.95%
+  pr: 10.00%
+  pr5y: 11.00%
+  i: 10 Years
+- s: SXI
+  c: Standex International Corp. Dividend Information
+  r: 4
+  y: $1.12
+  yr: 0.76%
+  y5y: 1.13%
+  pr: 10.00%
+  pr5y: 29.00%
+  i: 12 Years
+- s: CHE
+  c: Chemed Corp Dividend Information
+  r: 4
+  y: $1.52
+  yr: 0.28%
+  y5y: 0.29%
+  pr: 10.00%
+  pr5y: 9.00%
+  i: 14 Years
+- s: HI
+  c: Hillenbrand Inc Dividend Information
+  r: 4
+  y: $0.88
+  yr: 1.68%
+  y5y: 2.25%
+  pr: 10.00%
+  pr5y: 104.00%
+  i: 14 Years
+- s: WST
+  c: West Pharmaceutical Services, Inc. Dividend Information
+  r: 4
+  y: $0.76
+  yr: 0.20%
+  y5y: 0.27%
+  pr: 10.00%
+  pr5y: 14.00%
+  i: 19 Years
+- s: BN
+  c: Cl A Vtg Shs/Brookfield Corp Dividend Information
+  r: 4
+  y: $0.28
+  yr: 1.19%
+  y5y: 1.41%
+  pr: 100.00%
+  pr5y: 0.00%
+  i: 11 Years
+- s: NUS
+  c: Cl A Com/NU Skin Enterprises, Inc. Dividend Information
+  r: 4
+  y: $1.56
+  yr: 5.34%
+  y5y: 3.72%
+  pr: 102.00%
+  pr5y: 63.00%
+  i: 19 Years
+- s: GLW
+  c: Corning Inc Dividend Information
+  r: 4
+  y: $1.12
+  yr: 3.31%
+  y5y: 2.75%
+  pr: 104.00%
+  pr5y: 189.00%
+  i: 12 Years
+- s: FAF
+  c: First American Financial Corp Dividend Information
+  r: 4
+  y: $2.08
+  yr: 3.52%
+  y5y: 3.26%
+  pr: 105.00%
+  pr5y: 42.00%
+  i: 11 Years
+- s: ARE
+  c: Alexandria Real Estate Equities Inc Dividend Information
+  r: 4
+  y: $4.96
+  yr: 3.99%
+  y5y: 2.91%
+  pr: 107.00%
+  pr5y: 117.00%
+  i: 12 Years
+- s: VTV
+  c: Vanguard Value ETF/Vanguard Index Funds Dividend Information
+  r: 4
+  y: $3.65
+  yr: 2.49%
+  y5y: 2.53%
+  pr: 109.00%
+  pr5y: 106.00%
+  i: 12 Years
+- s: FIX
+  c: Comfort Systems USA Inc Dividend Information
+  r: 4
+  y: $0.80
+  yr: 0.40%
+  y5y: 0.66%
+  pr: 11.00%
+  pr5y: 11.00%
+  i: 10 Years
+- s: MTRN
+  c: Materion Corp Dividend Information
+  r: 4
+  y: $0.52
+  yr: 0.44%
+  y5y: 0.63%
+  pr: 11.00%
+  pr5y: 25.00%
+  i: 10 Years
+- s: GL
+  c: Globe Life Inc Dividend Information
+  r: 4
+  y: $0.90
+  yr: 0.75%
+  y5y: 0.82%
+  pr: 11.00%
+  pr5y: 11.00%
+  i: 17 Years
+- s: VYM
+  c: High Dividend Yield ETF Shs/Vanguard Whitehall Funds Dividend Information
+  r: 4
+  y: $3.34
+  yr: 3.04%
+  y5y: 3.12%
+  pr: 113.00%
+  pr5y: 0.00%
+  i: 12 Years
+- s: WHR
+  c: Whirlpool Corp Dividend Information
+  r: 4
+  y: $7.00
+  yr: 5.78%
+  y5y: 3.69%
+  pr: 113.00%
+  pr5y: 45.00%
+  i: 12 Years
+- s: EXR
+  c: Extra Space Storage Inc Dividend Information
+  r: 4
+  y: $4.04
+  yr: 4.94%
+  y5y: 3.45%
+  pr: 114.00%
+  pr5y: 97.00%
+  i: 13 Years
+- s: NNN
+  c: NNN REIT Inc Dividend Information
+  r: 4
+  y: $2.26
+  yr: 4.99%
+  y5y: 4.74%
+  pr: 114.00%
+  pr5y: 141.00%
+  i: 19 Years
+- s: SPTN
+  c: SpartanNash Co Dividend Information
+  r: 4
+  y: $0.86
+  yr: 3.87%
+  y5y: 4.12%
+  pr: 115.00%
+  pr5y: 97.00%
+  i: 12 Years
+- s: CAH
+  c: Cardinal Health, Inc. Dividend Information
+  r: 4
+  y: $2.00
+  yr: 2.11%
+  y5y: 3.38%
+  pr: 116.00%
+  pr5y: 55.00%
+  i: 19 Years
+- s: MGA
+  c: Magna International Inc Dividend Information
+  r: 4
+  y: $1.84
+  yr: 2.95%
+  y5y: 2.77%
+  pr: 120.00%
+  pr5y: 55.00%
+  i: 13 Years
+- s: ESS
+  c: Essex Property Trust Inc Dividend Information
+  r: 4
+  y: $9.24
+  yr: 3.70%
+  y5y: 3.15%
+  pr: 120.00%
+  pr5y: 121.00%
+  i: 19 Years
+- s: MO
+  c: Altria Group Inc Dividend Information
+  r: 4
+  y: $3.76
+  yr: 8.23%
+  y5y: 7.72%
+  pr: 121.00%
+  pr5y: 336.00%
+  i: 13 Years
+- s: CUBE
+  c: CubeSmart Dividend Information
+  r: 4
+  y: $1.96
+  yr: 4.24%
+  y5y: 3.87%
+  pr: 123.00%
+  pr5y: 144.00%
+  i: 12 Years
+- s: RS
+  c: Reliance Steel & Aluminum Co. Dividend Information
+  r: 4
+  y: $4.00
+  yr: 1.31%
+  y5y: 1.91%
+  pr: 13.00%
+  pr5y: 22.00%
+  i: 11 Years
+- s: CASY
+  c: Casey's General Stores, Inc. Dividend Information
+  r: 4
+  y: $1.72
+  yr: 0.59%
+  y5y: 0.69%
+  pr: 13.00%
+  pr5y: 17.00%
+  i: 19 Years
+- s: DUK
+  c: Duke Energy Corp Dividend Information
+  r: 4
+  y: $4.10
+  yr: 4.31%
+  y5y: 4.14%
+  pr: 130.00%
+  pr5y: 105.00%
+  i: 10 Years
+- s: TRN
+  c: Trinity Industries, Inc. Dividend Information
+  r: 4
+  y: $1.04
+  yr: 3.90%
+  y5y: 3.46%
+  pr: 131.00%
+  pr5y: 132.00%
+  i: 12 Years
+- s: EIX
+  c: Edison International Dividend Information
+  r: 4
+  y: $2.95
+  yr: 4.04%
+  y5y: 4.25%
+  pr: 133.00%
+  pr5y: 87.00%
+  i: 18 Years
+- s: AVNT
+  c: Avient Corp Dividend Information
+  r: 4
+  y: $0.99
+  yr: 2.39%
+  y5y: 2.40%
+  pr: 14.00%
+  pr5y: 29.00%
+  i: 11 Years
+- s: HUM
+  c: Humana Inc. Dividend Information
+  r: 4
+  y: $3.54
+  yr: 0.75%
+  y5y: 0.66%
+  pr: 14.00%
+  pr5y: 12.00%
+  i: 11 Years
+- s: SGU
+  c: Unit Ltd Partnership Int/Star Group LP Dividend Information
+  r: 4
+  y: $0.65
+  yr: 5.08%
+  y5y: 5.24%
+  pr: 147.00%
+  pr5y: 88.00%
+  i: 10 Years
+- s: PFG
+  c: Principal Financial Group Inc Dividend Information
+  r: 4
+  y: $2.56
+  yr: 3.06%
+  y5y: 3.89%
+  pr: 15.00%
+  pr5y: 37.00%
+  i: 14 Years
+- s: R
+  c: Ryder System, Inc. Dividend Information
+  r: 4
+  y: $2.84
+  yr: 2.69%
+  y5y: 3.60%
+  pr: 15.00%
+  pr5y: 41.00%
+  i: 19 Years
+- s: AAPL
+  c: Apple Inc Dividend Information
+  r: 4
+  y: $0.96
+  yr: 0.48%
+  y5y: 0.78%
+  pr: 16.00%
+  pr5y: 19.00%
+  i: 10 Years
+- s: PSX
+  c: Phillips 66 Dividend Information
+  r: 4
+  y: $4.20
+  yr: 3.88%
+  y5y: 4.45%
+  pr: 16.00%
+  pr5y: 140.00%
+  i: 10 Years
+- s: WTS
+  c: Cl A/Watts Water Technologies Inc Dividend Information
+  r: 4
+  y: $1.44
+  yr: 0.67%
+  y5y: 0.84%
+  pr: 16.00%
+  pr5y: 22.00%
+  i: 10 Years
+- s: AIT
+  c: Applied Industrial Technologies, Inc. Dividend Information
+  r: 4
+  y: $1.40
+  yr: 0.95%
+  y5y: 1.59%
+  pr: 16.00%
+  pr5y: 64.00%
+  i: 13 Years
+- s: UGI
+  c: UGI Corp. Dividend Information
+  r: 4
+  y: $1.50
+  yr: 5.51%
+  y5y: 3.62%
+  pr: 164.00%
+  pr5y: 67.00%
+  i: 19 Years
+- s: DFS
+  c: Discover Financial Services Dividend Information
+  r: 4
+  y: $2.80
+  yr: 2.44%
+  y5y: 2.29%
+  pr: 17.00%
+  pr5y: 25.00%
+  i: 12 Years
+- s: LFUS
+  c: Littelfuse Inc Dividend Information
+  r: 4
+  y: $2.40
+  yr: 0.80%
+  y5y: 0.90%
+  pr: 17.00%
+  pr5y: 28.00%
+  i: 12 Years
+- s: TDS
+  c: Telephone & Data Systems Inc Dividend Information
+  r: 4
+  y: $0.74
+  yr: 9.00%
+  y5y: 4.38%
+  pr: 176.00%
+  pr5y: 29.00%
+  i: 10 Years
+- s: HCSG
+  c: Healthcare Services Group, Inc. Dividend Information
+  r: 4
+  y: $0.86
+  yr: 5.85%
+  y5y: 3.90%
+  pr: 178.00%
+  pr5y: 114.00%
+  i: 19 Years
+- s: BC
+  c: Brunswick Corp. Dividend Information
+  r: 4
+  y: $1.60
+  yr: 1.79%
+  y5y: 1.60%
+  pr: 18.00%
+  pr5y: 34.00%
+  i: 10 Years
+- s: FBIZ
+  c: First Business Financial Services, Inc. Dividend Information
+  r: 4
+  y: $0.91
+  yr: 2.65%
+  y5y: 2.86%
+  pr: 18.00%
+  pr5y: 22.00%
+  i: 10 Years
+- s: BRO
+  c: Brown & Brown Inc Dividend Information
+  r: 4
+  y: $0.46
+  yr: 0.63%
+  y5y: 0.73%
+  pr: 18.00%
+  pr5y: 20.00%
+  i: 19 Years
+- s: EXPD
+  c: Expeditors International of Washington, Inc. Dividend Information
+  r: 4
+  y: $1.38
+  yr: 1.09%
+  y5y: 1.14%
+  pr: 18.00%
+  pr5y: 23.00%
+  i: 19 Years
+- s: RNR
+  c: RenaissanceRe Holdings Ltd. Dividend Information
+  r: 4
+  y: $1.52
+  yr: 0.75%
+  y5y: 0.85%
+  pr: 18.00%
+  pr5y: 14.00%
+  i: 19 Years
+- s: UNM
+  c: Unum Group Dividend Information
+  r: 4
+  y: $1.46
+  yr: 2.69%
+  y5y: 4.07%
+  pr: 19.00%
+  pr5y: 28.00%
+  i: 14 Years
+- s: UHT
+  c: Shs. Ben. Int./Universal Health Realty Income Trust Dividend Information
+  r: 4
+  y: $2.88
+  yr: 5.86%
+  y5y: 4.58%
+  pr: 196.00%
+  pr5y: 161.00%
+  i: 19 Years
+- s: APOG
+  c: Apogee Enterprises Inc Dividend Information
+  r: 4
+  y: $0.96
+  yr: 2.05%
+  y5y: 2.23%
+  pr: 20.00%
+  pr5y: 61.00%
+  i: 11 Years
+- s: CIVB
+  c: Com No Par/Civista Bancshares Inc Dividend Information
+  r: 4
+  y: $0.60
+  yr: 3.03%
+  y5y: 2.51%
+  pr: 20.00%
+  pr5y: 25.00%
+  i: 11 Years
+- s: HWKN
+  c: Hawkins Inc Dividend Information
+  r: 4
+  y: $0.60
+  yr: 1.18%
+  y5y: 2.17%
+  pr: 20.00%
+  pr5y: 40.00%
+  i: 11 Years
+- s: CE
+  c: Celanese Corp (DE) Dividend Information
+  r: 4
+  y: $2.80
+  yr: 2.28%
+  y5y: 2.23%
+  pr: 20.00%
+  pr5y: 24.00%
+  i: 13 Years
+- s: FELE
+  c: Franklin Electric Co., Inc. Dividend Information
+  r: 4
+  y: $0.90
+  yr: 0.79%
+  y5y: 0.97%
+  pr: 20.00%
+  pr5y: 25.00%
+  i: 19 Years
+- s: RJF
+  c: Raymond James Financial, Inc. Dividend Information
+  r: 4
+  y: $1.68
+  yr: 1.44%
+  y5y: 2.01%
+  pr: 21.00%
+  pr5y: 26.00%
+  i: 10 Years
+- s: SMBC
+  c: Southern Missouri Bancorp, Inc. Dividend Information
+  r: 4
+  y: $0.84
+  yr: 1.96%
+  y5y: 1.87%
+  pr: 21.00%
+  pr5y: 18.00%
+  i: 11 Years
+- s: CSX
+  c: CSX Corp Dividend Information
+  r: 4
+  y: $0.44
+  yr: 1.25%
+  y5y: 2.83%
+  pr: 21.00%
+  pr5y: 56.00%
+  i: 19 Years
+- s: LNN
+  c: Lindsay Corp Dividend Information
+  r: 4
+  y: $1.40
+  yr: 1.07%
+  y5y: 1.11%
+  pr: 21.00%
+  pr5y: 73.00%
+  i: 19 Years
+- s: O
+  c: Realty Income Corp Dividend Information
+  r: 4
+  y: $3.07
+  yr: 4.81%
+  y5y: 4.42%
+  pr: 211.00%
+  pr5y: 244.00%
+  i: 19 Years
+- s: AGM
+  c: Cl C Non-Vtg Com/Federal Agricultural Mortgage Corp Dividend Information
+  r: 4
+  y: $4.40
+  yr: 2.62%
+  y5y: 3.64%
+  pr: 22.00%
+  pr5y: 0.00%
+  i: 11 Years
+- s: MA
+  c: Cl A Com/Mastercard Inc Dividend Information
+  r: 4
+  y: $2.28
+  yr: 0.55%
+  y5y: 0.50%
+  pr: 22.00%
+  pr5y: 21.00%
+  i: 11 Years
+- s: PRI
+  c: Primerica Inc Dividend Information
+  r: 4
+  y: $2.60
+  yr: 1.13%
+  y5y: 1.24%
+  pr: 22.00%
+  pr5y: 19.00%
+  i: 12 Years
+- s: IBOC
+  c: International Bancshares Corp. Dividend Information
+  r: 4
+  y: $1.26
+  yr: 2.50%
+  y5y: 3.16%
+  pr: 22.00%
+  pr5y: 35.00%
+  i: 13 Years
+- s: WSM
+  c: Williams Sonoma Inc Dividend Information
+  r: 4
+  y: $3.60
+  yr: 2.57%
+  y5y: 2.17%
+  pr: 22.00%
+  pr5y: 29.00%
+  i: 16 Years
+- s: CNO
+  c: CNO Financial Group Inc Dividend Information
+  r: 4
+  y: $0.60
+  yr: 2.26%
+  y5y: 2.56%
+  pr: 23.00%
+  pr5y: 23.00%
+  i: 10 Years
+- s: RGA
+  c: Reinsurance Group of America, Inc. Dividend Information
+  r: 4
+  y: $3.20
+  yr: 2.21%
+  y5y: 2.42%
+  pr: 23.00%
+  pr5y: 34.00%
+  i: 14 Years
+- s: V
+  c: Com Cl A/Visa Inc Dividend Information
+  r: 4
+  y: $1.80
+  yr: 0.72%
+  y5y: 0.61%
+  pr: 23.00%
+  pr5y: 20.00%
+  i: 14 Years
+- s: SLGN
+  c: Silgan Holdings Inc Dividend Information
+  r: 4
+  y: $0.72
+  yr: 1.42%
+  y5y: 1.38%
+  pr: 23.00%
+  pr5y: 20.00%
+  i: 18 Years
+- s: NOC
+  c: Northrop Grumman Corp Dividend Information
+  r: 4
+  y: $7.48
+  yr: 1.55%
+  y5y: 1.59%
+  pr: 23.00%
+  pr5y: 25.00%
+  i: 19 Years
+- s: POOL
+  c: Pool Corp Dividend Information
+  r: 4
+  y: $4.40
+  yr: 1.13%
+  y5y: 0.86%
+  pr: 24.00%
+  pr5y: 27.00%
+  i: 12 Years
+- s: EBTC
+  c: Enterprise Bancorp, Inc. (MA) Dividend Information
+  r: 4
+  y: $0.92
+  yr: 2.87%
+  y5y: 2.52%
+  pr: 25.00%
+  pr5y: 24.00%
+  i: 17 Years
+- s: ABC
+  c: AmerisourceBergen Corp. Dividend Information
+  r: 4
+  y: $1.94
+  yr: 0.99%
+  y5y: 1.44%
+  pr: 25.00%
+  pr5y: 38.00%
+  i: 19 Years
+- s: AMP
+  c: Ameriprise Financial Inc Dividend Information
+  r: 4
+  y: $5.40
+  yr: 1.43%
+  y5y: 2.02%
+  pr: 26.00%
+  pr5y: 26.00%
+  i: 17 Years
+- s: SRCE
+  c: 1st Source Corp Dividend Information
+  r: 4
+  y: $1.28
+  yr: 2.80%
+  y5y: 2.79%
+  pr: 26.00%
+  pr5y: 30.00%
+  i: 19 Years
+- s: APH
+  c: Cl A Com/Amphenol Corp. Dividend Information
+  r: 4
+  y: $0.84
+  yr: 0.98%
+  y5y: 0.96%
+  pr: 27.00%
+  pr5y: 27.00%
+  i: 11 Years
+- s: CBT
+  c: Cabot Corp. Dividend Information
+  r: 4
+  y: $1.60
+  yr: 2.18%
+  y5y: 2.75%
+  pr: 27.00%
+  pr5y: 26.00%
+  i: 11 Years
+- s: MGRC
+  c: McGrath RentCorp Dividend Information
+  r: 4
+  y: $1.86
+  yr: 1.96%
+  y5y: 2.33%
+  pr: 27.00%
+  pr5y: 39.00%
+  i: 19 Years
+- s: HWBK
+  c: Hawthorn Bancshares Inc Dividend Information
+  r: 4
+  y: $0.68
+  yr: 3.98%
+  y5y: 2.59%
+  pr: 28.00%
+  pr5y: 22.00%
+  i: 11 Years
+- s: SSB
+  c: SouthState Corp Dividend Information
+  r: 4
+  y: $2.00
+  yr: 2.64%
+  y5y: 2.71%
+  pr: 28.00%
+  pr5y: 38.00%
+  i: 11 Years
+- s: BRC
+  c: Cl A Com/Brady Corp Dividend Information
+  r: 4
+  y: $0.92
+  yr: 1.84%
+  y5y: 1.79%
+  pr: 28.00%
+  pr5y: 34.00%
+  i: 19 Years
+- s: FDS
+  c: FactSet Research Systems Inc. Dividend Information
+  r: 4
+  y: $3.92
+  yr: 0.85%
+  y5y: 0.87%
+  pr: 28.00%
+  pr5y: 31.00%
+  i: 19 Years
+- s: TCBK
+  c: TriCo Bancshares (Chico, CA) Dividend Information
+  r: 4
+  y: $1.20
+  yr: 3.09%
+  y5y: 2.53%
+  pr: 29.00%
+  pr5y: 30.00%
+  i: 10 Years
+- s: HIG
+  c: Hartford Financial Services Group Inc. Dividend Information
+  r: 4
+  y: $1.70
+  yr: 2.22%
+  y5y: 2.38%
+  pr: 29.00%
+  pr5y: 26.00%
+  i: 12 Years
+- s: JPM
+  c: JPMorgan Chase & Co Dividend Information
+  r: 4
+  y: $4.00
+  yr: 2.56%
+  y5y: 3.00%
+  pr: 29.00%
+  pr5y: 33.00%
+  i: 12 Years
+- s: MSFT
+  c: Microsoft Corporation Dividend Information
+  r: 4
+  y: $2.72
+  yr: 0.77%
+  y5y: 0.95%
+  pr: 29.00%
+  pr5y: 30.00%
+  i: 17 Years
+- s: GABC
+  c: German American Bancorp Inc Dividend Information
+  r: 4
+  y: $1.00
+  yr: 3.37%
+  y5y: 2.52%
+  pr: 30.00%
+  pr5y: 31.00%
+  i: 10 Years
+- s: RMD
+  c: ResMed Inc. Dividend Information
+  r: 4
+  y: $1.76
+  yr: 0.80%
+  y5y: 0.82%
+  pr: 30.00%
+  pr5y: 40.00%
+  i: 10 Years
+- s: EVR
+  c: Cl A/Evercore Inc Dividend Information
+  r: 4
+  y: $3.04
+  yr: 2.10%
+  y5y: 2.66%
+  pr: 30.00%
+  pr5y: 26.00%
+  i: 15 Years
+- s: KR
+  c: Kroger Co (The) Dividend Information
+  r: 4
+  y: $1.16
+  yr: 2.17%
+  y5y: 2.04%
+  pr: 30.00%
+  pr5y: 29.00%
+  i: 16 Years
+- s: XRAY
+  c: DENTSPLY SIRONA Inc Dividend Information
+  r: 4
+  y: $0.56
+  yr: 1.31%
+  y5y: 0.96%
+  pr: 31.00%
+  pr5y: 14.00%
+  i: 11 Years
+- s: MOFG
+  c: MidWestOne Financial Group, Inc. Dividend Information
+  r: 4
+  y: $0.97
+  yr: 4.07%
+  y5y: 3.65%
+  pr: 31.00%
+  pr5y: 36.00%
+  i: 12 Years
+- s: UNH
+  c: UnitedHealth Group Inc Dividend Information
+  r: 4
+  y: $7.52
+  yr: 1.35%
+  y5y: 1.34%
+  pr: 31.00%
+  pr5y: 29.00%
+  i: 13 Years
+- s: PII
+  c: Polaris Inc Dividend Information
+  r: 4
+  y: $2.60
+  yr: 1.92%
+  y5y: 2.30%
+  pr: 31.00%
+  pr5y: 46.00%
+  i: 19 Years
+- s: POWI
+  c: Power Integrations Inc. Dividend Information
+  r: 4
+  y: $0.76
+  yr: 0.81%
+  y5y: 1.00%
+  pr: 32.00%
+  pr5y: 35.00%
+  i: 10 Years
+- s: PFE
+  c: Pfizer Inc Dividend Information
+  r: 4
+  y: $1.64
+  yr: 4.41%
+  y5y: 3.80%
+  pr: 32.00%
+  pr5y: 51.00%
+  i: 12 Years
+- s: IEX
+  c: IDEX Corporation Dividend Information
+  r: 4
+  y: $2.56
+  yr: 1.17%
+  y5y: 1.12%
+  pr: 32.00%
+  pr5y: 36.00%
+  i: 13 Years
+- s: GGG
+  c: Graco Inc Dividend Information
+  r: 4
+  y: $0.94
+  yr: 1.05%
+  y5y: 1.18%
+  pr: 32.00%
+  pr5y: 35.00%
+  i: 17 Years
+- s: TRV
+  c: Travelers Companies Inc (The) Dividend Information
+  r: 4
+  y: $4.00
+  yr: 2.18%
+  y5y: 2.32%
+  pr: 32.00%
+  pr5y: 31.00%
+  i: 17 Years
+- s: RHI
+  c: Robert Half International Inc. Dividend Information
+  r: 4
+  y: $1.92
+  yr: N/A
+  y5y: 2.11%
+  pr: 32.00%
+  pr5y: 36.00%
+  i: 18 Years
+- s: CVX
+  c: Chevron Corporation Dividend Information
+  r: 4
+  y: $6.04
+  yr: 3.75%
+  y5y: 4.48%
+  pr: 32.00%
+  pr5y: 256.00%
+  i: 19 Years
+- s: DCI
+  c: Donaldson Co. Inc. Dividend Information
+  r: 4
+  y: $1.00
+  yr: 1.50%
+  y5y: 1.58%
+  pr: 32.00%
+  pr5y: 37.00%
+  i: 19 Years
+- s: WABC
+  c: WestAmerica Bancorporation Dividend Information
+  r: 4
+  y: $1.68
+  yr: 3.66%
+  y5y: 3.02%
+  pr: 32.00%
+  pr5y: 50.00%
+  i: 19 Years
+- s: STBA
+  c: S & T Bancorp Inc (Indiana, PA) Dividend Information
+  r: 4
+  y: $1.28
+  yr: 4.17%
+  y5y: 3.97%
+  pr: 33.00%
+  pr5y: 53.00%
+  i: 10 Years
+- s: ASB
+  c: Associated Banc-Corp Dividend Information
+  r: 4
+  y: $0.84
+  yr: 4.51%
+  y5y: 4.27%
+  pr: 33.00%
+  pr5y: 34.00%
+  i: 11 Years
+- s: FRME
+  c: First Merchants Corp Dividend Information
+  r: 4
+  y: $1.36
+  yr: 4.05%
+  y5y: 3.34%
+  pr: 33.00%
+  pr5y: 32.00%
+  i: 11 Years
+- s: QCOM
+  c: Qualcomm Inc Dividend Information
+  r: 4
+  y: $3.20
+  yr: 2.53%
+  y5y: 2.45%
+  pr: 33.00%
+  pr5y: 61.00%
+  i: 12 Years
+- s: IBM
+  c: International Business Machines Corp Dividend Information
+  r: 4
+  y: $6.64
+  yr: 4.78%
+  y5y: 4.91%
+  pr: 331.00%
+  pr5y: 140.00%
+  i: 19 Years
+- s: RF
+  c: Regions Financial Corp (New) Dividend Information
+  r: 4
+  y: $0.96
+  yr: 3.93%
+  y5y: 4.07%
+  pr: 34.00%
+  pr5y: 47.00%
+  i: 10 Years
+- s: MCHP
+  c: Microchip Technology Inc Dividend Information
+  r: 4
+  y: $1.53
+  yr: 1.55%
+  y5y: 2.24%
+  pr: 34.00%
+  pr5y: 115.00%
+  i: 11 Years
+- s: INGR
+  c: Ingredion Inc Dividend Information
+  r: 4
+  y: $2.84
+  yr: 2.61%
+  y5y: 2.93%
+  pr: 34.00%
+  pr5y: 58.00%
+  i: 12 Years
+- s: TEL
+  c: Ord/TE Connectivity Ltd Dividend Information
+  r: 4
+  y: $2.36
+  yr: 1.60%
+  y5y: 1.78%
+  pr: 34.00%
+  pr5y: 47.00%
+  i: 13 Years
+- s: BHB
+  c: Bar Harbor Bankshares Dividend Information
+  r: 4
+  y: $1.12
+  yr: 4.12%
+  y5y: 3.63%
+  pr: 34.00%
+  pr5y: 41.00%
+  i: 19 Years
+- s: NWFL
+  c: Norwood Financial Corp. Dividend Information
+  r: 4
+  y: $1.16
+  yr: 3.75%
+  y5y: 3.72%
+  pr: 34.00%
+  pr5y: 40.00%
+  i: 19 Years
+- s: HII
+  c: Huntington Ingalls Industries, Inc. Dividend Information
+  r: 4
+  y: $4.96
+  yr: 2.10%
+  y5y: 2.04%
+  pr: 35.00%
+  pr5y: 30.00%
+  i: 10 Years
+- s: NBTB
+  c: NBT Bancorp. Inc. Dividend Information
+  r: 4
+  y: $1.20
+  yr: 3.35%
+  y5y: 3.18%
+  pr: 35.00%
+  pr5y: 37.00%
+  i: 10 Years
+- s: LBAI
+  c: Lakeland Bancorp, Inc. Dividend Information
+  r: 4
+  y: $0.58
+  yr: 3.86%
+  y5y: 3.65%
+  pr: 35.00%
+  pr5y: 35.00%
+  i: 12 Years
+- s: SASR
+  c: Sandy Spring Bancorp Inc Dividend Information
+  r: 4
+  y: $1.36
+  yr: 5.58%
+  y5y: 4.08%
+  pr: 35.00%
+  pr5y: 36.00%
+  i: 12 Years
+- s: STT
+  c: State Street Corp. Dividend Information
+  r: 4
+  y: $2.76
+  yr: 3.58%
+  y5y: 3.21%
+  pr: 35.00%
+  pr5y: 34.00%
+  i: 12 Years
+- s: BMRC
+  c: Bank of Marin Bancorp Dividend Information
+  r: 4
+  y: $1.00
+  yr: 5.10%
+  y5y: 3.04%
+  pr: 35.00%
+  pr5y: 36.00%
+  i: 17 Years
+- s: CMI
+  c: Cummins, Inc. Dividend Information
+  r: 4
+  y: $6.72
+  yr: 2.42%
+  y5y: 2.61%
+  pr: 35.00%
+  pr5y: 38.00%
+  i: 17 Years
+- s: CFR
+  c: Cullen/Frost Bankers, Inc. Dividend Information
+  r: 4
+  y: $3.48
+  yr: 3.02%
+  y5y: 3.07%
+  pr: 35.00%
+  pr5y: 43.00%
+  i: 19 Years
+- s: EBMT
+  c: Eagle Bancorp Montana, Inc. Dividend Information
+  r: 4
+  y: $0.55
+  yr: 3.96%
+  y5y: 2.60%
+  pr: 36.00%
+  pr5y: 26.00%
+  i: 12 Years
+- s: SNA
+  c: Snap-On, Inc. Dividend Information
+  r: 4
+  y: $6.48
+  yr: 2.30%
+  y5y: 2.52%
+  pr: 36.00%
+  pr5y: 36.00%
+  i: 13 Years
+- s: CHCO
+  c: City Holding Co. Dividend Information
+  r: 4
+  y: $2.60
+  yr: 2.69%
+  y5y: 3.06%
+  pr: 37.00%
+  pr5y: 42.00%
+  i: 11 Years
+- s: AVY
+  c: Avery Dennison Corp Dividend Information
+  r: 4
+  y: $3.24
+  yr: 1.73%
+  y5y: 1.68%
+  pr: 37.00%
+  pr5y: 43.00%
+  i: 12 Years
+- s: FMAO
+  c: CDT Com/Farmers & Merchants Bancorp Inc (OH) Dividend Information
+  r: 4
+  y: $0.84
+  yr: 3.51%
+  y5y: 2.82%
+  pr: 37.00%
+  pr5y: 37.00%
+  i: 12 Years
+- s: LNC
+  c: Lincoln National Corp. Dividend Information
+  r: 4
+  y: $1.80
+  yr: 6.57%
+  y5y: 3.88%
+  pr: 37.00%
+  pr5y: 31.00%
+  i: 12 Years
+- s: MMC
+  c: Marsh & McLennan Companies Inc. Dividend Information
+  r: 4
+  y: $2.84
+  yr: 1.25%
+  y5y: 1.45%
+  pr: 37.00%
+  pr5y: 42.00%
+  i: 13 Years
+- s: AUBN
+  c: Auburn National Bancorp, Inc. Dividend Information
+  r: 4
+  y: $1.08
+  yr: 5.02%
+  y5y: 3.38%
+  pr: 37.00%
+  pr5y: 42.00%
+  i: 19 Years
+- s: BMI
+  c: Badger Meter Inc Dividend Information
+  r: 4
+  y: $0.90
+  yr: 0.57%
+  y5y: 0.88%
+  pr: 37.00%
+  pr5y: 41.00%
+  i: 19 Years
+- s: DOX
+  c: Ord/Amdocs Ltd. Dividend Information
+  r: 4
+  y: $1.66
+  yr: 1.75%
+  y5y: 1.80%
+  pr: 38.00%
+  pr5y: 35.00%
+  i: 10 Years
+- s: FNV
+  c: Franco-Nevada Corp Dividend Information
+  r: 4
+  y: $1.36
+  yr: 0.90%
+  y5y: 0.87%
+  pr: 38.00%
+  pr5y: 62.00%
+  i: 14 Years
+- s: ALRS
+  c: Alerus Financial Corp Dividend Information
+  r: 4
+  y: $0.76
+  yr: 3.92%
+  y5y: 2.96%
+  pr: 38.00%
+  pr5y: 29.00%
+  i: 19 Years
+- s: AROW
+  c: Arrow Financial Corp. Dividend Information
+  r: 4
+  y: $1.08
+  yr: 5.05%
+  y5y: 3.63%
+  pr: 38.00%
+  pr5y: 39.00%
+  i: 19 Years
+- s: BSRR
+  c: Sierra Bancorp Dividend Information
+  r: 4
+  y: $0.92
+  yr: 5.04%
+  y5y: 3.83%
+  pr: 39.00%
+  pr5y: 35.00%
+  i: 10 Years
+- s: INTU
+  c: Intuit Inc Dividend Information
+  r: 4
+  y: $3.12
+  yr: 0.63%
+  y5y: 0.63%
+  pr: 39.00%
+  pr5y: 34.00%
+  i: 11 Years
+- s: MCO
+  c: Moody's Corp. Dividend Information
+  r: 4
+  y: $3.08
+  yr: 0.82%
+  y5y: 0.80%
+  pr: 39.00%
+  pr5y: 28.00%
+  i: 13 Years
+- s: KWR
+  c: Quaker Houghton Dividend Information
+  r: 4
+  y: $1.74
+  yr: 0.88%
+  y5y: 0.86%
+  pr: 39.00%
+  pr5y: 48.00%
+  i: 15 Years
+- s: SON
+  c: Sonoco Products Co. Dividend Information
+  r: 4
+  y: $2.04
+  yr: 3.39%
+  y5y: 3.02%
+  pr: 39.00%
+  pr5y: 66.00%
+  i: 19 Years
+- s: PRU
+  c: Prudential Financial Inc Dividend Information
+  r: 4
+  y: $5.00
+  yr: 5.16%
+  y5y: 5.01%
+  pr: 4,900.00%
+  pr5y: 1,022.00%
+  i: 14 Years
+- s: DGX
+  c: Quest Diagnostics, Inc. Dividend Information
+  r: 4
+  y: $2.84
+  yr: 1.91%
+  y5y: 1.87%
+  pr: 40.00%
+  pr5y: 30.00%
+  i: 11 Years
+- s: TSCO
+  c: Tractor Supply Co. Dividend Information
+  r: 4
+  y: $4.12
+  yr: 1.82%
+  y5y: 1.26%
+  pr: 40.00%
+  pr5y: 31.00%
+  i: 12 Years
+- s: MAN
+  c: ManpowerGroup Inc Dividend Information
+  r: 4
+  y: $2.94
+  yr: 3.44%
+  y5y: 2.90%
+  pr: 41.00%
+  pr5y: 43.00%
+  i: 12 Years
+- s: PNC
+  c: PNC Financial Services Group (The) Dividend Information
+  r: 4
+  y: $6.20
+  yr: 4.52%
+  y5y: 3.58%
+  pr: 41.00%
+  pr5y: 35.00%
+  i: 12 Years
+- s: WTBA
+  c: Cdt.-Cap. Stk./West Bancorporation, Inc. Dividend Information
+  r: 4
+  y: $1.00
+  yr: 5.11%
+  y5y: 4.17%
+  pr: 41.00%
+  pr5y: 41.00%
+  i: 12 Years
+- s: ROK
+  c: Rockwell Automation, Inc. Dividend Information
+  r: 4
+  y: $4.72
+  yr: 1.36%
+  y5y: 1.81%
+  pr: 41.00%
+  pr5y: 52.00%
+  i: 13 Years
+- s: RGLD
+  c: Royal Gold Inc Dividend Information
+  r: 4
+  y: $1.50
+  yr: 1.22%
+  y5y: 1.06%
+  pr: 41.00%
+  pr5y: 43.00%
+  i: 19 Years
+- s: RSG
+  c: Republic Services Inc Dividend Information
+  r: 4
+  y: $1.98
+  yr: 1.28%
+  y5y: 1.64%
+  pr: 41.00%
+  pr5y: 46.00%
+  i: 19 Years
+- s: AUB
+  c: Atlantic Union Bankshares Corp Dividend Information
+  r: 4
+  y: $1.20
+  yr: 3.95%
+  y5y: 3.45%
+  pr: 42.00%
+  pr5y: 42.00%
+  i: 12 Years
+- s: JKHY
+  c: Jack Henry & Associates, Inc. Dividend Information
+  r: 4
+  y: $2.08
+  yr: 1.17%
+  y5y: 1.03%
+  pr: 42.00%
+  pr5y: 43.00%
+  i: 19 Years
+- s: MSI
+  c: Motorola Solutions Inc Dividend Information
+  r: 4
+  y: $3.52
+  yr: 1.16%
+  y5y: 1.40%
+  pr: 43.00%
+  pr5y: 44.00%
+  i: 11 Years
+- s: SBSI
+  c: Southside Bancshares, Inc. Dividend Information
+  r: 4
+  y: $1.40
+  yr: 5.13%
+  y5y: 4.18%
+  pr: 43.00%
+  pr5y: 51.00%
+  i: 12 Years
+- s: SYK
+  c: Stryker Corp Dividend Information
+  r: 4
+  y: $3.00
+  yr: 0.99%
+  y5y: 1.10%
+  pr: 43.00%
+  pr5y: 47.00%
+  i: 18 Years
+- s: LMT
+  c: Lockheed Martin Corp Dividend Information
+  r: 4
+  y: $12.00
+  yr: 2.59%
+  y5y: 2.61%
+  pr: 43.00%
+  pr5y: 46.00%
+  i: 19 Years
+- s: ATR
+  c: AptarGroup Inc. Dividend Information
+  r: 4
+  y: $1.64
+  yr: 1.27%
+  y5y: 1.23%
+  pr: 44.00%
+  pr5y: 43.00%
+  i: 19 Years
+- s: CPK
+  c: Chesapeake Utilities Corp. Dividend Information
+  r: 4
+  y: $2.36
+  yr: 1.79%
+  y5y: 1.69%
+  pr: 44.00%
+  pr5y: 41.00%
+  i: 19 Years
+- s: LARK
+  c: Landmark Bancorp Inc Dividend Information
+  r: 4
+  y: $0.84
+  yr: 3.91%
+  y5y: 3.48%
+  pr: 44.00%
+  pr5y: 30.00%
+  i: 19 Years
+- s: DLR
+  c: Digital Realty Trust Inc Dividend Information
+  r: 4
+  y: $4.88
+  yr: 4.11%
+  y5y: 3.49%
+  pr: 444.00%
+  pr5y: 267.00%
+  i: 17 Years
+- s: NRIM
+  c: Northrim BanCorp Inc Dividend Information
+  r: 4
+  y: $2.40
+  yr: 5.00%
+  y5y: 4.23%
+  pr: 45.00%
+  pr5y: 37.00%
+  i: 13 Years
+- s: PFC
+  c: Premier Financial Corp Dividend Information
+  r: 4
+  y: $1.24
+  yr: 6.61%
+  y5y: 4.42%
+  pr: 46.00%
+  pr5y: 43.00%
+  i: 11 Years
+- s: KEY
+  c: KeyCorp Dividend Information
+  r: 4
+  y: $0.82
+  yr: 6.82%
+  y5y: 5.06%
+  pr: 46.00%
+  pr5y: 43.00%
+  i: 12 Years
+- s: WSBC
+  c: WesBanco Inc Dividend Information
+  r: 4
+  y: $1.40
+  yr: 4.93%
+  y5y: 4.54%
+  pr: 46.00%
+  pr5y: 47.00%
+  i: 12 Years
+- s: ADI
+  c: Analog Devices Inc Dividend Information
+  r: 4
+  y: $3.44
+  yr: 1.71%
+  y5y: 1.77%
+  pr: 46.00%
+  pr5y: 65.00%
+  i: 19 Years
+- s: AGO
+  c: Assured Guaranty Ltd Dividend Information
+  r: 4
+  y: $1.12
+  yr: 1.77%
+  y5y: 2.04%
+  pr: 47.00%
+  pr5y: 23.00%
+  i: 11 Years
+- s: BK
+  c: Bank of New York Mellon Corp Dividend Information
+  r: 4
+  y: $1.68
+  yr: 3.24%
+  y5y: 2.97%
+  pr: 47.00%
+  pr5y: 34.00%
+  i: 12 Years
+- s: CASS
+  c: Cass Information Systems Inc. Dividend Information
+  r: 4
+  y: $1.16
+  yr: 2.94%
+  y5y: 2.67%
+  pr: 47.00%
+  pr5y: 53.00%
+  i: 19 Years
+- s: PEG
+  c: Public Service Enterprise Group Inc Dividend Information
+  r: 4
+  y: $2.28
+  yr: 3.44%
+  y5y: 3.39%
+  pr: 48.00%
+  pr5y: 77.00%
+  i: 11 Years
+- s: HNI
+  c: HNI Corp Dividend Information
+  r: 4
+  y: $1.28
+  yr: 4.52%
+  y5y: 3.71%
+  pr: 48.00%
+  pr5y: 62.00%
+  i: 12 Years
+- s: UNB
+  c: Union Bankshares, Inc. (Morrisville, VT) Dividend Information
+  r: 4
+  y: $1.44
+  yr: 6.37%
+  y5y: 5.14%
+  pr: 49.00%
+  pr5y: 55.00%
+  i: 10 Years
+- s: GATX
+  c: GATX Corp Dividend Information
+  r: 4
+  y: $2.20
+  yr: 1.62%
+  y5y: 2.25%
+  pr: 49.00%
+  pr5y: 41.00%
+  i: 12 Years
+- s: HD
+  c: Home Depot Inc Dividend Information
+  r: 4
+  y: $8.36
+  yr: 2.50%
+  y5y: 2.25%
+  pr: 49.00%
+  pr5y: 49.00%
+  i: 13 Years
+- s: WM
+  c: Waste Management, Inc. (DE) Dividend Information
+  r: 4
+  y: $2.80
+  yr: 1.57%
+  y5y: 1.68%
+  pr: 49.00%
+  pr5y: 54.00%
+  i: 19 Years
+- s: ALB
+  c: Albemarle Corp. Dividend Information
+  r: 4
+  y: $1.60
+  yr: 0.71%
+  y5y: 1.17%
+  pr: 5.00%
+  pr5y: 36.00%
+  i: 19 Years
+- s: HSY
+  c: Hershey Company (The) Dividend Information
+  r: 4
+  y: $4.14
+  yr: 1.69%
+  y5y: 1.88%
+  pr: 50.00%
+  pr5y: 50.00%
+  i: 13 Years
+- s: SXT
+  c: Sensient Technologies Corp. Dividend Information
+  r: 4
+  y: $1.64
+  yr: 2.36%
+  y5y: 2.24%
+  pr: 50.00%
+  pr5y: 60.00%
+  i: 17 Years
+- s: ATO
+  c: Atmos Energy Corp. Dividend Information
+  r: 4
+  y: $2.96
+  yr: 2.37%
+  y5y: 2.28%
+  pr: 50.00%
+  pr5y: 48.00%
+  i: 19 Years
+- s: USB
+  c: US Bancorp (DE) Dividend Information
+  r: 4
+  y: $1.92
+  yr: 4.91%
+  y5y: 3.85%
+  pr: 51.00%
+  pr5y: 43.00%
+  i: 12 Years
+- s: UPS
+  c: Cl B Com/United Parcel Service Inc Dividend Information
+  r: 4
+  y: $6.48
+  yr: 3.36%
+  y5y: 3.13%
+  pr: 51.00%
+  pr5y: 71.00%
+  i: 13 Years
+- s: VZ
+  c: Verizon Communications Inc Dividend Information
+  r: 4
+  y: $2.61
+  yr: 7.76%
+  y5y: 5.23%
+  pr: 51.00%
+  pr5y: 55.00%
+  i: 19 Years
+- s: UDR
+  c: UDR Inc Dividend Information
+  r: 4
+  y: $1.68
+  yr: 3.71%
+  y5y: 3.30%
+  pr: 516.00%
+  pr5y: 404.00%
+  i: 12 Years
+- s: IPG
+  c: Interpublic Group of Companies Inc. Dividend Information
+  r: 4
+  y: $1.24
+  yr: 3.16%
+  y5y: 3.96%
+  pr: 52.00%
+  pr5y: 66.00%
+  i: 10 Years
+- s: MKC
+  c: Com Non Vtg/McCormick & Co Inc Dividend Information
+  r: 4
+  y: $1.56
+  yr: 1.76%
+  y5y: 1.59%
+  pr: 52.00%
+  pr5y: 0.00%
+  i: 19 Years
+- s: HON
+  c: Honeywell International Inc Dividend Information
+  r: 4
+  y: $4.12
+  yr: 1.96%
+  y5y: 1.98%
+  pr: 53.00%
+  pr5y: 47.00%
+  i: 12 Years
+- s: NEE
+  c: NextEra Energy Inc Dividend Information
+  r: 4
+  y: $1.87
+  yr: 2.41%
+  y5y: 2.11%
+  pr: 53.00%
+  pr5y: 82.00%
+  i: 19 Years
+- s: AMGN
+  c: Amgen Inc Dividend Information
+  r: 4
+  y: $8.52
+  yr: 3.49%
+  y5y: 2.93%
+  pr: 55.00%
+  pr5y: 56.00%
+  i: 11 Years
+- s: CSCO
+  c: Cisco Systems Inc Dividend Information
+  r: 4
+  y: $1.56
+  yr: 2.94%
+  y5y: 2.89%
+  pr: 55.00%
+  pr5y: 54.00%
+  i: 11 Years
+- s: TXN
+  c: Texas Instruments Inc. Dividend Information
+  r: 4
+  y: $4.96
+  yr: 2.71%
+  y5y: 2.51%
+  pr: 55.00%
+  pr5y: 55.00%
+  i: 19 Years
+- s: MRK
+  c: Merck & Co Inc Dividend Information
+  r: 4
+  y: $2.92
+  yr: 2.66%
+  y5y: 2.99%
+  pr: 56.00%
+  pr5y: 69.00%
+  i: 11 Years
+- s: GS
+  c: Goldman Sachs Group Inc Dividend Information
+  r: 4
+  y: $11.00
+  yr: 2.85%
+  y5y: 2.12%
+  pr: 57.00%
+  pr5y: 19.00%
+  i: 11 Years
+- s: LMAT
+  c: LeMaitre Vascular Inc Dividend Information
+  r: 4
+  y: $0.56
+  yr: 0.80%
+  y5y: 0.98%
+  pr: 57.00%
+  pr5y: 43.00%
+  i: 11 Years
+- s: WASH
+  c: Washington Trust Bancorp, Inc. Dividend Information
+  r: 4
+  y: $2.24
+  yr: 7.72%
+  y5y: 5.12%
+  pr: 57.00%
+  pr5y: 51.00%
+  i: 12 Years
+- s: IDA
+  c: Idacorp Inc Dividend Information
+  r: 4
+  y: $3.16
+  yr: 2.97%
+  y5y: 2.76%
+  pr: 59.00%
+  pr5y: 58.00%
+  i: 11 Years
+- s: PNM
+  c: PNM Resources Inc Dividend Information
+  r: 4
+  y: $1.47
+  yr: 3.14%
+  y5y: 2.77%
+  pr: 59.00%
+  pr5y: 65.00%
+  i: 11 Years
+- s: YORW
+  c: York Water Co Dividend Information
+  r: 4
+  y: $0.81
+  yr: 1.88%
+  y5y: 1.73%
+  pr: 59.00%
+  pr5y: 60.00%
+  i: 19 Years
+- s: MATX
+  c: Matson Inc Dividend Information
+  r: 4
+  y: $1.28
+  yr: 1.51%
+  y5y: 1.76%
+  pr: 6.00%
+  pr5y: 21.00%
+  i: 10 Years
+- s: SRE
+  c: Sempra Dividend Information
+  r: 4
+  y: $4.76
+  yr: 3.12%
+  y5y: 3.05%
+  pr: 60.00%
+  pr5y: 63.00%
+  i: 19 Years
+- s: TRNO
+  c: Terreno Realty Corp Dividend Information
+  r: 4
+  y: $1.60
+  yr: 2.68%
+  y5y: 2.14%
+  pr: 61.00%
+  pr5y: 93.00%
+  i: 11 Years
+- s: XYL
+  c: Xylem Inc Dividend Information
+  r: 4
+  y: $1.32
+  yr: 1.11%
+  y5y: 1.18%
+  pr: 61.00%
+  pr5y: 53.00%
+  i: 11 Years
+- s: BLK
+  c: BlackRock Inc Dividend Information
+  r: 4
+  y: $20.00
+  yr: 2.63%
+  y5y: 2.47%
+  pr: 61.00%
+  pr5y: 50.00%
+  i: 13 Years
+- s: SJM
+  c: Smucker (J.M.) Co. Dividend Information
+  r: 4
+  y: $4.24
+  yr: 2.68%
+  y5y: 2.95%
+  pr: 61.00%
+  pr5y: 60.00%
+  i: 13 Years
+- s: ARTNA
+  c: Cl A/Artesian Resources Corp. Dividend Information
+  r: 4
+  y: $1.14
+  yr: 2.27%
+  y5y: 2.49%
+  pr: 61.00%
+  pr5y: 60.00%
+  i: 19 Years
+- s: SR
+  c: Spire Inc Dividend Information
+  r: 4
+  y: $2.88
+  yr: 4.35%
+  y5y: 3.70%
+  pr: 61.00%
+  pr5y: 99.00%
+  i: 19 Years
+- s: BR
+  c: Broadridge Financial Solutions Inc Dividend Information
+  r: 4
+  y: $2.90
+  yr: 1.71%
+  y5y: 1.58%
+  pr: 62.00%
+  pr5y: 54.00%
+  i: 15 Years
+- s: AIZ
+  c: Assurant Inc Dividend Information
+  r: 4
+  y: $2.80
+  yr: 2.15%
+  y5y: 2.00%
+  pr: 62.00%
+  pr5y: 38.00%
+  i: 18 Years
+- s: MSEX
+  c: Middlesex Water Co. Dividend Information
+  r: 4
+  y: $1.25
+  yr: 1.47%
+  y5y: 1.40%
+  pr: 62.00%
+  pr5y: 0.00%
+  i: 19 Years
+- s: XEL
+  c: Xcel Energy Inc Dividend Information
+  r: 4
+  y: $2.08
+  yr: 3.12%
+  y5y: 2.73%
+  pr: 62.00%
+  pr5y: 63.00%
+  i: 19 Years
+- s: ES
+  c: Eversource Energy Dividend Information
+  r: 4
+  y: $2.70
+  yr: 3.57%
+  y5y: 2.91%
+  pr: 63.00%
+  pr5y: 67.00%
+  i: 19 Years
+- s: CHD
+  c: Church & Dwight Co Inc Dividend Information
+  r: 4
+  y: $1.09
+  yr: 1.10%
+  y5y: 1.13%
+  pr: 64.00%
+  pr5y: 40.00%
+  i: 19 Years
+- s: CBU
+  c: Community Bank System Inc Dividend Information
+  r: 4
+  y: $1.80
+  yr: 3.49%
+  y5y: 2.75%
+  pr: 65.00%
+  pr5y: 53.00%
+  i: 19 Years
+- s: WTRG
+  c: Essential Utilities Inc Dividend Information
+  r: 4
+  y: $1.15
+  yr: 2.71%
+  y5y: 2.26%
+  pr: 66.00%
+  pr5y: 77.00%
+  i: 19 Years
+- s: BDX
+  c: Becton, Dickinson & Co Dividend Information
+  r: 4
+  y: $3.64
+  yr: 1.37%
+  y5y: 1.33%
+  pr: 67.00%
+  pr5y: 81.00%
+  i: 11 Years
+- s: POR
+  c: Portland General Electric Co. Dividend Information
+  r: 4
+  y: $1.90
+  yr: 3.78%
+  y5y: 3.41%
+  pr: 67.00%
+  pr5y: 71.00%
+  i: 16 Years
+- s: AXS
+  c: Ord/AXIS Capital Holdings Ltd Dividend Information
+  r: 4
+  y: $1.75
+  yr: 3.21%
+  y5y: 3.31%
+  pr: 67.00%
+  pr5y: 122.00%
+  i: 19 Years
+- s: SBUX
+  c: Starbucks Corp. Dividend Information
+  r: 4
+  y: $2.12
+  yr: 2.06%
+  y5y: 1.92%
+  pr: 68.00%
+  pr5y: 89.00%
+  i: 12 Years
+- s: LNT
+  c: Alliant Energy Corp Dividend Information
+  r: 4
+  y: $1.81
+  yr: 3.21%
+  y5y: 2.90%
+  pr: 68.00%
+  pr5y: 63.00%
+  i: 19 Years
+- s: AEL
+  c: American Equity Investment Life Holding Co Dividend Information
+  r: 4
+  y: $0.36
+  yr: 0.67%
+  y5y: 0.98%
+  pr: 7.00%
+  pr5y: 8.00%
+  i: 19 Years
+- s: WDFC
+  c: WD-40 Co Dividend Information
+  r: 4
+  y: $3.32
+  yr: 1.51%
+  y5y: 1.40%
+  pr: 70.00%
+  pr5y: 61.00%
+  i: 13 Years
+- s: WEC
+  c: WEC Energy Group Inc Dividend Information
+  r: 4
+  y: $3.12
+  yr: 3.30%
+  y5y: 2.88%
+  pr: 70.00%
+  pr5y: 67.00%
+  i: 19 Years
+- s: AOS
+  c: Smith (A O) Corp Dividend Information
+  r: 4
+  y: $1.20
+  yr: 1.55%
+  y5y: 1.74%
+  pr: 74.00%
+  pr5y: 46.00%
+  i: 19 Years
+- s: BMY
+  c: Bristol Myers Squibb Co. Dividend Information
+  r: 4
+  y: $2.28
+  yr: 3.53%
+  y5y: 3.21%
+  pr: 76.00%
+  pr5y: 0.00%
+  i: 13 Years
+- s: MMP
+  c: Com Unit Rep Ltd Part/Magellan Midstream Partners LP Dividend Information
+  r: 4
+  y: $4.19
+  yr: 6.41%
+  y5y: 7.90%
+  pr: 76.00%
+  pr5y: 91.00%
+  i: 19 Years
+- s: AES
+  c: AES Corp Dividend Information
+  r: 4
+  y: $0.66
+  yr: 2.97%
+  y5y: 3.05%
+  pr: 78.00%
+  pr5y: 0.00%
+  i: 10 Years
+- s: OGE
+  c: OGE Energy Corp Dividend Information
+  r: 4
+  y: $1.66
+  yr: 4.53%
+  y5y: 4.38%
+  pr: 79.00%
+  pr5y: 67.00%
+  i: 16 Years
+- s: NWE
+  c: NorthWestern Corp. Dividend Information
+  r: 4
+  y: $2.56
+  yr: 4.38%
+  y5y: 4.08%
+  pr: 79.00%
+  pr5y: 71.00%
+  i: 17 Years
+- s: STLD
+  c: Steel Dynamics Inc. Dividend Information
+  r: 4
+  y: $1.70
+  yr: 1.50%
+  y5y: 2.28%
+  pr: 8.00%
+  pr5y: 18.00%
+  i: 12 Years
+- s: NUE
+  c: Nucor Corp. Dividend Information
+  r: 4
+  y: $2.04
+  yr: 1.22%
+  y5y: 2.27%
+  pr: 8.00%
+  pr5y: 26.00%
+  i: 13 Years
+- s: CMS
+  c: CMS Energy Corp Dividend Information
+  r: 4
+  y: $1.95
+  yr: 3.07%
+  y5y: 2.74%
+  pr: 81.00%
+  pr5y: 61.00%
+  i: 15 Years
+- s: ALE
+  c: Allete Inc Dividend Information
+  r: 4
+  y: $2.71
+  yr: 4.50%
+  y5y: 3.86%
+  pr: 83.00%
+  pr5y: 73.00%
+  i: 12 Years
+- s: PNW
+  c: Pinnacle West Capital Corp Dividend Information
+  r: 4
+  y: $3.46
+  yr: 4.08%
+  y5y: 3.94%
+  pr: 84.00%
+  pr5y: 68.00%
+  i: 11 Years
+- s: AEP
+  c: American Electric Power Co Inc Dividend Information
+  r: 4
+  y: $3.32
+  yr: 3.77%
+  y5y: 3.32%
+  pr: 85.00%
+  pr5y: 69.00%
+  i: 13 Years
+- s: CMCSA
+  c: Cl A/Comcast Corp Dividend Information
+  r: 4
+  y: $1.16
+  yr: 2.59%
+  y5y: 2.13%
+  pr: 85.00%
+  pr5y: 44.00%
+  i: 14 Years
+- s: FLO
+  c: Flowers Foods, Inc. Dividend Information
+  r: 4
+  y: $0.92
+  yr: 3.60%
+  y5y: 3.35%
+  pr: 89.00%
+  pr5y: 108.00%
+  i: 19 Years
+- s: SO
+  c: Southern Company (The) Dividend Information
+  r: 4
+  y: $2.80
+  yr: 3.86%
+  y5y: 4.14%
+  pr: 89.00%
+  pr5y: 87.00%
+  i: 19 Years
+- s: MCK
+  c: McKesson Corp Dividend Information
+  r: 4
+  y: $2.16
+  yr: 0.52%
+  y5y: 0.83%
+  pr: 9.00%
+  pr5y: 59.00%
+  i: 15 Years
+- s: PM
+  c: Philip Morris International Inc Dividend Information
+  r: 4
+  y: $5.08
+  yr: 5.17%
+  y5y: 5.47%
+  pr: 91.00%
+  pr5y: 90.00%
+  i: 14 Years
+- s: MET
+  c: MetLife Inc Dividend Information
+  r: 4
+  y: $2.08
+  yr: 3.31%
+  y5y: 3.57%
+  pr: 92.00%
+  pr5y: 41.00%
+  i: 10 Years
+- s: LHX
+  c: L3Harris Technologies Inc Dividend Information
+  r: 4
+  y: $4.56
+  yr: 2.26%
+  y5y: 1.83%
+  pr: 95.00%
+  pr5y: 55.00%
+  i: 19 Years
+- s: PLOW
+  c: Douglas Dynamics, Inc. Dividend Information
+  r: 4
+  y: $1.18
+  yr: 3.83%
+  y5y: 3.28%
+  pr: 96.00%
+  pr5y: 54.00%
+  i: 10 Years
+- s: MAA
+  c: Mid-America Apartment Communities Inc Dividend Information
+  r: 4
+  y: $5.60
+  yr: 3.55%
+  y5y: 3.02%
+  pr: 96.00%
+  pr5y: 137.00%
+  i: 12 Years
+- s: HMN
+  c: Horace Mann Educators Corp. Dividend Information
+  r: 4
+  y: $1.32
+  yr: 4.39%
+  y5y: 3.42%
+  pr: 96.00%
+  pr5y: 45.00%
+  i: 13 Years
+- s: AVA
+  c: Avista Corp Dividend Information
+  r: 4
+  y: $1.84
+  yr: 4.55%
+  y5y: 4.02%
+  pr: 96.00%
+  pr5y: 79.00%
+  i: 19 Years
+- s: MATW
+  c: Cl A Com/Matthews International Corp Dividend Information
+  r: 4
+  y: $0.92
+  yr: 1.88%
+  y5y: 2.86%
+  pr: 961.00%
+  pr5y: 31.00%
+  i: 19 Years
+- s: K
+  c: Kellogg Co Dividend Information
+  r: 4
+  y: $2.36
+  yr: 3.48%
+  y5y: 3.53%
+  pr: 98.00%
+  pr5y: 75.00%
+  i: 19 Years
+- s: STN
+  c: Stantec Inc Dividend Information
+  r: 4
+  y: 0.78 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 10 Years
+- s: CM
+  c: Canadian Imperial Bank Of Commerce (Toronto, Ontario) Dividend Information
+  r: 4
+  y: 3.48 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 12 Years
+- s: RY
+  c: Royal Bank of Canada (Montreal, Quebec) Dividend Information
+  r: 4
+  y: 5.40 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 12 Years
+- s: TD
+  c: Toronto Dominion Bank Dividend Information
+  r: 4
+  y: 3.84 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 12 Years
+- s: BCE
+  c: BCE Inc Dividend Information
+  r: 4
+  y: 3.87 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 14 Years
+- s: CNI
+  c: Canadian National Railway Co Dividend Information
+  r: 4
+  y: 3.16 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 19 Years
+- s: ENB
+  c: Enbridge Inc Dividend Information
+  r: 4
+  y: 3.55 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 19 Years
+- s: FTS
+  c: Fortis Inc Dividend Information
+  r: 4
+  y: 2.26 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 19 Years
+- s: IMO
+  c: Imperial Oil Ltd Dividend Information
+  r: 4
+  y: 2.00 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 19 Years
+- s: TRP
+  c: TC Energy Corp Dividend Information
+  r: 4
+  y: 3.72 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 19 Years
+- s: TU
+  c: TELUS Corp Dividend Information
+  r: 4
+  y: 1.45 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 19 Years
+- s: CUBA
+  c: Herzfeld Caribbean Basin Fund Inc. Dividend Information
+  r: 3
+  y: $0.69
+  yr: 17.38%
+  y5y: 17.86%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: DIVB
+  c: iShares Core Dividend ETF/iShares Trust Dividend Information
+  r: 3
+  y: $1.01
+  yr: 2.55%
+  y5y: 2.13%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: EQWL
+  c: S&P 100 Equal Weight ETF/Invesco Exchange-Traded Fund Trust Dividend Information
+  r: 3
+  y: $1.62
+  yr: 1.93%
+  y5y: 2.03%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: IEO
+  c: iShares U.S. Oil & Gas Exploration & Production ETF/iShares Trust Dividend Information
+  r: 3
+  y: $3.69
+  yr: 4.07%
+  y5y: 2.80%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: INCO
+  c: Columbia India Consumer ETF/Columbia ETF Trust II Dividend Information
+  r: 3
+  y: $0.11
+  yr: 9.14%
+  y5y: 3.26%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: ISCB
+  c: Morningstar Small Cap ETF/iShares Trust Dividend Information
+  r: 3
+  y: $0.81
+  yr: 1.57%
+  y5y: 3.22%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: PFM
+  c: Divid Achievers ETF/Invesco Exchange-Traded Fund Trust Dividend Information
+  r: 3
+  y: $0.70
+  yr: 1.80%
+  y5y: 1.93%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: TPYP
+  c: Tortoise North Amern Pipeline Fd/Managed Portfolio Series Dividend Information
+  r: 3
+  y: $1.21
+  yr: 4.75%
+  y5y: 4.85%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: USMF
+  c: US Multifactor Fd/WisdomTree Trust Dividend Information
+  r: 3
+  y: $0.61
+  yr: 1.54%
+  y5y: 1.47%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: VSDA
+  c: VictoryShares Dividend Accelerator ETF/Victory Portfolios II Dividend Information
+  r: 3
+  y: $0.95
+  yr: 1.86%
+  y5y: 1.56%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: XSHQ
+  c: S&P SmallCap Quality ETF/Invesco Exchange-Traded Fund Trust II Dividend Information
+  r: 3
+  y: $0.58
+  yr: 1.55%
+  y5y: 1.43%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: FMAT
+  c: MSCI Matls Index ETF/Fidelity Covington Trust Dividend Information
+  r: 3
+  y: $0.82
+  yr: 1.72%
+  y5y: 1.85%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: FQAL
+  c: Quality Factor ETF/Fidelity Covington Trust Dividend Information
+  r: 3
+  y: $0.69
+  yr: 1.34%
+  y5y: 1.44%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: JPSE
+  c: Diversified Returns US Small Cap Equity ETF/JPMorgan Exchange-Traded Fund Trust
+    Dividend Information
+  r: 3
+  y: $0.72
+  yr: 1.71%
+  y5y: 1.37%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: CDL
+  c: VictoryShares US Large Cap High Div Volatility Wtd ETF/Victory Portfolios II
+    Dividend Information
+  r: 3
+  y: $2.01
+  yr: 3.44%
+  y5y: 3.21%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 7 Years
+- s: SPTM
+  c: SPDR Portfolio S&P 1500 Composite Stock Market ETF/SPDR Series Trust Dividend
+    Information
+  r: 3
+  y: $0.82
+  yr: 1.48%
+  y5y: 1.59%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 7 Years
+- s: DGRO
+  c: iShares Core Divid Growth ETF/iShares Trust Dividend Information
+  r: 3
+  y: $1.23
+  yr: 2.32%
+  y5y: 2.25%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 8 Years
+- s: ITB
+  c: iShares U.S. Home Construction ETF/iShares Trust Dividend Information
+  r: 3
+  y: $0.51
+  yr: 0.59%
+  y5y: 0.54%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 9 Years
+- s: PEY
+  c: High Yield Equity Divid Achievers ETF/Invesco Exchange-Traded Fund Trust Dividend
+    Information
+  r: 3
+  y: $0.88
+  yr: 4.37%
+  y5y: 4.24%
+  pr: 0.00%
+  pr5y: 0.00%
+  i: 9 Years
+- s: ACRE
+  c: Ares Commercial Real Estate Corp Dividend Information
+  r: 3
+  y: $1.32
+  yr: 13.17%
+  y5y: 11.30%
+  pr: 1,000.00%
+  pr5y: 323.00%
+  i: 7 Years
+- s: CCOI
+  c: Cogent Communications Holdings, Inc. Dividend Information
+  r: 3
+  y: $3.74
+  yr: 5.90%
+  y5y: 4.39%
+  pr: 1,673.00%
+  pr5y: 749.00%
+  i: 8 Years
+- s: CW
+  c: Curtiss-Wright Corp. Dividend Information
+  r: 3
+  y: $0.80
+  yr: 0.40%
+  y5y: 0.56%
+  pr: 10.00%
+  pr5y: 11.00%
+  i: 6 Years
+- s: CHDN
+  c: Churchill Downs, Inc. Dividend Information
+  r: 3
+  y: $0.71
+  yr: 0.54%
+  y5y: 0.73%
+  pr: 10.00%
+  pr5y: 12.00%
+  i: 8 Years
+- s: ROP
+  c: Roper Technologies Inc Dividend Information
+  r: 3
+  y: $2.73
+  yr: 0.55%
+  y5y: 0.51%
+  pr: 10.00%
+  pr5y: 14.00%
+  i: 9 Years
+- s: KMI
+  c: Kinder Morgan Inc. Dividend Information
+  r: 3
+  y: $1.13
+  yr: 6.32%
+  y5y: 5.96%
+  pr: 100.00%
+  pr5y: 146.00%
+  i: 5 Years
+- s: XLB
+  c: Materials/Select Sector SPDR Trust Dividend Information
+  r: 3
+  y: $1.64
+  yr: 1.96%
+  y5y: 1.96%
+  pr: 100.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: SWX
+  c: Southwest Gas Holdings, Inc. Dividend Information
+  r: 3
+  y: $2.48
+  yr: 3.77%
+  y5y: 3.07%
+  pr: 101.00%
+  pr5y: 65.00%
+  i: 5 Years
+- s: VAW
+  c: Vanguard Materials ETF/Vanguard Sector Index Funds Dividend Information
+  r: 3
+  y: $3.25
+  yr: 1.76%
+  y5y: 1.82%
+  pr: 102.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: PLD
+  c: Prologis Inc Dividend Information
+  r: 3
+  y: $3.48
+  yr: 2.68%
+  y5y: 2.34%
+  pr: 103.00%
+  pr5y: 88.00%
+  i: 9 Years
+- s: HOFT
+  c: Hooker Furnishings Corp Dividend Information
+  r: 3
+  y: $0.88
+  yr: 4.12%
+  y5y: 3.30%
+  pr: 104.00%
+  pr5y: 26.00%
+  i: 7 Years
+- s: EPS
+  c: US LargeCap Fund/WisdomTree Trust Dividend Information
+  r: 3
+  y: $0.85
+  yr: 1.77%
+  y5y: 1.80%
+  pr: 105.00%
+  pr5y: 110.00%
+  i: 5 Years
+- s: EQR
+  c: Equity Residential Dividend Information
+  r: 3
+  y: $2.65
+  yr: 3.76%
+  y5y: 3.42%
+  pr: 106.00%
+  pr5y: 100.00%
+  i: 5 Years
+- s: EUSA
+  c: iShares MSCI USA Equal Weighted ETF/iShares Inc. Dividend Information
+  r: 3
+  y: $1.28
+  yr: 1.57%
+  y5y: 1.56%
+  pr: 108.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: TSM
+  c: ADR (Sponsored)/Taiwan Semiconductor Manufacturing Co., Ltd. Dividend Information
+  r: 3
+  y: $1.41
+  yr: 1.43%
+  y5y: 1.72%
+  pr: 109.00%
+  pr5y: 117.00%
+  i: 8 Years
+- s: XLU
+  c: Utilities/Select Sector SPDR Trust Dividend Information
+  r: 3
+  y: $2.10
+  yr: 3.07%
+  y5y: 3.08%
+  pr: 109.00%
+  pr5y: 0.00%
+  i: 8 Years
+- s: DHR
+  c: Danaher Corp Dividend Information
+  r: 3
+  y: $1.08
+  yr: 0.43%
+  y5y: 0.38%
+  pr: 11.00%
+  pr5y: 13.00%
+  i: 5 Years
+- s: NPO
+  c: EnPro Industries Inc Dividend Information
+  r: 3
+  y: $1.16
+  yr: 0.80%
+  y5y: 1.39%
+  pr: 11.00%
+  pr5y: 25.00%
+  i: 7 Years
+- s: SCVL
+  c: Shoe Carnival, Inc. Dividend Information
+  r: 3
+  y: $0.40
+  yr: 1.59%
+  y5y: 1.20%
+  pr: 11.00%
+  pr5y: 16.00%
+  i: 9 Years
+- s: DKL
+  c: Com Unit Repstg Ltd Partnership Int/Delek Logistics Partners LP Dividend Information
+  r: 3
+  y: $4.10
+  yr: 8.45%
+  y5y: 9.89%
+  pr: 111.00%
+  pr5y: 107.00%
+  i: 9 Years
+- s: XLP
+  c: Consumer Staples/Select Sector SPDR Trust Dividend Information
+  r: 3
+  y: $1.86
+  yr: 2.46%
+  y5y: 2.54%
+  pr: 112.00%
+  pr5y: 0.00%
+  i: 8 Years
+- s: VIG
+  c: Dividend Appreciation ETF/Vanguard Specialized Funds Dividend Information
+  r: 3
+  y: $3.11
+  yr: 1.87%
+  y5y: 1.78%
+  pr: 112.00%
+  pr5y: 110.00%
+  i: 9 Years
+- s: FCPT
+  c: Four Corners Property Trust Inc Dividend Information
+  r: 3
+  y: $1.36
+  yr: 5.04%
+  y5y: 4.72%
+  pr: 113.00%
+  pr5y: 112.00%
+  i: 5 Years
+- s: ELS
+  c: Equity Lifestyle Properties Inc Dividend Information
+  r: 3
+  y: $1.79
+  yr: 2.42%
+  y5y: 2.08%
+  pr: 113.00%
+  pr5y: 96.00%
+  i: 9 Years
+- s: JJSF
+  c: J&J Snack Foods Corp. Dividend Information
+  r: 3
+  y: $2.80
+  yr: 1.74%
+  y5y: 1.59%
+  pr: 116.00%
+  pr5y: 647.00%
+  i: 9 Years
+- s: HTGC
+  c: Hercules Capital Inc Dividend Information
+  r: 3
+  y: $1.56
+  yr: 11.98%
+  y5y: 11.07%
+  pr: 117.00%
+  pr5y: 112.00%
+  i: 5 Years
+- s: WPC
+  c: W.P. Carey Inc Dividend Information
+  r: 3
+  y: $4.28
+  yr: 5.97%
+  y5y: 5.49%
+  pr: 119.00%
+  pr5y: 163.00%
+  i: 9 Years
+- s: PETS
+  c: PetMed Express Inc Dividend Information
+  r: 3
+  y: $1.20
+  yr: 8.84%
+  y5y: 5.63%
+  pr: 12,000.00%
+  pr5y: 2,467.00%
+  i: 9 Years
+- s: ODFL
+  c: Old Dominion Freight Line, Inc. Dividend Information
+  r: 3
+  y: $1.60
+  yr: 0.35%
+  y5y: 0.33%
+  pr: 12.00%
+  pr5y: 10.00%
+  i: 5 Years
+- s: KAI
+  c: Kadant Inc Dividend Information
+  r: 3
+  y: $1.16
+  yr: 0.51%
+  y5y: 0.69%
+  pr: 12.00%
+  pr5y: 16.00%
+  i: 9 Years
+- s: UNTY
+  c: Unity Bancorp, Inc. Dividend Information
+  r: 3
+  y: $0.48
+  yr: 1.74%
+  y5y: 1.65%
+  pr: 12.00%
+  pr5y: 13.00%
+  i: 9 Years
+- s: ALL
+  c: Allstate Corp Dividend Information
+  r: 3
+  y: $3.56
+  yr: 3.11%
+  y5y: 2.42%
+  pr: 120.00%
+  pr5y: 40.00%
+  i: 9 Years
+- s: XLF
+  c: Financial/Select Sector SPDR Trust Dividend Information
+  r: 3
+  y: $0.69
+  yr: 1.94%
+  y5y: 2.00%
+  pr: 121.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: DSI
+  c: iShares MSCI KLD 400 Social ETF/iShares Trust Dividend Information
+  r: 3
+  y: $1.05
+  yr: 1.22%
+  y5y: 1.26%
+  pr: 126.00%
+  pr5y: 0.00%
+  i: 9 Years
+- s: IFF
+  c: International Flavors & Fragrances Inc. Dividend Information
+  r: 3
+  y: $3.24
+  yr: 3.88%
+  y5y: 2.61%
+  pr: 127.00%
+  pr5y: 129.00%
+  i: 9 Years
+- s: IIPR
+  c: Innovative Industrial Properties Inc Dividend Information
+  r: 3
+  y: $7.20
+  yr: 9.15%
+  y5y: 4.81%
+  pr: 128.00%
+  pr5y: 140.00%
+  i: 5 Years
+- s: WSFS
+  c: WSFS Financial Corp Dividend Information
+  r: 3
+  y: $0.60
+  yr: 1.43%
+  y5y: 1.35%
+  pr: 13.00%
+  pr5y: 15.00%
+  i: 6 Years
+- s: VSH
+  c: Vishay Intertechnology, Inc. Dividend Information
+  r: 3
+  y: $0.40
+  yr: 1.40%
+  y5y: 1.96%
+  pr: 13.00%
+  pr5y: 25.00%
+  i: 7 Years
+- s: ISTR
+  c: Investar Holding Corp Dividend Information
+  r: 3
+  y: $0.40
+  yr: 2.89%
+  y5y: 1.63%
+  pr: 13.00%
+  pr5y: 18.00%
+  i: 8 Years
+- s: AVT
+  c: Avnet Inc Dividend Information
+  r: 3
+  y: $1.16
+  yr: 2.42%
+  y5y: 2.38%
+  pr: 13.00%
+  pr5y: 35.00%
+  i: 9 Years
+- s: GHC
+  c: Cl B Com/Graham Holdings Co. Dividend Information
+  r: 3
+  y: $6.60
+  yr: 1.12%
+  y5y: 1.07%
+  pr: 131.00%
+  pr5y: 34.00%
+  i: 6 Years
+- s: ABBV
+  c: AbbVie Inc Dividend Information
+  r: 3
+  y: $5.92
+  yr: 4.11%
+  y5y: 4.59%
+  pr: 138.00%
+  pr5y: 120.00%
+  i: 9 Years
+- s: FWRD
+  c: Forward Air Corp Dividend Information
+  r: 3
+  y: $0.96
+  yr: 0.82%
+  y5y: 1.06%
+  pr: 14.00%
+  pr5y: 33.00%
+  i: 7 Years
+- s: OC
+  c: Owens Corning Dividend Information
+  r: 3
+  y: $2.08
+  yr: 1.46%
+  y5y: 1.45%
+  pr: 14.00%
+  pr5y: 17.00%
+  i: 8 Years
+- s: SSD
+  c: Simpson Manufacturing Co., Inc. (DE) Dividend Information
+  r: 3
+  y: $1.08
+  yr: 0.70%
+  y5y: 0.99%
+  pr: 14.00%
+  pr5y: 22.00%
+  i: 9 Years
+- s: INVH
+  c: Invitation Homes Inc Dividend Information
+  r: 3
+  y: $1.04
+  yr: 2.69%
+  y5y: 2.05%
+  pr: 141.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: REXR
+  c: Rexford Industrial Realty Inc Dividend Information
+  r: 3
+  y: $1.52
+  yr: 2.57%
+  y5y: 1.91%
+  pr: 146.00%
+  pr5y: 154.00%
+  i: 7 Years
+- s: EQIX
+  c: Com Par $0.001/Equinix Inc Dividend Information
+  r: 3
+  y: $13.64
+  yr: 1.61%
+  y5y: 1.62%
+  pr: 148.00%
+  pr5y: 199.00%
+  i: 6 Years
+- s: STAG
+  c: STAG Industrial Inc Dividend Information
+  r: 3
+  y: $1.47
+  yr: 3.87%
+  y5y: 4.34%
+  pr: 149.00%
+  pr5y: 168.00%
+  i: 8 Years
+- s: AMAT
+  c: Applied Materials, Inc. Dividend Information
+  r: 3
+  y: $1.28
+  yr: 0.82%
+  y5y: 1.10%
+  pr: 15.00%
+  pr5y: 19.00%
+  i: 5 Years
+- s: NNI
+  c: Cl A/Nelnet Inc Dividend Information
+  r: 3
+  y: $1.04
+  yr: 1.03%
+  y5y: 1.14%
+  pr: 15.00%
+  pr5y: 20.00%
+  i: 8 Years
+- s: GCBC
+  c: Greene County Bancorp Inc Dividend Information
+  r: 3
+  y: $0.32
+  yr: 0.88%
+  y5y: 2.59%
+  pr: 15.00%
+  pr5y: 32.00%
+  i: 9 Years
+- s: IAI
+  c: US Broker-Dealers & Securities Exchanges ETF/iShares Trust Dividend Information
+  r: 3
+  y: $1.87
+  yr: 1.91%
+  y5y: 1.74%
+  pr: 155.00%
+  pr5y: 0.00%
+  i: 9 Years
+- s: NXRT
+  c: NexPoint Residential Trust Inc Dividend Information
+  r: 3
+  y: $1.68
+  yr: 3.43%
+  y5y: 2.83%
+  pr: 158.00%
+  pr5y: 0.00%
+  i: 7 Years
+- s: BWFG
+  c: Bankwell Financial Group Inc Dividend Information
+  r: 3
+  y: $0.80
+  yr: 3.07%
+  y5y: 2.54%
+  pr: 16.00%
+  pr5y: 28.00%
+  i: 7 Years
+- s: RBCAA
+  c: Cl A Com/Republic Bancorp, Inc. (KY) Dividend Information
+  r: 3
+  y: $1.50
+  yr: 3.09%
+  y5y: 2.76%
+  pr: 16.00%
+  pr5y: 0.00%
+  i: 9 Years
+- s: CCI
+  c: Crown Castle Inc Dividend Information
+  r: 3
+  y: $6.26
+  yr: 5.73%
+  y5y: 3.59%
+  pr: 160.00%
+  pr5y: 225.00%
+  i: 8 Years
+- s: MLM
+  c: Martin Marietta Materials, Inc. Dividend Information
+  r: 3
+  y: $2.64
+  yr: 0.58%
+  y5y: 0.77%
+  pr: 17.00%
+  pr5y: 21.00%
+  i: 7 Years
+- s: EFSC
+  c: Enterprise Financial Services Corp Dividend Information
+  r: 3
+  y: $1.00
+  yr: 2.23%
+  y5y: 1.91%
+  pr: 17.00%
+  pr5y: 19.00%
+  i: 8 Years
+- s: THO
+  c: Thor Industries, Inc. Dividend Information
+  r: 3
+  y: $1.80
+  yr: 1.61%
+  y5y: 1.83%
+  pr: 17.00%
+  pr5y: 30.00%
+  i: 8 Years
+- s: TTEK
+  c: Tetra Tech Inc Dividend Information
+  r: 3
+  y: $1.04
+  yr: 0.55%
+  y5y: 0.61%
+  pr: 17.00%
+  pr5y: 19.00%
+  i: 8 Years
+- s: WTFC
+  c: Wintrust Financial Corp (IL) Dividend Information
+  r: 3
+  y: $1.60
+  yr: 1.76%
+  y5y: 1.76%
+  pr: 17.00%
+  pr5y: 18.00%
+  i: 9 Years
+- s: UMBF
+  c: UMB Financial Corp Dividend Information
+  r: 3
+  y: $1.52
+  yr: 2.20%
+  y5y: 1.96%
+  pr: 18.00%
+  pr5y: 23.00%
+  i: 9 Years
+- s: AMSF
+  c: Amerisafe Inc Dividend Information
+  r: 3
+  y: $1.36
+  yr: 9.76%
+  y5y: 8.57%
+  pr: 183.00%
+  pr5y: 131.00%
+  i: 9 Years
+- s: A
+  c: Agilent Technologies, Inc. Dividend Information
+  r: 3
+  y: $0.90
+  yr: 0.71%
+  y5y: 0.72%
+  pr: 19.00%
+  pr5y: 23.00%
+  i: 7 Years
+- s: SMMF
+  c: Summit Financial Group Inc Dividend Information
+  r: 3
+  y: $0.80
+  yr: 3.61%
+  y5y: 3.03%
+  pr: 19.00%
+  pr5y: 23.00%
+  i: 7 Years
+- s: HBCP
+  c: Home Bancorp Inc Dividend Information
+  r: 3
+  y: $1.00
+  yr: 2.84%
+  y5y: 2.66%
+  pr: 19.00%
+  pr5y: 23.00%
+  i: 8 Years
+- s: AL
+  c: Cl A/Air Lease Corp Dividend Information
+  r: 3
+  y: $0.80
+  yr: 1.74%
+  y5y: 1.71%
+  pr: 19.00%
+  pr5y: 0.00%
+  i: 9 Years
+- s: JBHT
+  c: Hunt (J.B.) Transport Services, Inc. Dividend Information
+  r: 3
+  y: $1.68
+  yr: 0.85%
+  y5y: 0.82%
+  pr: 19.00%
+  pr5y: 21.00%
+  i: 9 Years
+- s: CTRE
+  c: CareTrust REIT Inc Dividend Information
+  r: 3
+  y: $1.12
+  yr: 5.29%
+  y5y: 4.91%
+  pr: 198.00%
+  pr5y: 433.00%
+  i: 7 Years
+- s: CVCY
+  c: Central Valley Community Bancorp Dividend Information
+  r: 3
+  y: $0.48
+  yr: 3.12%
+  y5y: 2.65%
+  pr: 20.00%
+  pr5y: 23.00%
+  i: 5 Years
+- s: HIFS
+  c: Hingham Institution for Savings Dividend Information
+  r: 3
+  y: $2.52
+  yr: 1.44%
+  y5y: 1.10%
+  pr: 20.00%
+  pr5y: 14.00%
+  i: 6 Years
+- s: PKBK
+  c: Parke Bancorp Inc Dividend Information
+  r: 3
+  y: $0.72
+  yr: 3.99%
+  y5y: 3.61%
+  pr: 20.00%
+  pr5y: 23.00%
+  i: 8 Years
+- s: CFFI
+  c: Cmt-Com/C & F Financial Corp. Dividend Information
+  r: 3
+  y: $1.76
+  yr: 3.06%
+  y5y: 3.47%
+  pr: 20.00%
+  pr5y: 25.00%
+  i: 9 Years
+- s: AMT
+  c: American Tower Corp (New) Dividend Information
+  r: 3
+  y: $6.28
+  yr: 3.34%
+  y5y: 2.11%
+  pr: 207.00%
+  pr5y: 120.00%
+  i: 8 Years
+- s: EWBC
+  c: East West Bancorp, Inc Dividend Information
+  r: 3
+  y: $1.92
+  yr: 2.90%
+  y5y: 2.41%
+  pr: 21.00%
+  pr5y: 23.00%
+  i: 5 Years
+- s: DG
+  c: Dollar General Corp Dividend Information
+  r: 3
+  y: $2.36
+  yr: 1.35%
+  y5y: 0.88%
+  pr: 21.00%
+  pr5y: 19.00%
+  i: 7 Years
+- s: KLAC
+  c: KLA Corp Dividend Information
+  r: 3
+  y: $5.20
+  yr: 1.16%
+  y5y: 1.48%
+  pr: 21.00%
+  pr5y: 31.00%
+  i: 7 Years
+- s: NXST
+  c: Nexstar Media Group Inc Dividend Information
+  r: 3
+  y: $5.40
+  yr: 2.45%
+  y5y: 2.02%
+  pr: 21.00%
+  pr5y: 20.00%
+  i: 9 Years
+- s: SUI
+  c: Sun Communities Inc Dividend Information
+  r: 3
+  y: $3.72
+  yr: 2.62%
+  y5y: 2.20%
+  pr: 210.00%
+  pr5y: 185.00%
+  i: 6 Years
+- s: FXNC
+  c: First National Corp. (Strasburg, VA) Dividend Information
+  r: 3
+  y: $0.60
+  yr: 3.58%
+  y5y: 2.72%
+  pr: 22.00%
+  pr5y: 23.00%
+  i: 8 Years
+- s: NSA
+  c: Com Shs Ben Int/National Storage Affiliates Trust Dividend Information
+  r: 3
+  y: $2.24
+  yr: 6.39%
+  y5y: 4.28%
+  pr: 221.00%
+  pr5y: 0.00%
+  i: 7 Years
+- s: BCPC
+  c: Balchem Corp. Dividend Information
+  r: 3
+  y: $0.71
+  yr: 0.54%
+  y5y: 0.50%
+  pr: 23.00%
+  pr5y: 21.00%
+  i: 8 Years
+- s: HTLF
+  c: Heartland Financial USA, Inc. (Dubuque, IA) Dividend Information
+  r: 3
+  y: $1.20
+  yr: 3.50%
+  y5y: 2.38%
+  pr: 23.00%
+  pr5y: 21.00%
+  i: 8 Years
+- s: SFBS
+  c: ServisFirst Bancshares Inc Dividend Information
+  r: 3
+  y: $1.12
+  yr: 2.21%
+  y5y: 1.61%
+  pr: 23.00%
+  pr5y: 23.00%
+  i: 8 Years
+- s: BOKF
+  c: BOK Financial Corp Dividend Information
+  r: 3
+  y: $2.16
+  yr: 2.36%
+  y5y: 2.84%
+  pr: 23.00%
+  pr5y: 28.00%
+  i: 9 Years
+- s: FSBW
+  c: FS Bancorp Inc (Washington) Dividend Information
+  r: 3
+  y: $1.00
+  yr: 2.80%
+  y5y: 3.00%
+  pr: 23.00%
+  pr5y: 25.00%
+  i: 9 Years
+- s: TKR
+  c: Timken Co. (The) Dividend Information
+  r: 3
+  y: $1.32
+  yr: 1.35%
+  y5y: 1.94%
+  pr: 23.00%
+  pr5y: 26.00%
+  i: 9 Years
+- s: MPW
+  c: Medical Properties Trust Inc Dividend Information
+  r: 3
+  y: $1.16
+  yr: 11.30%
+  y5y: 7.02%
+  pr: 232.00%
+  pr5y: 128.00%
+  i: 9 Years
+- s: ITT
+  c: ITT Inc Dividend Information
+  r: 3
+  y: $1.16
+  yr: 1.13%
+  y5y: 1.06%
+  pr: 24.00%
+  pr5y: 35.00%
+  i: 6 Years
+- s: ACNB
+  c: ACNB Corp Dividend Information
+  r: 3
+  y: $1.12
+  yr: 3.32%
+  y5y: 3.39%
+  pr: 25.00%
+  pr5y: 32.00%
+  i: 5 Years
+- s: FBNC
+  c: First Bancorp (NC) Dividend Information
+  r: 3
+  y: $0.88
+  yr: 2.58%
+  y5y: 2.22%
+  pr: 25.00%
+  pr5y: 22.00%
+  i: 5 Years
+- s: GOLF
+  c: Acushnet Holdings Corp Dividend Information
+  r: 3
+  y: $0.78
+  yr: 1.33%
+  y5y: 1.56%
+  pr: 25.00%
+  pr5y: 41.00%
+  i: 5 Years
+- s: SF
+  c: Stifel Financial Corp Dividend Information
+  r: 3
+  y: $1.44
+  yr: 2.03%
+  y5y: 1.32%
+  pr: 25.00%
+  pr5y: 14.00%
+  i: 5 Years
+- s: CRAI
+  c: CRA International Inc Dividend Information
+  r: 3
+  y: $1.44
+  yr: 1.34%
+  y5y: 1.59%
+  pr: 25.00%
+  pr5y: 26.00%
+  i: 6 Years
+- s: TRTN
+  c: Cl A/Triton International Ltd Dividend Information
+  r: 3
+  y: $2.80
+  yr: 3.26%
+  y5y: 5.09%
+  pr: 25.00%
+  pr5y: 40.00%
+  i: 6 Years
+- s: IROQ
+  c: IF Bancorp, Inc. Dividend Information
+  r: 3
+  y: $0.40
+  yr: 2.63%
+  y5y: 1.80%
+  pr: 25.00%
+  pr5y: 23.00%
+  i: 7 Years
+- s: BANF
+  c: BancFirst Corp. (Oklahoma City, Okla) Dividend Information
+  r: 3
+  y: $1.60
+  yr: 1.55%
+  y5y: 2.20%
+  pr: 25.00%
+  pr5y: 32.00%
+  i: 9 Years
+- s: FMBH
+  c: First Mid Bancshares Inc Dividend Information
+  r: 3
+  y: $0.92
+  yr: 3.22%
+  y5y: 2.59%
+  pr: 25.00%
+  pr5y: 28.00%
+  i: 9 Years
+- s: CCBG
+  c: Capital City Bank Group, Inc. Dividend Information
+  r: 3
+  y: $0.72
+  yr: 2.13%
+  y5y: 2.20%
+  pr: 26.00%
+  pr5y: 29.00%
+  i: 8 Years
+- s: BAC
+  c: Bank of America Corp Dividend Information
+  r: 3
+  y: $0.96
+  yr: 2.78%
+  y5y: 2.46%
+  pr: 26.00%
+  pr5y: 28.00%
+  i: 9 Years
+- s: IOSP
+  c: Innospec Inc Dividend Information
+  r: 3
+  y: $1.38
+  yr: 1.27%
+  y5y: 1.23%
+  pr: 26.00%
+  pr5y: 50.00%
+  i: 9 Years
+- s: OTTR
+  c: Otter Tail Corp. Dividend Information
+  r: 3
+  y: $1.75
+  yr: 2.01%
+  y5y: 2.77%
+  pr: 26.00%
+  pr5y: 51.00%
+  i: 9 Years
+- s: LAND
+  c: Gladstone Land Corp Dividend Information
+  r: 3
+  y: $0.55
+  yr: 3.18%
+  y5y: 3.14%
+  pr: 267.00%
+  pr5y: 1,753.00%
+  i: 8 Years
+- s: G
+  c: Ord/Genpact Ltd Dividend Information
+  r: 3
+  y: $0.55
+  yr: 1.39%
+  y5y: 1.01%
+  pr: 27.00%
+  pr5y: 24.00%
+  i: 5 Years
+- s: CBOE
+  c: Cboe Global Markets Inc Dividend Information
+  r: 3
+  y: $2.00
+  yr: 1.41%
+  y5y: 1.41%
+  pr: 27.00%
+  pr5y: 36.00%
+  i: 7 Years
+- s: FDBC
+  c: Fidelity D&D Bancorp Inc Dividend Information
+  r: 3
+  y: $1.44
+  yr: 2.97%
+  y5y: 2.44%
+  pr: 27.00%
+  pr5y: 33.00%
+  i: 8 Years
+- s: CB
+  c: Ord/Chubb Ltd Dividend Information
+  r: 3
+  y: $3.44
+  yr: 1.68%
+  y5y: 1.91%
+  pr: 27.00%
+  pr5y: 28.00%
+  i: 9 Years
+- s: CBSH
+  c: Commerce Bancshares Inc Dividend Information
+  r: 3
+  y: $1.08
+  yr: 1.99%
+  y5y: 1.48%
+  pr: 27.00%
+  pr5y: 28.00%
+  i: 9 Years
+- s: NEU
+  c: NewMarket Corp Dividend Information
+  r: 3
+  y: $9.00
+  yr: 1.96%
+  y5y: 2.14%
+  pr: 27.00%
+  pr5y: 35.00%
+  i: 9 Years
+- s: TTC
+  c: Toro Company (The) Dividend Information
+  r: 3
+  y: $1.36
+  yr: 1.28%
+  y5y: 1.24%
+  pr: 27.00%
+  pr5y: 32.00%
+  i: 9 Years
+- s: LW
+  c: Lamb Weston Holdings Inc Dividend Information
+  r: 3
+  y: $1.12
+  yr: 0.93%
+  y5y: 1.18%
+  pr: 28.00%
+  pr5y: 40.00%
+  i: 5 Years
+- s: OZK
+  c: Bank OZK Dividend Information
+  r: 3
+  y: $1.44
+  yr: 3.10%
+  y5y: 3.33%
+  pr: 28.00%
+  pr5y: 33.00%
+  i: 5 Years
+- s: MSBI
+  c: Midland States Bancorp Inc Dividend Information
+  r: 3
+  y: $1.20
+  yr: 5.22%
+  y5y: 4.92%
+  pr: 28.00%
+  pr5y: 45.00%
+  i: 6 Years
+- s: RVSB
+  c: Riverview Bancorp, Inc. Dividend Information
+  r: 3
+  y: $0.24
+  yr: 4.35%
+  y5y: 3.25%
+  pr: 28.00%
+  pr5y: 28.00%
+  i: 7 Years
+- s: SNV
+  c: Synovus Financial Corp Dividend Information
+  r: 3
+  y: $1.52
+  yr: 4.31%
+  y5y: 4.19%
+  pr: 28.00%
+  pr5y: 36.00%
+  i: 8 Years
+- s: CDW
+  c: CDW Corp Dividend Information
+  r: 3
+  y: $2.36
+  yr: 1.20%
+  y5y: 1.08%
+  pr: 28.00%
+  pr5y: 27.00%
+  i: 9 Years
+- s: HFBL
+  c: Home Federal Bancorp, Inc. (LA) Dividend Information
+  r: 3
+  y: $0.50
+  yr: 3.34%
+  y5y: 2.29%
+  pr: 28.00%
+  pr5y: 26.00%
+  i: 9 Years
+- s: ESSA
+  c: ESSA Bancorp Inc Dividend Information
+  r: 3
+  y: $0.60
+  yr: 3.76%
+  y5y: 3.07%
+  pr: 29.00%
+  pr5y: 31.00%
+  i: 5 Years
+- s: GNTY
+  c: Guaranty Bancshares Inc Dividend Information
+  r: 3
+  y: $0.92
+  yr: 2.92%
+  y5y: 2.48%
+  pr: 29.00%
+  pr5y: 30.00%
+  i: 5 Years
+- s: ALLY
+  c: Ally Financial Inc Dividend Information
+  r: 3
+  y: $1.20
+  yr: 4.14%
+  y5y: 2.84%
+  pr: 29.00%
+  pr5y: 23.00%
+  i: 6 Years
+- s: ABM
+  c: ABM Industries, Inc. Dividend Information
+  r: 3
+  y: $0.88
+  yr: 1.94%
+  y5y: 1.83%
+  pr: 29.00%
+  pr5y: 55.00%
+  i: 9 Years
+- s: JOUT
+  c: Cl A Com/Johnson Outdoors Inc Dividend Information
+  r: 3
+  y: $1.24
+  yr: 2.10%
+  y5y: 1.23%
+  pr: 29.00%
+  pr5y: 15.00%
+  i: 9 Years
+- s: SBFG
+  c: SB Financial Group Inc Dividend Information
+  r: 3
+  y: $0.13
+  yr: 3.64%
+  y5y: 2.73%
+  pr: 29.00%
+  pr5y: 24.00%
+  i: 9 Years
+- s: SIGI
+  c: Selective Insurance Group Inc Dividend Information
+  r: 3
+  y: $1.20
+  yr: 1.16%
+  y5y: 1.28%
+  pr: 29.00%
+  pr5y: 22.00%
+  i: 9 Years
+- s: MDC
+  c: M.D.C. Holdings, Inc. Dividend Information
+  r: 3
+  y: $2.00
+  yr: 4.32%
+  y5y: 3.29%
+  pr: 30.00%
+  pr5y: 36.00%
+  i: 6 Years
+- s: WCN
+  c: Waste Connections Inc (Canada) Dividend Information
+  r: 3
+  y: $1.02
+  yr: 0.69%
+  y5y: 0.68%
+  pr: 30.00%
+  pr5y: 45.00%
+  i: 6 Years
+- s: FGBI
+  c: First Guaranty Bancshares, Inc. Dividend Information
+  r: 3
+  y: $0.64
+  yr: 5.28%
+  y5y: 4.07%
+  pr: 30.00%
+  pr5y: 35.00%
+  i: 8 Years
+- s: LII
+  c: Lennox International Inc Dividend Information
+  r: 3
+  y: $4.40
+  yr: 1.29%
+  y5y: 1.24%
+  pr: 30.00%
+  pr5y: 30.00%
+  i: 9 Years
+- s: SEIC
+  c: SEI Investments Co Dividend Information
+  r: 3
+  y: $0.86
+  yr: 1.34%
+  y5y: 1.28%
+  pr: 30.00%
+  pr5y: 23.00%
+  i: 9 Years
+- s: SYBT
+  c: Stock Yards Bancorp Inc Dividend Information
+  r: 3
+  y: $1.16
+  yr: 2.46%
+  y5y: 2.45%
+  pr: 30.00%
+  pr5y: 39.00%
+  i: 9 Years
+- s: WOR
+  c: Worthington Industries, Inc. Dividend Information
+  r: 3
+  y: $1.28
+  yr: 1.73%
+  y5y: 2.15%
+  pr: 30.00%
+  pr5y: 28.00%
+  i: 9 Years
+- s: OLED
+  c: Universal Display Corp Dividend Information
+  r: 3
+  y: $1.40
+  yr: 0.92%
+  y5y: 0.52%
+  pr: 31.00%
+  pr5y: 23.00%
+  i: 5 Years
+- s: AEM
+  c: Agnico Eagle Mines Ltd Dividend Information
+  r: 3
+  y: $1.60
+  yr: 3.08%
+  y5y: 2.00%
+  pr: 31.00%
+  pr5y: 171.00%
+  i: 7 Years
+- s: ALLE
+  c: Ord/Allegion Plc Dividend Information
+  r: 3
+  y: $1.80
+  yr: 1.38%
+  y5y: 1.17%
+  pr: 31.00%
+  pr5y: 30.00%
+  i: 8 Years
+- s: EVBN
+  c: Evans Bancorp, Inc. Dividend Information
+  r: 3
+  y: $1.32
+  yr: 4.85%
+  y5y: 3.77%
+  pr: 31.00%
+  pr5y: 35.00%
+  i: 9 Years
+- s: LECO
+  c: Lincoln Electric Holdings, Inc. Dividend Information
+  r: 3
+  y: $2.56
+  yr: 1.18%
+  y5y: 1.74%
+  pr: 31.00%
+  pr5y: 41.00%
+  i: 9 Years
+- s: NFG
+  c: National Fuel Gas Co. (NJ) Dividend Information
+  r: 3
+  y: $1.98
+  yr: 3.68%
+  y5y: 3.57%
+  pr: 31.00%
+  pr5y: 97.00%
+  i: 9 Years
+- s: FBMS
+  c: First Bancshares Inc (MS) Dividend Information
+  r: 3
+  y: $0.88
+  yr: 2.77%
+  y5y: 1.78%
+  pr: 32.00%
+  pr5y: 19.00%
+  i: 5 Years
+- s: PFIS
+  c: Peoples Financial Services Corp Dividend Information
+  r: 3
+  y: $1.64
+  yr: 3.47%
+  y5y: 3.27%
+  pr: 32.00%
+  pr5y: 34.00%
+  i: 6 Years
+- s: FSFG
+  c: First Savings Financial Group Inc Dividend Information
+  r: 3
+  y: $0.56
+  yr: 3.52%
+  y5y: 1.90%
+  pr: 32.00%
+  pr5y: 14.00%
+  i: 9 Years
+- s: HBNC
+  c: Horizon Bancorp Inc Dividend Information
+  r: 3
+  y: $0.64
+  yr: 5.62%
+  y5y: 3.89%
+  pr: 32.00%
+  pr5y: 31.00%
+  i: 9 Years
+- s: MAS
+  c: Masco Corp. Dividend Information
+  r: 3
+  y: $1.14
+  yr: 1.89%
+  y5y: 1.43%
+  pr: 32.00%
+  pr5y: 26.00%
+  i: 9 Years
+- s: SHG
+  c: ADR (Sponsored) Restricted/Shinhan Financial Group Co. Ltd. Dividend Information
+  r: 3
+  y: $1.63
+  yr: 6.13%
+  y5y: 5.38%
+  pr: 32.00%
+  pr5y: 0.00%
+  i: 9 Years
+- s: TR
+  c: Tootsie Roll Industries Inc Dividend Information
+  r: 3
+  y: $0.36
+  yr: 1.00%
+  y5y: 1.01%
+  pr: 32.00%
+  pr5y: 37.00%
+  i: 9 Years
+- s: SIRI
+  c: Sirius XM Holdings Inc Dividend Information
+  r: 3
+  y: $0.10
+  yr: 1.21%
+  y5y: 1.77%
+  pr: 33.00%
+  pr5y: 149.00%
+  i: 6 Years
+- s: IBCP
+  c: Independent Bank Corporation (Ionia, MI) Dividend Information
+  r: 3
+  y: $0.92
+  yr: 4.66%
+  y5y: 4.32%
+  pr: 33.00%
+  pr5y: 34.00%
+  i: 8 Years
+- s: ZTS
+  c: Cl A/Zoetis Inc Dividend Information
+  r: 3
+  y: $1.50
+  yr: 0.84%
+  y5y: 0.62%
+  pr: 33.00%
+  pr5y: 26.00%
+  i: 9 Years
+- s: SSNC
+  c: SS&C Technologies Holdings Inc Dividend Information
+  r: 3
+  y: $0.80
+  yr: 1.30%
+  y5y: 0.96%
+  pr: 34.00%
+  pr5y: 36.00%
+  i: 6 Years
+- s: WTW
+  c: Ord/Willis Towers Watson Public Ltd Co Dividend Information
+  r: 3
+  y: $3.36
+  yr: 1.43%
+  y5y: 1.44%
+  pr: 34.00%
+  pr5y: 30.00%
+  i: 6 Years
+- s: BWXT
+  c: BWX Technologies inc Dividend Information
+  r: 3
+  y: $0.92
+  yr: 1.28%
+  y5y: 1.37%
+  pr: 34.00%
+  pr5y: 29.00%
+  i: 7 Years
+- s: UCBI
+  c: United Community Banks Inc (Blairsville, GA) Dividend Information
+  r: 3
+  y: $0.92
+  yr: 3.22%
+  y5y: 2.93%
+  pr: 34.00%
+  pr5y: 33.00%
+  i: 8 Years
+- s: ODC
+  c: Oil-Dri Corp. of America Dividend Information
+  r: 3
+  y: $1.16
+  yr: 1.78%
+  y5y: 2.75%
+  pr: 34.00%
+  pr5y: 217.00%
+  i: 9 Years
+- s: SCI
+  c: Service Corp. International Dividend Information
+  r: 3
+  y: $1.08
+  yr: 1.57%
+  y5y: 1.56%
+  pr: 34.00%
+  pr5y: 28.00%
+  i: 9 Years
+- s: QQXT
+  c: First Trust NASDAQ-100 Ex-Technology Sector Index Fd/First Trust Exchange-Traded
+    Fund Dividend Information
+  r: 3
+  y: $0.71
+  yr: 0.80%
+  y5y: 0.49%
+  pr: 348.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: FCF
+  c: First Commonwealth Financial Corp (Indiana, PA) Dividend Information
+  r: 3
+  y: $0.50
+  yr: 3.47%
+  y5y: 3.71%
+  pr: 35.00%
+  pr5y: 39.00%
+  i: 6 Years
+- s: NTAP
+  c: NetApp, Inc. Dividend Information
+  r: 3
+  y: $2.00
+  yr: 2.50%
+  y5y: 2.99%
+  pr: 35.00%
+  pr5y: 47.00%
+  i: 9 Years
+- s: MPWR
+  c: Monolithic Power Systems Inc Dividend Information
+  r: 3
+  y: $4.00
+  yr: 0.66%
+  y5y: 0.70%
+  pr: 36.00%
+  pr5y: 54.00%
+  i: 5 Years
+- s: RCKY
+  c: Rocky Brands Inc Dividend Information
+  r: 3
+  y: $0.62
+  yr: 2.77%
+  y5y: 2.07%
+  pr: 36.00%
+  pr5y: 25.00%
+  i: 5 Years
+- s: HTH
+  c: Hilltop Holdings, Inc. Dividend Information
+  r: 3
+  y: $0.64
+  yr: 1.87%
+  y5y: 1.67%
+  pr: 36.00%
+  pr5y: 17.00%
+  i: 6 Years
+- s: AMNB
+  c: American National Bankshares, Inc. (Danville, VA) Dividend Information
+  r: 3
+  y: $1.20
+  yr: 3.80%
+  y5y: 3.55%
+  pr: 36.00%
+  pr5y: 38.00%
+  i: 8 Years
+- s: SWKS
+  c: Skyworks Solutions Inc Dividend Information
+  r: 3
+  y: $2.48
+  yr: 2.22%
+  y5y: 1.70%
+  pr: 36.00%
+  pr5y: 31.00%
+  i: 8 Years
+- s: CAT
+  c: Caterpillar Inc. Dividend Information
+  r: 3
+  y: $5.20
+  yr: 1.88%
+  y5y: 2.42%
+  pr: 36.00%
+  pr5y: 46.00%
+  i: 9 Years
+- s: DPZ
+  c: Dominos Pizza Inc. Dividend Information
+  r: 3
+  y: $4.84
+  yr: 1.19%
+  y5y: 0.91%
+  pr: 36.00%
+  pr5y: 29.00%
+  i: 9 Years
+- s: INDB
+  c: Independent Bank Corp (MA) Dividend Information
+  r: 3
+  y: $2.20
+  yr: 4.04%
+  y5y: 2.84%
+  pr: 36.00%
+  pr5y: 43.00%
+  i: 9 Years
+- s: KFRC
+  c: Kforce Inc. Dividend Information
+  r: 3
+  y: $1.44
+  yr: 2.03%
+  y5y: 2.00%
+  pr: 37.00%
+  pr5y: 27.00%
+  i: 5 Years
+- s: MVBF
+  c: MVB Financial Corp Dividend Information
+  r: 3
+  y: $0.68
+  yr: 2.87%
+  y5y: 1.78%
+  pr: 37.00%
+  pr5y: 19.00%
+  i: 6 Years
+- s: ORRF
+  c: Orrstown Financial Services, Inc. Dividend Information
+  r: 3
+  y: $0.80
+  yr: 3.65%
+  y5y: 3.39%
+  pr: 37.00%
+  pr5y: 33.00%
+  i: 7 Years
+- s: FRAF
+  c: Franklin Financial Services Corp Dividend Information
+  r: 3
+  y: $1.28
+  yr: 4.35%
+  y5y: 4.01%
+  pr: 37.00%
+  pr5y: 34.00%
+  i: 8 Years
+- s: CATC
+  c: Cambridge Bancorp Dividend Information
+  r: 3
+  y: $2.68
+  yr: 4.66%
+  y5y: 3.31%
+  pr: 37.00%
+  pr5y: 38.00%
+  i: 9 Years
+- s: VMC
+  c: Vulcan Materials Co (Holding Company) Dividend Information
+  r: 3
+  y: $1.72
+  yr: 0.75%
+  y5y: 0.89%
+  pr: 37.00%
+  pr5y: 31.00%
+  i: 9 Years
+- s: FFNW
+  c: First Financial Northwest Inc Dividend Information
+  r: 3
+  y: $0.52
+  yr: 4.38%
+  y5y: 3.32%
+  pr: 38.00%
+  pr5y: 36.00%
+  i: 6 Years
+- s: FITB
+  c: Fifth Third Bancorp (Cincinnati, OH) Dividend Information
+  r: 3
+  y: $1.32
+  yr: 4.51%
+  y5y: 3.92%
+  pr: 38.00%
+  pr5y: 37.00%
+  i: 6 Years
+- s: FNCB
+  c: FNCB Bancorp Inc Dividend Information
+  r: 3
+  y: $0.36
+  yr: 5.91%
+  y5y: 3.82%
+  pr: 38.00%
+  pr5y: 30.00%
+  i: 6 Years
+- s: MTB
+  c: M & T Bank Corp Dividend Information
+  r: 3
+  y: $5.20
+  yr: 3.61%
+  y5y: 3.30%
+  pr: 38.00%
+  pr5y: 37.00%
+  i: 6 Years
+- s: NBHC
+  c: Cl A/National Bank Holdings Corp Dividend Information
+  r: 3
+  y: $1.04
+  yr: 2.99%
+  y5y: 2.51%
+  pr: 38.00%
+  pr5y: 32.00%
+  i: 7 Years
+- s: WBA
+  c: Walgreens Boots Alliance Inc Dividend Information
+  r: 3
+  y: $1.92
+  yr: 6.35%
+  y5y: 4.61%
+  pr: 38.00%
+  pr5y: 107.00%
+  i: 7 Years
+- s: PB
+  c: Prosperity Bancshares Inc. Dividend Information
+  r: 3
+  y: $2.20
+  yr: 3.49%
+  y5y: 2.98%
+  pr: 38.00%
+  pr5y: 36.00%
+  i: 9 Years
+- s: TOWN
+  c: TowneBank Dividend Information
+  r: 3
+  y: $1.00
+  yr: 3.66%
+  y5y: 3.11%
+  pr: 38.00%
+  pr5y: 34.00%
+  i: 9 Years
+- s: MORN
+  c: Morningstar Inc Dividend Information
+  r: 3
+  y: $1.50
+  yr: 0.70%
+  y5y: 0.64%
+  pr: 381.00%
+  pr5y: 100.00%
+  i: 9 Years
+- s: VRTS
+  c: Virtus Investment Partners Inc Dividend Information
+  r: 3
+  y: $6.60
+  yr: 2.98%
+  y5y: 2.19%
+  pr: 39.00%
+  pr5y: 27.00%
+  i: 5 Years
+- s: HPQ
+  c: HP Inc Dividend Information
+  r: 3
+  y: $1.05
+  yr: 3.19%
+  y5y: 3.11%
+  pr: 39.00%
+  pr5y: 28.00%
+  i: 6 Years
+- s: HRB
+  c: Block (H & R), Inc. Dividend Information
+  r: 3
+  y: $1.16
+  yr: 3.40%
+  y5y: 4.32%
+  pr: 39.00%
+  pr5y: 99.00%
+  i: 7 Years
+- s: OSK
+  c: Oshkosh Corp (New) Dividend Information
+  r: 3
+  y: $1.64
+  yr: 1.70%
+  y5y: 1.46%
+  pr: 39.00%
+  pr5y: 24.00%
+  i: 8 Years
+- s: AJG
+  c: Gallagher (Arthur J.) & Co. Dividend Information
+  r: 3
+  y: $2.20
+  yr: 0.97%
+  y5y: 1.40%
+  pr: 39.00%
+  pr5y: 44.00%
+  i: 9 Years
+- s: TFSL
+  c: TFS Financial Corp Dividend Information
+  r: 3
+  y: $1.13
+  yr: 8.45%
+  y5y: 7.16%
+  pr: 390.00%
+  pr5y: 394.00%
+  i: 8 Years
+- s: LAD
+  c: Lithia Motors Inc Dividend Information
+  r: 3
+  y: $2.00
+  yr: 0.57%
+  y5y: 0.63%
+  pr: 4.00%
+  pr5y: 7.00%
+  i: 9 Years
+- s: CBAN
+  c: Cdt-Com/Colony Bankcorp, Inc. Dividend Information
+  r: 3
+  y: $0.44
+  yr: 4.28%
+  y5y: 2.87%
+  pr: 40.00%
+  pr5y: 30.00%
+  i: 5 Years
+- s: CPF
+  c: Central Pacific Financial Corp Dividend Information
+  r: 3
+  y: $1.04
+  yr: 5.88%
+  y5y: 4.61%
+  pr: 40.00%
+  pr5y: 44.00%
+  i: 6 Years
+- s: CTRA
+  c: Coterra Energy Inc Dividend Information
+  r: 3
+  y: $2.10
+  yr: 7.81%
+  y5y: 4.22%
+  pr: 40.00%
+  pr5y: 48.00%
+  i: 6 Years
+- s: FISI
+  c: Financial Institutions Inc. Dividend Information
+  r: 3
+  y: $1.20
+  yr: 6.92%
+  y5y: 4.91%
+  pr: 40.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: NSC
+  c: Norfolk Southern Corp Dividend Information
+  r: 3
+  y: $5.40
+  yr: 2.18%
+  y5y: 1.87%
+  pr: 40.00%
+  pr5y: 39.00%
+  i: 6 Years
+- s: FULT
+  c: Fulton Financial Corp. (PA) Dividend Information
+  r: 3
+  y: $0.64
+  yr: 4.96%
+  y5y: 4.38%
+  pr: 40.00%
+  pr5y: 43.00%
+  i: 9 Years
+- s: MSA
+  c: MSA Safety Inc Dividend Information
+  r: 3
+  y: $1.88
+  yr: 1.10%
+  y5y: 1.36%
+  pr: 40.00%
+  pr5y: 107.00%
+  i: 9 Years
+- s: PEBO
+  c: Peoples Bancorp Inc (Marietta, OH) Dividend Information
+  r: 3
+  y: $1.56
+  yr: 5.56%
+  y5y: 5.19%
+  pr: 41.00%
+  pr5y: 56.00%
+  i: 7 Years
+- s: NFBK
+  c: Northfield Bancorp Inc (DE) Dividend Information
+  r: 3
+  y: $0.52
+  yr: 4.43%
+  y5y: 3.59%
+  pr: 41.00%
+  pr5y: 47.00%
+  i: 8 Years
+- s: HOMB
+  c: Home BancShares Inc Dividend Information
+  r: 3
+  y: $0.72
+  yr: 2.86%
+  y5y: 2.79%
+  pr: 41.00%
+  pr5y: 35.00%
+  i: 9 Years
+- s: MKTX
+  c: MarketAxess Holdings Inc. Dividend Information
+  r: 3
+  y: $2.88
+  yr: 1.06%
+  y5y: 0.71%
+  pr: 41.00%
+  pr5y: 37.00%
+  i: 9 Years
+- s: OMC
+  c: Omnicom Group, Inc. Dividend Information
+  r: 3
+  y: $2.80
+  yr: 3.18%
+  y5y: 3.76%
+  pr: 41.00%
+  pr5y: 46.00%
+  i: 9 Years
+- s: RPM
+  c: RPM International Inc (DE) Dividend Information
+  r: 3
+  y: $1.68
+  yr: 1.81%
+  y5y: 1.92%
+  pr: 41.00%
+  pr5y: 52.00%
+  i: 9 Years
+- s: SPGI
+  c: S&P Global Inc Dividend Information
+  r: 3
+  y: $3.60
+  yr: 0.83%
+  y5y: 0.80%
+  pr: 41.00%
+  pr5y: 29.00%
+  i: 9 Years
+- s: LKFN
+  c: Lakeland Financial Corp Dividend Information
+  r: 3
+  y: $1.84
+  yr: 3.10%
+  y5y: 2.51%
+  pr: 42.00%
+  pr5y: 37.00%
+  i: 5 Years
+- s: CAC
+  c: Camden National Corp. (ME) Dividend Information
+  r: 3
+  y: $1.68
+  yr: 5.03%
+  y5y: 3.60%
+  pr: 42.00%
+  pr5y: 36.00%
+  i: 6 Years
+- s: COP
+  c: ConocoPhillips Dividend Information
+  r: 3
+  y: $2.04
+  yr: 4.74%
+  y5y: 3.50%
+  pr: 42.00%
+  pr5y: 63.00%
+  i: 6 Years
+- s: GD
+  c: General Dynamics Corp Dividend Information
+  r: 3
+  y: $5.28
+  yr: 2.39%
+  y5y: 2.42%
+  pr: 42.00%
+  pr5y: 40.00%
+  i: 9 Years
+- s: SFNC
+  c: Cl A Com/Simmons First National Corp Dividend Information
+  r: 3
+  y: $0.80
+  yr: 4.02%
+  y5y: 3.36%
+  pr: 42.00%
+  pr5y: 31.00%
+  i: 9 Years
+- s: LCNB
+  c: LCNB Corp Dividend Information
+  r: 3
+  y: $0.84
+  yr: 5.10%
+  y5y: 4.67%
+  pr: 43.00%
+  pr5y: 48.00%
+  i: 5 Years
+- s: DLB
+  c: Cl A/Dolby Laboratories Inc Dividend Information
+  r: 3
+  y: $1.08
+  yr: 1.19%
+  y5y: 1.15%
+  pr: 43.00%
+  pr5y: 37.00%
+  i: 8 Years
+- s: FFIN
+  c: First Financial Bankshares, Inc. Dividend Information
+  r: 3
+  y: $0.72
+  yr: 2.25%
+  y5y: 1.61%
+  pr: 43.00%
+  pr5y: 39.00%
+  i: 9 Years
+- s: FR
+  c: First Industrial Realty Trust Inc Dividend Information
+  r: 3
+  y: $1.28
+  yr: 2.37%
+  y5y: 2.30%
+  pr: 43.00%
+  pr5y: 55.00%
+  i: 9 Years
+- s: HBB
+  c: Com Cl A/Hamilton Beach Brands Holding Co Dividend Information
+  r: 3
+  y: $0.44
+  yr: 4.29%
+  y5y: 2.97%
+  pr: 44.00%
+  pr5y: 25.00%
+  i: 5 Years
+- s: HUBB
+  c: Hubbell Inc. Dividend Information
+  r: 3
+  y: $4.48
+  yr: 1.31%
+  y5y: 2.15%
+  pr: 44.00%
+  pr5y: 49.00%
+  i: 6 Years
+- s: FMNB
+  c: Farmers National Banc Corp. (Canfield,OH) Dividend Information
+  r: 3
+  y: $0.68
+  yr: 4.92%
+  y5y: 3.53%
+  pr: 44.00%
+  pr5y: 32.00%
+  i: 7 Years
+- s: WLY
+  c: Cl A Com/Wiley (John) & Sons Inc. Dividend Information
+  r: 3
+  y: $1.40
+  yr: 4.12%
+  y5y: 3.26%
+  pr: 449.00%
+  pr5y: 0.00%
+  i: 9 Years
+- s: BRKL
+  c: Brookline Bancorp Inc (DE) Dividend Information
+  r: 3
+  y: $0.54
+  yr: 5.28%
+  y5y: 3.95%
+  pr: 45.00%
+  pr5y: 47.00%
+  i: 5 Years
+- s: EOG
+  c: EOG Resources, Inc. Dividend Information
+  r: 3
+  y: $3.30
+  yr: 5.85%
+  y5y: 3.80%
+  pr: 45.00%
+  pr5y: 87.00%
+  i: 5 Years
+- s: UNP
+  c: Union Pacific Corp Dividend Information
+  r: 3
+  y: $5.20
+  yr: 2.40%
+  y5y: 2.11%
+  pr: 46.00%
+  pr5y: 46.00%
+  i: 6 Years
+- s: TFC
+  c: Truist Financial Corp Dividend Information
+  r: 3
+  y: $2.08
+  yr: 6.29%
+  y5y: 4.37%
+  pr: 46.00%
+  pr5y: 48.00%
+  i: 8 Years
+- s: AGCO
+  c: AGCO Corp. Dividend Information
+  r: 3
+  y: $1.16
+  yr: 4.32%
+  y5y: 3.07%
+  pr: 46.00%
+  pr5y: 49.00%
+  i: 9 Years
+- s: FLIC
+  c: First of Long Island Corp Dividend Information
+  r: 3
+  y: $0.84
+  yr: 6.53%
+  y5y: 4.51%
+  pr: 46.00%
+  pr5y: 43.00%
+  i: 9 Years
+- s: TSN
+  c: Cl A Com/Tyson Foods Inc Dividend Information
+  r: 3
+  y: $1.92
+  yr: 3.62%
+  y5y: 2.56%
+  pr: 46.00%
+  pr5y: 30.00%
+  i: 9 Years
+- s: PH
+  c: Parker Hannifin Corp Dividend Information
+  r: 3
+  y: $5.92
+  yr: 1.36%
+  y5y: 1.61%
+  pr: 47.00%
+  pr5y: 36.00%
+  i: 6 Years
+- s: STZ
+  c: Cl A Com/Constellation Brands Inc Dividend Information
+  r: 3
+  y: $3.56
+  yr: 1.22%
+  y5y: 1.40%
+  pr: 47.00%
+  pr5y: 48.00%
+  i: 7 Years
+- s: ORCL
+  c: Oracle Corp Dividend Information
+  r: 3
+  y: $1.60
+  yr: 1.24%
+  y5y: 1.50%
+  pr: 47.00%
+  pr5y: 37.00%
+  i: 9 Years
+- s: MSCI
+  c: MSCI Inc Dividend Information
+  r: 3
+  y: $5.52
+  yr: 1.03%
+  y5y: 0.84%
+  pr: 48.00%
+  pr5y: 41.00%
+  i: 8 Years
+- s: MDU
+  c: MDU Resources Group Inc Dividend Information
+  r: 3
+  y: $0.89
+  yr: 4.03%
+  y5y: 3.38%
+  pr: 48.00%
+  pr5y: 49.00%
+  i: 9 Years
+- s: AY
+  c: Ord/Atlantica Sustainable Infrastructure plc Dividend Information
+  r: 3
+  y: $1.78
+  yr: 7.37%
+  y5y: 5.81%
+  pr: 486.00%
+  pr5y: 0.00%
+  i: 6 Years
+- s: DVN
+  c: Devon Energy Corp. Dividend Information
+  r: 3
+  y: $4.51
+  yr: 8.77%
+  y5y: 4.88%
+  pr: 49.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: SAMG
+  c: Cl A/Silvercrest Asset Management Group Inc Dividend Information
+  r: 3
+  y: $0.72
+  yr: 3.42%
+  y5y: 4.19%
+  pr: 49.00%
+  pr5y: 54.00%
+  i: 5 Years
+- s: BPOP
+  c: Popular Inc. Dividend Information
+  r: 3
+  y: $2.20
+  yr: 3.30%
+  y5y: 2.82%
+  pr: 49.00%
+  pr5y: 0.00%
+  i: 7 Years
+- s: MWA
+  c: Com Ser A/Mueller Water Products Inc Dividend Information
+  r: 3
+  y: $0.24
+  yr: 1.49%
+  y5y: 1.81%
+  pr: 49.00%
+  pr5y: 56.00%
+  i: 8 Years
+- s: TPB
+  c: Turning Point Brands Inc Dividend Information
+  r: 3
+  y: $0.26
+  yr: 1.01%
+  y5y: 0.64%
+  pr: 50.00%
+  pr5y: 28.00%
+  i: 5 Years
+- s: JEF
+  c: Jefferies Financial Group Inc Dividend Information
+  r: 3
+  y: $1.20
+  yr: 3.25%
+  y5y: 3.18%
+  pr: 51.00%
+  pr5y: 33.00%
+  i: 6 Years
+- s: MED
+  c: Medifast Inc Dividend Information
+  r: 3
+  y: $6.60
+  yr: 6.96%
+  y5y: 3.44%
+  pr: 51.00%
+  pr5y: 51.00%
+  i: 6 Years
+- s: PRGO
+  c: Ord/Perrigo Company plc Dividend Information
+  r: 3
+  y: $1.07
+  yr: 3.03%
+  y5y: 2.10%
+  pr: 51.00%
+  pr5y: 9.00%
+  i: 8 Years
+- s: ATRI
+  c: Atrion Corp. Dividend Information
+  r: 3
+  y: $8.60
+  yr: 1.49%
+  y5y: 1.11%
+  pr: 51.00%
+  pr5y: 39.00%
+  i: 9 Years
+- s: EXPO
+  c: Exponent Inc. Dividend Information
+  r: 3
+  y: $1.04
+  yr: 1.04%
+  y5y: 0.91%
+  pr: 51.00%
+  pr5y: 46.00%
+  i: 9 Years
+- s: NJR
+  c: New Jersey Resources Corp Dividend Information
+  r: 3
+  y: $1.56
+  yr: 3.34%
+  y5y: 3.30%
+  pr: 51.00%
+  pr5y: 78.00%
+  i: 9 Years
+- s: LCII
+  c: LCI Industries Dividend Information
+  r: 3
+  y: $4.20
+  yr: 3.15%
+  y5y: 2.63%
+  pr: 52.00%
+  pr5y: 41.00%
+  i: 6 Years
+- s: ECL
+  c: Ecolab Inc Dividend Information
+  r: 3
+  y: $2.12
+  yr: 1.12%
+  y5y: 1.01%
+  pr: 52.00%
+  pr5y: 35.00%
+  i: 9 Years
+- s: ETN
+  c: Ord/Eaton Corp plc Dividend Information
+  r: 3
+  y: $3.44
+  yr: 1.58%
+  y5y: 2.48%
+  pr: 52.00%
+  pr5y: 61.00%
+  i: 9 Years
+- s: ITW
+  c: Illinois Tool Works, Inc. Dividend Information
+  r: 3
+  y: $5.24
+  yr: 2.05%
+  y5y: 2.34%
+  pr: 52.00%
+  pr5y: 57.00%
+  i: 9 Years
+- s: LYB
+  c: Ord Cl A/LyondellBasell Industries NV Dividend Information
+  r: 3
+  y: $4.81
+  yr: 5.29%
+  y5y: 5.19%
+  pr: 52.00%
+  pr5y: 52.00%
+  i: 9 Years
+- s: PRK
+  c: Park National Corp (Newark, OH) Dividend Information
+  r: 3
+  y: $4.20
+  yr: 4.23%
+  y5y: 4.43%
+  pr: 53.00%
+  pr5y: 56.00%
+  i: 5 Years
+- s: BOH
+  c: Bank of Hawaii Corp Dividend Information
+  r: 3
+  y: $2.80
+  yr: 5.20%
+  y5y: 3.96%
+  pr: 53.00%
+  pr5y: 51.00%
+  i: 7 Years
+- s: MS
+  c: Morgan Stanley Dividend Information
+  r: 3
+  y: $3.40
+  yr: 3.30%
+  y5y: 2.73%
+  pr: 53.00%
+  pr5y: 32.00%
+  i: 9 Years
+- s: BRT
+  c: BRT Apartments Corp Dividend Information
+  r: 3
+  y: $1.00
+  yr: 4.94%
+  y5y: 5.58%
+  pr: 54.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: MDLZ
+  c: Cl A/Mondelez International Inc Dividend Information
+  r: 3
+  y: $1.54
+  yr: 2.08%
+  y5y: 2.07%
+  pr: 54.00%
+  pr5y: 47.00%
+  i: 9 Years
+- s: HLNE
+  c: Cl A/Hamilton Lane Inc Dividend Information
+  r: 3
+  y: $1.78
+  yr: 1.89%
+  y5y: 1.70%
+  pr: 55.00%
+  pr5y: 51.00%
+  i: 5 Years
+- s: YUM
+  c: Yum! Brands Inc Dividend Information
+  r: 3
+  y: $2.42
+  yr: 1.73%
+  y5y: 1.70%
+  pr: 55.00%
+  pr5y: 47.00%
+  i: 5 Years
+- s: CABO
+  c: Cable One Inc Dividend Information
+  r: 3
+  y: $11.40
+  yr: 1.54%
+  y5y: 0.80%
+  pr: 55.00%
+  pr5y: 29.00%
+  i: 7 Years
+- s: EMN
+  c: Eastman Chemical Co Dividend Information
+  r: 3
+  y: $3.16
+  yr: 3.57%
+  y5y: 3.17%
+  pr: 55.00%
+  pr5y: 64.00%
+  i: 9 Years
+- s: WMT
+  c: Walmart Inc Dividend Information
+  r: 3
+  y: $2.28
+  yr: 1.44%
+  y5y: 1.63%
+  pr: 55.00%
+  pr5y: 53.00%
+  i: 9 Years
+- s: BALL
+  c: Ball Corp Dividend Information
+  r: 3
+  y: $0.80
+  yr: 1.39%
+  y5y: 0.94%
+  pr: 56.00%
+  pr5y: 38.00%
+  i: 6 Years
+- s: BAX
+  c: Baxter International Inc Dividend Information
+  r: 3
+  y: $1.16
+  yr: 2.35%
+  y5y: 1.46%
+  pr: 57.00%
+  pr5y: 43.00%
+  i: 6 Years
+- s: HLI
+  c: Cl A/Houlihan Lokey Inc Dividend Information
+  r: 3
+  y: $2.20
+  yr: 2.04%
+  y5y: 2.16%
+  pr: 57.00%
+  pr5y: 41.00%
+  i: 7 Years
+- s: CSGS
+  c: CSG Systems International Inc. Dividend Information
+  r: 3
+  y: $1.12
+  yr: 2.08%
+  y5y: 1.97%
+  pr: 57.00%
+  pr5y: 48.00%
+  i: 9 Years
+- s: UTL
+  c: UNITIL Corp Dividend Information
+  r: 3
+  y: $1.62
+  yr: 2.98%
+  y5y: 2.86%
+  pr: 58.00%
+  pr5y: 61.00%
+  i: 8 Years
+- s: IBTX
+  c: Independent Bank Group Inc. Dividend Information
+  r: 3
+  y: $1.52
+  yr: 3.70%
+  y5y: 2.28%
+  pr: 58.00%
+  pr5y: 30.00%
+  i: 9 Years
+- s: GRMN
+  c: Ord/Garmin Ltd Dividend Information
+  r: 3
+  y: $2.92
+  yr: 2.74%
+  y5y: 2.39%
+  pr: 59.00%
+  pr5y: 50.00%
+  i: 5 Years
+- s: AEE
+  c: Ameren Corp Dividend Information
+  r: 3
+  y: $2.52
+  yr: 2.81%
+  y5y: 2.59%
+  pr: 59.00%
+  pr5y: 58.00%
+  i: 9 Years
+- s: AWK
+  c: American Water Works Co, Inc. Dividend Information
+  r: 3
+  y: $2.83
+  yr: 1.82%
+  y5y: 1.59%
+  pr: 59.00%
+  pr5y: 53.00%
+  i: 9 Years
+- s: PRF
+  c: FTSE RAFI US 1000 ETF/Invesco Exchange-Traded Fund Trust Dividend Information
+  r: 3
+  y: $3.14
+  yr: 9.35%
+  y5y: 9.90%
+  pr: 6,040.00%
+  pr5y: 0.00%
+  i: 5 Years
+- s: DGICA
+  c: Cl A/Donegal Group Inc. Dividend Information
+  r: 3
+  y: $0.68
+  yr: 4.58%
+  y5y: 4.13%
+  pr: 6,600.00%
+  pr5y: 87.00%
+  i: 8 Years
+- s: ENSG
+  c: Ensign Group Inc Dividend Information
+  r: 3
+  y: $0.23
+  yr: 0.25%
+  y5y: 0.31%
+  pr: 6.00%
+  pr5y: 7.00%
+  i: 9 Years
+- s: CQP
+  c: Com Units/Cheniere Energy Partners L P Dividend Information
+  r: 3
+  y: $4.12
+  yr: 8.44%
+  y5y: 6.78%
+  pr: 61.00%
+  pr5y: 103.00%
+  i: 6 Years
+- s: ABT
+  c: Abbott Laboratories Dividend Information
+  r: 3
+  y: $2.04
+  yr: 1.79%
+  y5y: 1.56%
+  pr: 61.00%
+  pr5y: 63.00%
+  i: 9 Years
+- s: CHCT
+  c: Community Healthcare Trust Inc Dividend Information
+  r: 3
+  y: $1.80
+  yr: 4.91%
+  y5y: 4.21%
+  pr: 616.00%
+  pr5y: 477.00%
+  i: 7 Years
+- s: OGS
+  c: ONE Gas, Inc. Dividend Information
+  r: 3
+  y: $2.60
+  yr: 3.17%
+  y5y: 2.82%
+  pr: 62.00%
+  pr5y: 60.00%
+  i: 8 Years
+- s: ICE
+  c: Intercontinental Exchange Inc Dividend Information
+  r: 3
+  y: $1.68
+  yr: 1.38%
+  y5y: 1.25%
+  pr: 62.00%
+  pr5y: 34.00%
+  i: 9 Years
+- s: WSO
+  c: Cl. A Com./Watsco Inc. Dividend Information
+  r: 3
+  y: $9.80
+  yr: 2.60%
+  y5y: 3.18%
+  pr: 62.00%
+  pr5y: 86.00%
+  i: 9 Years
+- s: LSBK
+  c: Lake Shore Bancorp Inc Dividend Information
+  r: 3
+  y: $0.72
+  yr: 6.29%
+  y5y: 4.19%
+  pr: 63.00%
+  pr5y: 64.00%
+  i: 6 Years
+- s: TAIT
+  c: Cl. A Com./Taitron Components Inc. Dividend Information
+  r: 3
+  y: $0.20
+  yr: 4.88%
+  y5y: 5.04%
+  pr: 63.00%
+  pr5y: 66.00%
+  i: 6 Years
+- s: NI
+  c: NiSource Inc. (Holding Co.) Dividend Information
+  r: 3
+  y: $1.00
+  yr: 3.46%
+  y5y: 3.25%
+  pr: 66.00%
+  pr5y: 139.00%
+  i: 6 Years
+- s: QSR
+  c: Restaurant Brands International Inc Dividend Information
+  r: 3
+  y: $2.20
+  yr: 2.81%
+  y5y: 3.27%
+  pr: 66.00%
+  pr5y: 90.00%
+  i: 7 Years
+- s: GILD
+  c: Gilead Sciences Inc Dividend Information
+  r: 3
+  y: $3.00
+  yr: 3.70%
+  y5y: 3.89%
+  pr: 67.00%
+  pr5y: 285.00%
+  i: 7 Years
+- s: LLY
+  c: Lilly (Eli) & Co Dividend Information
+  r: 3
+  y: $4.52
+  yr: 0.91%
+  y5y: 1.46%
+  pr: 67.00%
+  pr5y: 49.00%
+  i: 8 Years
+- s: CPT
+  c: Shs Ben Int/Camden Property Trust Dividend Information
+  r: 3
+  y: $4.00
+  yr: 3.46%
+  y5y: 3.00%
+  pr: 69.00%
+  pr5y: 159.00%
+  i: 5 Years
+- s: KNSL
+  c: Kinsale Capital Group Inc Dividend Information
+  r: 3
+  y: $0.56
+  yr: 0.14%
+  y5y: 0.34%
+  pr: 7.00%
+  pr5y: 14.00%
+  i: 6 Years
+- s: HEI
+  c: HEICO Corp Dividend Information
+  r: 3
+  y: $0.20
+  yr: 0.11%
+  y5y: 0.13%
+  pr: 7.00%
+  pr5y: 7.00%
+  i: 7 Years
+- s: DHI
+  c: Horton (DR) Inc Dividend Information
+  r: 3
+  y: $1.00
+  yr: 0.78%
+  y5y: 1.04%
+  pr: 7.00%
+  pr5y: 9.00%
+  i: 8 Years
+- s: LANC
+  c: Lancaster Colony Corp Dividend Information
+  r: 3
+  y: $3.40
+  yr: 1.74%
+  y5y: 1.82%
+  pr: 71.00%
+  pr5y: 65.00%
+  i: 6 Years
+- s: RGCO
+  c: RGC Resources, Inc. Dividend Information
+  r: 3
+  y: $0.79
+  yr: 3.91%
+  y5y: 3.19%
+  pr: 71.00%
+  pr5y: 60.00%
+  i: 9 Years
+- s: FNF
+  c: FNF Group Com/Fidelity National Financial Inc Dividend Information
+  r: 3
+  y: $1.80
+  yr: 4.71%
+  y5y: 4.00%
+  pr: 72.00%
+  pr5y: 41.00%
+  i: 8 Years
+- s: NWBI
+  c: Northwest Bancshares, Inc. (MD) Dividend Information
+  r: 3
+  y: $0.80
+  yr: 6.81%
+  y5y: 6.06%
+  pr: 74.00%
+  pr5y: 78.00%
+  i: 7 Years
+- s: INTC
+  c: Intel Corp Dividend Information
+  r: 3
+  y: $0.50
+  yr: 3.66%
+  y5y: 2.84%
+  pr: 75.00%
+  pr5y: 37.00%
+  i: 8 Years
+- s: PAYX
+  c: Paychex Inc Dividend Information
+  r: 3
+  y: $3.56
+  yr: 2.63%
+  y5y: 2.66%
+  pr: 76.00%
+  pr5y: 79.00%
+  i: 9 Years
+- s: ETR
+  c: Entergy Corp Dividend Information
+  r: 3
+  y: $4.28
+  yr: 4.07%
+  y5y: 3.73%
+  pr: 77.00%
+  pr5y: 69.00%
+  i: 8 Years
+- s: SAP
+  c: ADR (Sponsored)/SAP SE Dividend Information
+  r: 3
+  y: $1.61
+  yr: 1.21%
+  y5y: 1.23%
+  pr: 78.00%
+  pr5y: 39.00%
+  i: 7 Years
+- s: TMO
+  c: Thermo Fisher Scientific Inc Dividend Information
+  r: 3
+  y: $1.40
+  yr: 0.24%
+  y5y: 0.22%
+  pr: 8.00%
+  pr5y: 7.00%
+  i: 5 Years
+- s: PXD
+  c: Pioneer Natural Resources Co Dividend Information
+  r: 3
+  y: $23.20
+  yr: 10.88%
+  y5y: 4.58%
+  pr: 82.00%
+  pr5y: 97.00%
+  i: 5 Years
+- s: WMB
+  c: Williams Cos Inc (The) Dividend Information
+  r: 3
+  y: $1.79
+  yr: 5.19%
+  y5y: 6.02%
+  pr: 82.00%
+  pr5y: 190.00%
+  i: 5 Years
+- s: HY
+  c: Cl A/Hyster-Yale Materials Handling Inc Dividend Information
+  r: 3
+  y: $1.30
+  yr: 2.76%
+  y5y: 2.81%
+  pr: 84.00%
+  pr5y: 64.00%
+  i: 9 Years
+- s: NEP
+  c: Com Unit Ltd Partnership Int/NextEra Energy Partners LP Dividend Information
+  r: 3
+  y: $3.37
+  yr: 5.45%
+  y5y: 3.96%
+  pr: 86.00%
+  pr5y: 145.00%
+  i: 8 Years
+- s: OTEX
+  c: Open Text Corp Dividend Information
+  r: 3
+  y: $0.97
+  yr: 2.34%
+  y5y: 1.82%
+  pr: 87.00%
+  pr5y: 69.00%
+  i: 9 Years
+- s: BAH
+  c: Cl A/Booz Allen Hamilton Holding Corp. Dividend Information
+  r: 3
+  y: $1.88
+  yr: 1.55%
+  y5y: 1.52%
+  pr: 89.00%
+  pr5y: 45.00%
+  i: 7 Years
+- s: LEG
+  c: Leggett & Platt, Inc. Dividend Information
+  r: 3
+  y: $1.84
+  yr: 5.97%
+  y5y: 4.42%
+  pr: 89.00%
+  pr5y: 74.00%
+  i: 9 Years
+- s: ALG
+  c: Alamo Group, Inc. Dividend Information
+  r: 3
+  y: $0.88
+  yr: 0.42%
+  y5y: 0.47%
+  pr: 9.00%
+  pr5y: 10.00%
+  i: 8 Years
+- s: OVLY
+  c: Oak Valley Bancorp (Oakdale, CA) Dividend Information
+  r: 3
+  y: $0.32
+  yr: 1.18%
+  y5y: 1.62%
+  pr: 9.00%
+  pr5y: 15.00%
+  i: 8 Years
+- s: SAH
+  c: Cl A Com/Sonic Automotive, Inc. Dividend Information
+  r: 3
+  y: $1.16
+  yr: 2.08%
+  y5y: 1.45%
+  pr: 92.00%
+  pr5y: 11.00%
+  i: 7 Years
+- s: MNRO
+  c: Monro Inc Dividend Information
+  r: 3
+  y: $1.12
+  yr: 2.87%
+  y5y: 1.81%
+  pr: 93.00%
+  pr5y: 65.00%
+  i: 9 Years
+- s: NATI
+  c: National Instruments Corp. Dividend Information
+  r: 3
+  y: $1.12
+  yr: 2.00%
+  y5y: 2.54%
+  pr: 93.00%
+  pr5y: 216.00%
+  i: 9 Years
+- s: HURC
+  c: Hurco Companies Inc Dividend Information
+  r: 3
+  y: $0.64
+  yr: 2.79%
+  y5y: 1.92%
+  pr: 94.00%
+  pr5y: 166.00%
+  i: 9 Years
+- s: GTY
+  c: Getty Realty Corp. Dividend Information
+  r: 3
+  y: $1.72
+  yr: 5.05%
+  y5y: 5.07%
+  pr: 97.00%
+  pr5y: 109.00%
+  i: 5 Years
+- s: GWRS
+  c: Global Water Resources Inc Dividend Information
+  r: 3
+  y: $0.30
+  yr: 2.28%
+  y5y: 2.21%
+  pr: 99.00%
+  pr5y: 274.00%
+  i: 6 Years
+- s: CNQ
+  c: Canadian Natural Resources Ltd Dividend Information
+  r: 3
+  y: 3.60 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 6 Years
+- s: SLF
+  c: Sun Life Financial Inc Dividend Information
+  r: 3
+  y: 3.00 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 8 Years
+- s: MFC
+  c: Manulife Financial Corp Dividend Information
+  r: 3
+  y: 1.46 (CAD)
+  yr: Currency Mismatch
+  y5y: Currency Mismatch
+  pr: Currency Mismatch
+  pr5y: Currency Mismatch
+  i: 9 Years
