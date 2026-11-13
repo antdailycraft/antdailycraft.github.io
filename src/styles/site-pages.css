@@ -2,8 +2,8 @@
 .site-page main { position: relative; isolation: isolate; min-height: 55vh; }
 .site-page main::before { content: attr(data-page-label); position: absolute; right: -16px; top: 48px; z-index: -1; max-width: 100%; overflow: clip; color: var(--color-paper-2); font-family: var(--font-display); font-size: clamp(90px, 15vw, 210px); font-weight: 650; line-height: 1; letter-spacing: -.04em; white-space: nowrap; pointer-events: none; }
 .site-page .page-heading { position: relative; padding-block: 80px 56px; margin-bottom: 40px; border-bottom: 1px solid var(--color-rule); }
-.site-page .page-heading h1 { font-size: clamp(36px, 4.9vw, 66px); font-weight: 550; line-height: 1.4; max-width: 16ch; text-wrap: balance; }
-.site-page .page-heading p { max-width: 66ch; font-size: 14px; line-height: 1.95; margin-top: 24px; }
+.site-page .page-heading h1 { font-size: clamp(36px, 4.9vw, 66px); font-weight: 550; line-height: 1.4; max-width: none; text-wrap: balance; }
+.site-page .page-heading p { max-width: none; font-size: 14px; line-height: 1.95; margin-top: 24px; }
 .site-page .back-link { color: var(--color-ink-2); font-size: 13px; }
 .site-header nav a[aria-current], .site-header .about-link[aria-current] { color: var(--color-accent); text-decoration: none; font-weight: 700; }
 .site-page .site-footer { margin-top: 96px; }
@@ -18,7 +18,7 @@
 .site-page .post-list { max-width: none; }
 .site-page .post-row { padding-block: 32px; }
 .site-page .post-row h3 { font-size: 23px; font-weight: 550; }
-.site-page .post-row p { font-size: 14px; max-width: 65ch; }
+.site-page .post-row p { font-size: 14px; max-width: none; }
 .site-page .post-meta { font-size: 12px; }
 .site-page .reading-time { font-size: 11px; }
 .site-page .post-thumbnail { width: 190px; }
