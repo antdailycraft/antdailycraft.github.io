@@ -12,7 +12,7 @@
 - 한글·본문은 Noto Sans KR Variable, 로고·큰 영문 워터마크는 Newsreader Variable. 코드는 운영체제의 고정폭 글꼴.
 
 ## 화면별 적용
-- 홈: 독립적인 사진·메모 레이어, 타이포그래피, 추천 글 pin/reveal, 주제 pan, 밝은 아카이브 영역. `src/styles/scroll-home.css`와 `src/scripts/scroll-home.ts`.
+- 홈: 독립적인 사진·메모 레이어, 타이포그래피, 즉시 표시되는 추천 글과 일반 스크롤, 직접 넘기는 주제 목록, 밝은 아카이브 영역. `src/styles/scroll-home.css`와 `src/scripts/scroll-home.ts`.
 - 주제·태그·목록: 같은 어두운 헤더와 큰 제목, 낮은 대비의 배경 워드마크, 라임색 상태 표시, 구분선과 주제 카드.
 - 링크: 기존 사이트 캡처를 유지하고 공통 색과 제목 위계로 정돈한다.
 - 배당표·차트: 어두운 표·검색·축·범례·툴팁과 라임색 데이터. 출처와 오래된 기록이라는 안내를 유지한다.
