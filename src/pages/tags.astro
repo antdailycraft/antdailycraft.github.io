@@ -1,0 +1,6 @@
+---
+import Base from '../layouts/Base.astro';
+import PostList from '../components/PostList.astro';
+import { tags, visiblePosts } from '../lib/content.mjs';
+---
+<Base title="태그"><header class="page-heading"><h1>기록을 잇는 태그.</h1><p>작은 키워드로 찾는 이야기.</p></header><nav class="tag-cloud" aria-label="태그">{tags.map(tag => <a href={`#${encodeURIComponent(tag)}`}>#{tag}</a>)}</nav>{tags.map(tag => <section class="tag-section" id={tag}><h2>#{tag}</h2><PostList posts={visiblePosts.filter(p => p.tags.includes(tag))} /></section>)}</Base>

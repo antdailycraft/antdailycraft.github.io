@@ -1,0 +1,78 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="작지만 유용한 도구">
+  <header class="page-heading"><h1>반복되는 작업을,<br />조금 더 가볍게.</h1><p>브라우저 안에서 바로 변환하세요. 입력한 내용은 서버에 전송되지 않습니다.</p></header>
+  <noscript><p class="muted">변환 도구를 사용하려면 브라우저에서 JavaScript를 켜 주세요.</p></noscript>
+  <div class="utility-grid">
+    <section class="tool"><h2>마크다운 파일명 변환</h2><p>제목을 오늘 날짜가 포함된 마크다운 파일명으로 바꿉니다.</p>
+      <form id="filename-form">
+        <label for="filename-input">글 제목</label><textarea id="filename-input" required placeholder="예: Python 코드 정리하기" rows="4" aria-describedby="filename-status"></textarea>
+        <button type="submit">파일명 만들기</button>
+        <label for="filename-output">변환된 파일명</label><textarea id="filename-output" rows="3" readonly></textarea>
+        <button type="button" class="copy-result" data-copy="filename" disabled>파일명 복사</button>
+        <p id="filename-status" class="tool-status" role="status" aria-atomic="true"></p>
+      </form>
+    </section>
+    <section class="tool"><h2>문자열을 JSON 배열로</h2><p>한 줄에 한 항목씩 입력하면 JSON 배열로 변환합니다.</p>
+      <form id="json-form">
+        <label for="json-input">변환할 문자열</label><textarea id="json-input" required placeholder="first&#10;second&#10;third" rows="4" aria-describedby="json-status"></textarea>
+        <button type="submit">JSON으로 변환</button>
+        <label for="json-output">JSON 배열</label><textarea id="json-output" rows="3" readonly></textarea>
+        <button type="button" class="copy-result" data-copy="json" disabled>JSON 복사</button>
+        <p id="json-status" class="tool-status" role="status" aria-atomic="true"></p>
+      </form>
+    </section>
+  </div>
+</Base>
+<script>
+import { markdownFilename, linesToJSON } from '../lib/utility.mjs';
+import { copyText } from '../scripts/copy-text';
+for (const kind of ['filename', 'json']) {
+  const input = document.getElementById(`${kind}-input`) as HTMLTextAreaElement;
+  const output = document.getElementById(`${kind}-output`) as HTMLTextAreaElement;
+  const status = document.getElementById(`${kind}-status`)!;
+  const copy = document.querySelector<HTMLButtonElement>(`[data-copy="${kind}"]`)!;
+  let copying = false;
+  input.addEventListener('input', () => {
+    const hadResult = Boolean(output.value);
+    output.value = '';
+    copy.disabled = true;
+    input.removeAttribute('aria-invalid');
+    status.textContent = hadResult ? '입력이 바뀌었습니다. 다시 변환해 주세요.' : '';
+  });
+  document.getElementById(`${kind}-form`)!.addEventListener('submit', event => {
+    event.preventDefault();
+    output.value = kind === 'filename' ? markdownFilename(input.value) : linesToJSON(input.value);
+    copy.disabled = !output.value;
+    if (!output.value) {
+      input.setAttribute('aria-invalid', 'true');
+      status.textContent = kind === 'filename' ? '파일명에 사용할 글자나 숫자를 입력하세요.' : '변환할 문자열을 한 줄 이상 입력하세요.';
+      input.focus();
+      return;
+    }
+    input.removeAttribute('aria-invalid');
+    status.textContent = kind === 'filename' ? '파일명을 만들었습니다. 아래 버튼으로 복사하세요.' : 'JSON 배열로 변환했습니다. 아래 버튼으로 복사하세요.';
+  });
+  copy.addEventListener('click', async () => {
+    const value = output.value;
+    if (!value || copying) return;
+    copying = true;
+    const caption = copy.textContent;
+    copy.textContent = '복사 중…';
+    copy.setAttribute('aria-busy', 'true');
+    const copied = await copyText(value);
+    copying = false;
+    copy.textContent = caption;
+    copy.removeAttribute('aria-busy');
+    copy.disabled = !output.value;
+    if (output.value !== value) return;
+    if (copied) status.textContent = kind === 'filename' ? '파일명을 복사했습니다.' : 'JSON 배열을 복사했습니다.';
+    else {
+      output.focus();
+      output.select();
+      status.textContent = '자동 복사가 제한되어 결과를 선택했습니다. Ctrl+C 또는 ⌘C로 복사하세요. 모바일에서는 선택 메뉴의 복사를 누르세요.';
+    }
+  });
+}
+</script>

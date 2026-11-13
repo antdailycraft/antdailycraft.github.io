@@ -1,0 +1,40 @@
+---
+import config from '../data/giscus.json';
+interface Props { path: string }
+const { path } = Astro.props;
+const discussionsUrl = `https://github.com/${config.repo}/discussions/categories/announcements`;
+---
+<section class="comments" aria-labelledby="comments-heading">
+  <div class="comments-heading"><h2 id="comments-heading">댓글과 공감</h2><a href={discussionsUrl} target="_blank" rel="noopener noreferrer">GitHub에서 보기 ↗</a></div>
+  <p>궁금한 점이나 함께 나누고 싶은 이야기를 남겨주세요. 댓글과 공감에는 GitHub 로그인이 필요합니다.</p>
+  <div class="giscus">
+    <script
+      is:inline
+      src="https://giscus.app/client.js"
+      data-repo={config.repo}
+      data-repo-id={config.repoId}
+      data-category={config.category}
+      data-category-id={config.categoryId}
+      data-mapping="specific"
+      data-term={path}
+      data-strict="1"
+      data-reactions-enabled="1"
+      data-emit-metadata="0"
+      data-input-position="top"
+      data-theme="light"
+      data-lang="ko"
+      data-loading="lazy"
+      crossorigin="anonymous"
+      async
+    ></script>
+  </div>
+  <noscript><p>댓글을 표시하려면 JavaScript를 켜주세요. <a href={discussionsUrl}>GitHub Discussions에서 의견을 나눌 수도 있습니다.</a></p></noscript>
+</section>
+<style>
+  .comments { margin-top: var(--space-xl); padding-top: var(--space-lg); border-top: 1px solid var(--color-rule); }
+  .comments-heading { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: var(--space-sm); }
+  .comments h2 { font-size: 20px; }
+  .comments a { font-size: 12px; color: var(--color-accent); white-space: nowrap; }
+  .comments > p, .comments noscript p { margin-top: var(--space-sm); color: var(--color-ink-2); font-size: 13px; line-height: 1.8; }
+  .giscus { margin-top: var(--space-md); min-height: 180px; }
+</style>

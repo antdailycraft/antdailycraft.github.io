@@ -1,0 +1,13 @@
+---
+import Base from '../layouts/Base.astro';
+import Comments from '../components/Comments.astro';
+import { posts, label, dateLabel, site } from '../lib/content.mjs';
+export function getStaticPaths() { return posts.map(post => ({ params: { slug: post.slug }, props: { post } })); }
+const { post } = Astro.props;
+const related = posts.filter(p => !p.hidden && p.slug !== post.slug && p.categories.some((c: string) => post.categories.includes(c))).slice(0, 3);
+---
+<Base title={post.title} description={post.description} image={post.image} article>
+<div class="article-shell"><a class="back-link" href="/">← 모든 기록</a><header class="article-header"><div class="post-meta">{post.categories.map((c: string) => <a href={`/category/${encodeURIComponent(c)}/`}>{label(c)}</a>)}</div><h1>{post.title}</h1><p class="article-description">{post.description}</p><div class="post-meta"><span>{post.author === 'picsen' ? '아지기' : post.author || '아지기'}</span><time datetime={post.date.toISOString()}>{dateLabel(post.date)}</time><span>{post.minutes}분 읽기</span></div></header><div class="article-reading-surface reading-panel"><article class="prose" set:html={post.html} /><div class="article-tags">{post.tags.map((tag: string) => <a href={`/tags/#${encodeURIComponent(tag)}`}>#{tag}</a>)}</div>{related.length > 0 && <section class="related"><h2>이어서 읽기</h2>{related.map(p => <a href={p.url}>{p.title}<span aria-hidden="true">↗</span></a>)}</section>}<Comments path={post.url} /></div></div>
+<script>import '../scripts/article-images';</script>
+<script type="application/ld+json" set:html={JSON.stringify({ '@context': 'https://schema.org', '@type': 'BlogPosting', headline: post.title, datePublished: post.date.toISOString(), author: { '@type': 'Person', name: post.author || '아지기' }, url: new URL(post.url, site.url).href }).replace(/</g, '\\u003c')} />
+</Base>

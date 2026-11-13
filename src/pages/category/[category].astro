@@ -1,0 +1,9 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostList from '../../components/PostList.astro';
+import { categories, visiblePosts, label } from '../../lib/content.mjs';
+export function getStaticPaths() { return categories.map(category => ({ params: { category }, props: { category } })); }
+const { category } = Astro.props;
+const filtered = visiblePosts.filter(p => p.categories.includes(category));
+---
+<Base title={label(category)}><header class="page-heading"><a class="back-link" href="/categories/">← 주제별 보기</a><h1>{label(category)}</h1><p>{filtered.length}개의 기록</p></header><PostList posts={filtered} /></Base>

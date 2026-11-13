@@ -1,0 +1,5 @@
+---
+import Base from '../layouts/Base.astro';
+import { categories, visiblePosts, label } from '../lib/content.mjs';
+---
+<Base title="주제별 보기"><header class="page-heading"><h1>관심사를 따라,<br />기록 둘러보기.</h1><p>개발부터 일상까지, 하나의 주제로 이어지는 이야기.</p></header><div class="category-grid">{categories.map(c => <a href={`/category/${encodeURIComponent(c)}/`}><h2>{label(c)}</h2><span>{visiblePosts.filter(p => p.categories.includes(c)).length}개의 기록 ↗</span></a>)}</div></Base>

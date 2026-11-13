@@ -1,0 +1,8 @@
+---
+import Base from '../layouts/Base.astro';
+import { dividends } from '../lib/content.mjs';
+---
+<Base title="배당 주식"><header class="page-heading"><h1>꾸준함을 살펴보는,<br />배당 주식 노트.</h1><p>기존에 수집한 {dividends.length}개 종목의 배당 기록입니다. 실시간 시세가 아니며, 수집 시점은 원본에 기록되어 있지 않습니다.</p></header><label class="table-search">종목 검색<input id="stock-search" type="search" placeholder="심볼 또는 회사 이름"/></label><p class="muted">심볼을 선택하면 배당·주가 차트로 이동합니다. 표를 좌우로 밀어 나머지 항목을 확인하세요.</p><div class="table-scroll" tabindex="0" role="region" aria-label="배당 주식 목록"><table><thead><tr>{['심볼', '회사', '평가 / 5', '배당금', '최근 12개월 수익률', '5년 평균 수익률', '배당성향', '5년 평균 배당성향', '연속 배당 증가'].map(t => <th scope="col">{t}</th>)}</tr></thead><tbody>{dividends.map((d: any) => <tr data-stock={`${d.s} ${d.c}`.toLowerCase()}><th scope="row"><a href={`/chart/?s=${encodeURIComponent(d.s)}`}>{d.s} ↗</a></th><td>{d.c.replace('Dividend Information', '').trim()}</td>{['r','y','yr','y5y','pr','pr5y','i'].map(key => <td>{String(d[key] ?? '—').replace('Currency Mismatch','—')}</td>)}</tr>)}</tbody></table></div><p id="stock-status" role="status"></p></Base>
+<script>
+document.querySelector<HTMLInputElement>('#stock-search')!.addEventListener('input', e => { const query = (e.target as HTMLInputElement).value.trim().toLowerCase(); let count = 0; document.querySelectorAll<HTMLElement>('[data-stock]').forEach(row => { row.hidden = !row.dataset.stock!.includes(query); if (!row.hidden) count++; }); document.querySelector('#stock-status')!.textContent = count ? `${count}개 종목` : '검색 결과가 없습니다. 다른 심볼이나 회사 이름으로 검색해 주세요.'; });
+</script>

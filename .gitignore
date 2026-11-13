@@ -5,3 +5,11 @@ _site
 *~
 .obsidian
 Templates
+node_modules/
+dist/
+.astro/
+.impeccable/review/
+public/assets/
+public/favicon.ico
+public/google572cf39cbfa59b58.html
+scrollcraft/builds/*/verification/

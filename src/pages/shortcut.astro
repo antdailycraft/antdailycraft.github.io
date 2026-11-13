@@ -1,0 +1,5 @@
+---
+import Base from '../layouts/Base.astro';
+import { shortcuts } from '../lib/content.mjs';
+---
+<Base title="사이트 바로가기"><header class="page-heading"><h1>사이트 바로가기.</h1><p>기존에 저장된 주소입니다. 현재 접속 가능 여부는 확인되지 않았습니다.</p></header><div class="shortcut-list">{Object.entries(shortcuts).map(([name, url]) => <a href={String(url)} target="_blank" rel="noopener noreferrer"><h2>{name}</h2><span>{String(url)} ↗</span></a>)}</div></Base>

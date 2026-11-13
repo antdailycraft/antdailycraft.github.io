@@ -1,0 +1,147 @@
+/* Shared Scrollcraft identity. Documents and tools retain native reading flow. */
+.site-page main { position: relative; isolation: isolate; min-height: 55vh; }
+.site-page main::before { content: attr(data-page-label); position: absolute; right: -16px; top: 48px; z-index: -1; max-width: 100%; overflow: clip; color: var(--color-paper-2); font-family: var(--font-display); font-size: clamp(90px, 15vw, 210px); font-weight: 650; line-height: 1; letter-spacing: -.04em; white-space: nowrap; pointer-events: none; }
+.site-page .page-heading { position: relative; padding-block: 80px 56px; margin-bottom: 40px; border-bottom: 1px solid var(--color-rule); }
+.site-page .page-heading h1 { font-size: clamp(36px, 4.9vw, 66px); font-weight: 550; line-height: 1.4; max-width: 16ch; text-wrap: balance; }
+.site-page .page-heading p { max-width: 66ch; font-size: 14px; line-height: 1.95; margin-top: 24px; }
+.site-page .back-link { color: var(--color-ink-2); font-size: 13px; }
+.site-header nav a[aria-current], .site-header .about-link[aria-current] { color: var(--color-accent); text-decoration: none; font-weight: 700; }
+.site-page .site-footer { margin-top: 96px; }
+.site-footer p, .site-footer small, .footer-links a { font-size: 12px; }
+.footer-links a { padding-block: 4px; }
+.site-page .category-grid { gap: 24px; }
+.site-page .category-grid > a { position: relative; display: flex; flex-direction: column; justify-content: space-between; gap: 40px; min-height: 220px; padding: 32px; border: 1px solid var(--color-rule); border-radius: var(--radius-card); background: var(--color-paper-2); transition: border-color var(--dur-short) var(--ease-out); }
+.site-page .category-grid > a:hover { border-color: var(--color-accent); }
+.site-page .category-grid > a::after { content: '↗'; position: absolute; top: 28px; right: 32px; color: var(--color-accent); font-size: 28px; }
+.site-page .category-grid h2 { font-size: clamp(27px, 3vw, 40px); padding-right: 40px; font-weight: 500; }
+.site-page .category-grid span { color: var(--color-ink-2); font-size: 13px; }
+.site-page .post-list { max-width: 920px; }
+.site-page .post-row { padding-block: 32px; }
+.site-page .post-row h3 { font-size: 23px; font-weight: 550; }
+.site-page .post-row p { font-size: 14px; max-width: 65ch; }
+.site-page .post-meta { font-size: 12px; }
+.site-page .reading-time { font-size: 11px; }
+.site-page .post-thumbnail { width: 190px; }
+.site-page .post-type { min-height: 100px; color: var(--color-accent); background: var(--color-paper-2); }
+.site-page .tag-cloud { margin-top: 0; gap: 12px; }
+.site-page .tag-cloud a { padding: 10px 16px; border: 1px solid var(--color-rule); background: var(--color-paper-2); font-size: 13px; }
+.site-page .tag-section { padding-top: 56px; }
+.site-page .tag-section > h2 { font-size: 28px; color: var(--color-accent); padding-bottom: 20px; border-bottom: 1px solid var(--color-rule); }
+.site-page .resource-grid { gap: 32px; }
+.site-page .resource { min-width: 0; padding-bottom: 28px; border-bottom: 1px solid var(--color-rule); }
+.site-page .resource-image { border-radius: var(--radius-card); margin-bottom: 20px; }
+.site-page .resource h2 { font-size: 22px; font-weight: 550; margin-block: 12px; }
+.site-page .resource p { font-size: 14px; line-height: 1.9; }
+.site-page .resource .post-meta { font-size: 12px; }
+.site-page .utility-grid { gap: 32px; }
+.site-page .tool { padding: 32px; border: 1px solid var(--color-rule); border-radius: var(--radius-card); background: var(--color-paper-2); }
+.site-page .tool h2 { font-size: 27px; font-weight: 550; }
+.site-page .tool p { font-size: 14px; min-height: 3.6em; }
+.site-page .tool label { font-size: 13px; margin-top: 8px; }
+.site-page .tool textarea { border-color: var(--color-control-border); font-size: 14px; line-height: 1.8; min-height: 110px; }
+.site-page .tool textarea[readonly] { background: var(--color-paper); color: var(--color-accent); font-size: 13px; }
+.site-page .tool button { min-height: 44px; padding-inline: 24px; }
+.site-page .table-search { justify-content: space-between; gap: 16px; font-weight: 600; }
+.site-page .table-search input { width: min(100%, 360px); font-weight: 400; }
+.site-page .muted { font-size: 13px; line-height: 1.9; margin-block: 24px; }
+.site-page .table-scroll { border: 1px solid var(--color-rule); border-radius: var(--radius-card); }
+.site-page table { background: var(--color-surface); font-size: 13px; }
+.site-page thead { color: var(--color-accent); background: var(--color-paper-2); }
+.site-page th, .site-page td { padding: 18px 20px; }
+.site-page tbody th { background: var(--color-surface); }
+.site-page tbody tr:hover td, .site-page tbody tr:hover th { background: var(--color-accent-soft); }
+.site-page #stock-status, .site-page #chart-status { font-size: 13px; margin-top: 24px; }
+.site-page .chart-form { gap: 16px; padding: 24px; border: 1px solid var(--color-rule); background: var(--color-paper-2); border-radius: var(--radius-card); }
+.site-page .chart-form label { font-size: 14px; }
+.site-page .chart-form input { flex: 1; min-width: 140px; }
+.site-page #stock-chart { background: var(--color-surface); border: 1px solid var(--color-rule); border-radius: var(--radius-card); height: 520px; padding: 12px; }
+.site-page .article-shell { max-width: 900px; padding-top: 48px; }
+.site-page .article-shell .page-heading { padding-top: 24px; }
+.site-page .article-header { padding-bottom: 48px; border-bottom: 0; }
+.site-page .article-header h1 { font-size: clamp(32px, 4.2vw, 56px); font-weight: 550; line-height: 1.45; margin-block: 24px; }
+.site-page .article-description { font-size: 16px; line-height: 1.95; max-width: 65ch; margin-bottom: 24px; }
+.reading-panel {
+  --color-paper: var(--color-reading-paper);
+  --color-paper-2: var(--color-reading-paper-2);
+  --color-surface: var(--color-reading-surface);
+  --color-ink: var(--color-reading-ink);
+  --color-ink-2: var(--color-reading-ink-2);
+  --color-rule: var(--color-reading-rule);
+  --color-accent: var(--color-reading-accent);
+  --color-accent-soft: var(--color-reading-accent-soft);
+  --color-focus: var(--color-reading-focus);
+  --color-on-accent: var(--color-reading-paper);
+  background: var(--color-paper); color: var(--color-ink); padding: 40px 48px; border-radius: var(--radius-card);
+}
+.reading-panel > .prose { padding-top: 0; }
+.reading-panel.prose > :first-child, .reading-panel > .prose > :first-child { margin-top: 0; }
+.site-page .reading-panel .post-meta { color: var(--color-ink-2); }
+.site-page .reading-panel .related h2 { font-size: 23px; }
+.site-page .reading-panel .related a { font-size: 15px; }
+.site-page .shortcut-list a { padding: 28px 32px; border: 1px solid var(--color-rule); border-radius: var(--radius-card); background: var(--color-paper-2); margin-top: 20px; }
+.site-page .shortcut-list h2 { font-size: 28px; margin-bottom: 12px; }
+.site-page .not-found { padding-bottom: 56px; }
+.site-page .not-found > span { font-size: 130px; line-height: 1.1; display: block; margin-bottom: 32px; }
+.site-page .not-found .button { min-height: 44px; }
+@media (max-width: 1000px) {
+  .site-page .tool { padding: 24px; }
+  .site-page .tool h2 { font-size: 24px; }
+}
+@media (max-width: 768px) {
+  .site-page main::before { top: 40px; right: 0; font-size: 22vw; }
+  .site-page .page-heading { padding-block: 56px 32px; margin-bottom: 32px; }
+  .site-page .page-heading h1 { font-size: clamp(32px, 6.5vw, 48px); }
+  .site-page .page-heading p { font-size: 13px; line-height: 1.9; margin-top: 20px; }
+  .site-page .category-grid > a { min-height: 180px; padding: 24px; gap: 32px; }
+  .site-page .category-grid h2 { font-size: 29px; }
+  .site-page .category-grid > a::after { top: 20px; right: 24px; }
+  .site-page .article-shell { padding-top: 32px; }
+  .site-page .article-header { padding-bottom: 32px; }
+  .site-page .article-header h1 { font-size: 36px; }
+  .site-page .article-description { font-size: 14px; }
+  .reading-panel { padding: 32px; }
+  .site-page .resource h2 { font-size: 20px; }
+  .site-page .table-search { align-items: flex-start; flex-direction: column; }
+  .site-page .table-search input { width: 100%; }
+  .site-page .chart-form { padding: 20px; }
+  .site-page #stock-chart { height: 420px; padding: 4px; }
+  .site-page .site-footer { margin-top: 64px; }
+}
+@media (max-width: 480px) {
+  .site-page .page-heading { padding-top: 40px; }
+  .site-page .page-heading h1 { font-size: 33px; }
+  .site-page .category-grid { gap: 16px; }
+  .site-page .category-grid > a { min-height: 160px; }
+  .site-page .post-row { padding-block: 24px; gap: 16px; }
+  .site-page .post-row h3 { font-size: 18px; }
+  .site-page .post-row p { font-size: 12px; }
+  .site-page .post-meta { font-size: 11px; }
+  .site-page .post-thumbnail { width: 84px; }
+  .site-page .resource-grid { gap: 28px; }
+  .site-page .resource p { font-size: 13px; }
+  .site-page .utility-grid { gap: 24px; }
+  .site-page .tool { padding: 20px; }
+  .site-page .tool h2 { font-size: 23px; }
+  .site-page .tool p { font-size: 13px; min-height: 0; }
+  .site-page .article-header h1 { font-size: 30px; }
+  .site-page .article-header .post-meta { font-size: 11px; }
+  .reading-panel { padding: 24px 20px; margin-inline: -4px; }
+  .site-page .chart-form { align-items: stretch; }
+  .site-page .chart-form input { flex-basis: 100%; }
+  .site-page .chart-form button { align-self: flex-start; }
+  .site-page #stock-chart { height: 360px; }
+  .site-page .shortcut-list a { padding: 24px; }
+  .site-page .not-found > span { font-size: 96px; }
+}
+@media (prefers-reduced-motion: reduce) { .site-page .category-grid > a { transition: none; } }
+
+.site-page input, .site-page textarea { border-color: var(--color-control-border); }
+.reading-panel .image-unavailable { display: block; padding: 24px; margin-block: 24px; background: var(--color-paper-2); color: var(--color-ink-2); border: 1px solid var(--color-rule); border-radius: var(--radius-input); font-size: 13px; line-height: 1.9; }
+.reading-panel .image-unavailable > a { display: inline-block; margin-top: 8px; }
+/* Keep the shared masthead identical to the landing page at phone widths. */
+.site-header .wordmark { font-size: 33px; }
+@media (max-width: 768px) { .site-header { min-height: 128px; } .site-header nav a { font-size: 12px; } }
+
+.site-page .tool .copy-result { background: transparent; color: var(--color-accent); border-color: var(--color-control-border); margin-bottom: 0; }
+.site-page .tool .copy-result:hover:not(:disabled) { background: var(--color-accent-soft); }
+.site-page .tool .tool-status { min-height: 3.6em; margin-top: 8px; color: var(--color-ink-2); font-size: 13px; }

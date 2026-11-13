@@ -1,0 +1,44 @@
+---
+import '../styles/global.css';
+import '../styles/site-pages.css';
+import '@fontsource-variable/noto-sans-kr';
+import '@fontsource-variable/newsreader';
+import { site } from '../lib/content.mjs';
+interface Props { title?: string; description?: string; image?: string | null; article?: boolean; bodyClass?: string; redirectTo?: string }
+const { title, description = site.description, image, article = false, bodyClass, redirectTo } = Astro.props;
+const canonical = new URL(Astro.url.pathname, site.url);
+const path = Astro.url.pathname;
+const pageLabel = article ? 'JOURNAL' : path.startsWith('/categor') ? 'TOPICS' : path.startsWith('/tags') ? 'TAGS' : path.startsWith('/links') ? 'BOOKMARKS' : path.startsWith('/dividend') ? 'DIVIDENDS' : path.startsWith('/chart') ? 'MARKET' : path.startsWith('/utility') ? 'TOOLS' : path.startsWith('/about') ? 'ABOUT' : path.startsWith('/shortcut') ? 'LINKS' : path.startsWith('/page') ? 'ARCHIVE' : 'DAILY ON';
+function isActive(href: string) {
+  if (href === '/') return path === '/' || article || path.startsWith('/page');
+  if (href === '/categories/') return path.startsWith('/categor') || path.startsWith('/tags');
+  if (href === '/dividend/') return path.startsWith('/dividend') || path.startsWith('/chart');
+  return path.startsWith(href);
+}
+const nav = [['/', '기록'], ['/categories/', '주제별 보기'], ['/links/', '링크 모음'], ['/dividend/', '배당 주식'], ['/utility/', '도구']];
+---
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" /><meta name="viewport" content="width=device-width" />
+    <title>{title ? `${title} · ${site.name}` : `${site.name} · 매일 조금씩, 더 나은 일상`}</title>
+    {redirectTo && <meta http-equiv="refresh" content={`0;url=${redirectTo}`} />}
+    <meta name="description" content={description} /><link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.ico" /><link rel="alternate" type="application/rss+xml" title={site.name} href="/feed.xml" />
+    <meta property="og:title" content={title || site.name} /><meta property="og:description" content={description} />
+    <meta property="og:type" content={article ? 'article' : 'website'} /><meta property="og:url" content={canonical} />
+    {article && <meta name="giscus:backlink" content={canonical} />}
+    <meta property="og:locale" content="ko_KR" /><meta property="og:site_name" content={site.name} />
+    {image && <meta property="og:image" content={new URL(image, site.url)} />}
+  </head>
+  <body class={bodyClass || `site-page${article ? ' article-page' : ''}`}>
+    <a class="skip-link" href="#main">본문으로 바로가기</a>
+    <header class="site-header shell">
+      <a href="/" class="wordmark" aria-label="Daily Daily On 홈">daily daily on<span class="brand-dot">.</span></a>
+      <nav aria-label="주요 메뉴">{nav.map(([href, text]) => <a href={href} aria-current={isActive(href) ? 'page' : undefined}>{text}</a>)}</nav>
+      <a class="about-link" href="/about/" aria-current={path === '/about/' ? 'page' : undefined}>블로그 소개 <span aria-hidden="true">↗</span></a>
+    </header>
+    <main id="main" class="shell" data-page-label={pageLabel}><slot /></main>
+    <footer class="site-footer shell"><div><a class="wordmark" href="/">daily daily on<span class="brand-dot">.</span></a><p>배우고, 만들고, 기록합니다.</p></div><div class="footer-links"><a href="/about/">소개</a><a href="/tags/">태그</a><a href="/feed.xml">RSS 구독</a><a href="https://github.com/antdailycraft">GitHub ↗</a></div><small>© {new Date().getFullYear()} Daily Daily On · Built with Astro</small></footer>
+  </body>
+</html>

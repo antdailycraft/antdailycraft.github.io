@@ -1,0 +1,68 @@
+기능 개선 분석·구현·리뷰 — 2026-11-13
+
+완료 범위
+1. 기록 탐색: 제목·요약만 검색하던 것을 본문·태그·주제까지 확장.
+   한글 조합/대소문자/공백을 통일하고, 여러 검색어를 모두 포함하는 기록을 찾음.
+   Python·튜토리얼을 포함한 전체 주제를 콘텐츠에서 자동 생성.
+2. 검색 상태: 검색어·주제를 URL에 반영. 새로고침, 글을 읽은 뒤 돌아오기,
+   주제 선택의 뒤로 가기, 주소 복사, 검색 초기화 제공.
+3. 변환 도구: 파일명/JSON 결과 복사, 도구별 상태 안내, 입력 수정 시 이전 결과 무효화.
+   HTTPS Clipboard API를 우선하고 HTTP는 선택 기반 복사를 시도.
+   복사 제한 시 결과를 선택하고 수동 복사를 안내. 거부를 성공으로 표시하지 않음.
+4. 실행 환경: Astro 설치 버전에 맞춰 최소 Node 버전을 22.23.4로 수정.
+
+구현 후 리뷰에서 발견하여 수정한 항목
+- 검색 빈 결과의 버튼 글자가 Scrollcraft 기본 스타일에 덮여 대비가 낮았음 → 읽기 영역 색으로 명시.
+- 복사 중 버튼을 비활성화하면 키보드 초점이 사라짐 → 중복 실행 방지와 busy 상태로 변경.
+- 입력을 수정해도 이전 변환 결과를 복사할 수 있던 상태 → 결과 초기화, 복사 비활성화.
+- 검색용 본문이 필요 없는 주제/태그 목록에는 본문 검색 데이터를 넣지 않음.
+
+검증
+- npm test: 8/8 통과 (기존 3개 + 검색/변환 5개).
+- npm run build: 24페이지 생성, Astro 검사 오류 0개·경고 0개·힌트 1개.
+- 내부 링크와 로컬 이미지/스크립트 경로: 누락 0개.
+- 브라우저 확인: 26개 조건 통과.
+  본문 전용 검색, 모든 주제, 초기화, 새로고침, 뒤로 가기, 공유 주소,
+  HTTP 복사 경로, 권한 거부, 키보드 초점, 잘못된 파일명, JSON 이스케이프 확인.
+- 1440/768/390px에서 검색과 도구 페이지 가로 넘침 0.
+- metis:20000 및 metis.tail04fe8.ts.net:20000 HTTP 200 확인.
+- 복사 성공/실패는 클립보드 함수를 시험용 대체 함수로 바꿔 검증함.
+  사용자 시스템 클립보드는 바꾸지 않았고, 실제 기기별 권한 UI는 검증하지 않음.
+- 실제 휴대전화와 화면 읽기 프로그램은 미검증.
+
+남은 제한·후속 우선순위
+- ECharts 묶음 파일이 500kB를 넘어 빌드 경고가 남음. 기능 오류는 아니며 성능 개선 후보.
+- HTTP 복사 호환용 document.execCommand는 폐기 예정 API라는 힌트가 있음.
+  지원하지 않는 환경에서는 수동 복사 안내로 동작함.
+- 화면 폭을 데스크톱에서 모바일로 바꾸는 중 Scrollcraft pin 경고가 기록됨.
+  모바일의 일반 문서 흐름 표시와 검색/도구 동작은 확인했으며 엔진은 변경하지 않음.
+- 기존 외부 본문 이미지 4개 원본 소실과 과거 배당 데이터는 이번 수정 대상에 포함하지 않음.
+  자료 원본 확보·수집 시점 기록이 향후 콘텐츠 관리 우선 과제.
+- 검색 본문은 홈 HTML에 포함되므로 글이 크게 늘어나면 별도 검색 색인 검토 필요.
+  현재 홈 HTML은 32,744바이트이며 외부 검색 서비스는 사용하지 않음.
+- GitHub Pages 배포/커밋/푸시는 하지 않음. 기존 사용자 변경사항 보존.
+
+이번 작업에서 변경·추가한 소스
+src/pages/index.astro
+src/pages/utility.astro
+src/components/PostList.astro
+src/scripts/record-search.ts
+src/scripts/copy-text.ts
+src/lib/search.mjs
+src/lib/search.d.mts
+src/lib/utility.mjs
+src/lib/utility.d.mts
+src/styles/scroll-home.css
+src/styles/site-pages.css
+package.json
+package-lock.json
+README.md
+tests/features.test.mjs
+
+검증 산출물
+.impeccable/review/features/report.json (개발용 검증 기록, Git 제외)
+screenshots/features-search-1440-2026-11-13.png
+screenshots/features-search-390-2026-11-13.png
+screenshots/features-search-empty-mobile-2026-11-13.png
+screenshots/features-utility-1440-2026-11-13.png
+screenshots/features-utility-390-2026-11-13.png

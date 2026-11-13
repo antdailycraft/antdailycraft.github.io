@@ -1,0 +1,8 @@
+---
+import Base from '../../layouts/Base.astro';
+import PostList from '../../components/PostList.astro';
+import { visiblePosts } from '../../lib/content.mjs';
+export function getStaticPaths() { return Array.from({ length: Math.ceil(visiblePosts.length / 6) }, (_, i) => ({ params: { page: String(i + 1) }, props: { number: i + 1 } })); }
+const { number } = Astro.props;
+---
+<Base title={`기록 ${number}페이지`}><header class="page-heading"><h1>쌓아가는 기록.</h1><p>{number}페이지</p></header><PostList posts={visiblePosts.slice((number - 1) * 6, number * 6)} /><nav class="pagination" aria-label="페이지">{Array.from({length: Math.ceil(visiblePosts.length / 6)}, (_, i) => <a href={`/page/${i+1}/`} aria-current={number === i + 1 ? 'page' : undefined}>{i+1}</a>)}</nav></Base>

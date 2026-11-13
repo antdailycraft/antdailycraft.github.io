@@ -1,0 +1,9 @@
+---
+import { dateLabel, label } from '../lib/content.mjs';
+import { normalizeSearch } from '../lib/search.mjs';
+const { posts, searchable = false } = Astro.props;
+---
+<div class="post-list">{posts.map((post: any) => <article class="post-row" data-post data-search={searchable ? normalizeSearch(`${post.title} ${post.description} ${post.content} ${post.categories.map(label).join(' ')} ${post.tags.join(' ')}`) : undefined} data-categories={searchable ? JSON.stringify(post.categories) : undefined}>
+  <div class="post-info"><div class="post-meta"><span>{post.categories.map(label).join(' · ') || '기록'}</span><time datetime={post.date.toISOString()}>{dateLabel(post.date)}</time></div><h3><a href={post.url}>{post.title}</a></h3><p>{post.description}</p><span class="reading-time">{post.minutes}분 읽기</span></div>
+  {post.image ? <a class="post-thumbnail" href={post.url} tabindex="-1" aria-hidden="true"><img src={post.image} alt="" loading="lazy" width="240" height="160" /></a> : <a class="post-type" href={post.url} tabindex="-1" aria-hidden="true">{post.categories.includes('tutorial') ? 'Aa' : '{ }'}</a>}
+</article>)}</div>
