@@ -15,7 +15,7 @@
 .site-page .category-grid > a::after { content: '↗'; position: absolute; top: 28px; right: 32px; color: var(--color-accent); font-size: 28px; }
 .site-page .category-grid h2 { font-size: clamp(27px, 3vw, 40px); padding-right: 40px; font-weight: 500; }
 .site-page .category-grid span { color: var(--color-ink-2); font-size: 13px; }
-.site-page .post-list { max-width: 920px; }
+.site-page .post-list { max-width: none; }
 .site-page .post-row { padding-block: 32px; }
 .site-page .post-row h3 { font-size: 23px; font-weight: 550; }
 .site-page .post-row p { font-size: 14px; max-width: 65ch; }
@@ -55,11 +55,11 @@
 .site-page .chart-form label { font-size: 14px; }
 .site-page .chart-form input { flex: 1; min-width: 140px; }
 .site-page #stock-chart { background: var(--color-surface); border: 1px solid var(--color-rule); border-radius: var(--radius-card); height: 520px; padding: 12px; }
-.site-page .article-shell { max-width: 900px; padding-top: 48px; }
+.site-page .article-shell { max-width: none; width: 100%; padding-top: 48px; }
 .site-page .article-shell .page-heading { padding-top: 24px; }
 .site-page .article-header { padding-bottom: 48px; border-bottom: 0; }
 .site-page .article-header h1 { font-size: clamp(32px, 4.2vw, 56px); font-weight: 550; line-height: 1.45; margin-block: 24px; }
-.site-page .article-description { font-size: 16px; line-height: 1.95; max-width: 65ch; margin-bottom: 24px; }
+.site-page .article-description { font-size: 16px; line-height: 1.95; max-width: none; margin-bottom: 24px; }
 .reading-panel {
   --color-paper: var(--color-reading-paper);
   --color-paper-2: var(--color-reading-paper-2);
@@ -125,7 +125,7 @@
   .site-page .tool p { font-size: 13px; min-height: 0; }
   .site-page .article-header h1 { font-size: 30px; }
   .site-page .article-header .post-meta { font-size: 11px; }
-  .reading-panel { padding: 24px 20px; margin-inline: -4px; }
+  .reading-panel { padding: 24px 20px; margin-inline: 0; }
   .site-page .chart-form { align-items: stretch; }
   .site-page .chart-form input { flex-basis: 100%; }
   .site-page .chart-form button { align-self: flex-start; }
