@@ -7,7 +7,7 @@ categories: [tutorial]
 tags: [도메인, GitHub Pages, Cloudflare, Cloudflare Tunnel, Synology, DNS, 개인인프라, AI]
 description: "Porkbun에서 구입한 도메인 하나로 블로그, 프로젝트 사이트, NAS와 개인 서버의 주소를 정리한 과정과 막혔던 점을 기록합니다."
 ai_assisted: true
-updated_at: "2026-11-24T03:04:00+09:00"
+updated_at: "2026-11-24T03:20:02+09:00"
 ---
 
 **작성 기준일: 2026년 11월 24일**
@@ -60,9 +60,13 @@ aidaon.com은 .com 블랙프라이데이 기간에 1년 $11.81로 등록했습�
 
 ## 2. GitHub Pages에 사이트별 주소 연결
 
+<span id="www-redirect"></span>
+
 처음에는 루트 도메인에 GitHub Pages용 A 레코드 4개와 AAAA 레코드 4개, www에는 CNAME을 설정했습니다. 기존 블로그는 blog.aidaon.com으로 옮겼고, 예전 github.io 주소에서는 새 주소로 자동 이동하게 됐습니다.
 
 루트 aidaon.com에는 새 저장소에서 만든 ‘준비 중’ 스튜디오 랜딩을 배포했습니다. 프로젝트 사이트도 etf, adfree, mobileui, effects 서브도메인으로 각각 분리했습니다.
+
+루트를 대표 주소로 지정해 www 요청은 루트로 301 이동합니다. 실제 이동과 브라우저의 표시 생략 차이는 [www가 주소창에서 사라져 보이는 이유](/why-www-disappears-from-address-bar/)에 따로 정리했습니다.
 
 프로젝트 Pages의 주소가 블로그 아래로 따라가고 서브도메인 이전 후 화면이 깨진 문제는 빌드 경로를 수정해 해결했습니다. → [트러블슈팅 1 참고](#troubleshooting-pages)
 
