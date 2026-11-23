@@ -10,7 +10,7 @@ marked.use({ renderer: { code({ text, lang }) {
   const language = aliases[lang] || lang || 'text';
   return highlighter.codeToHtml(text, { lang: highlighter.getLoadedLanguages().includes(language) ? language : 'text', theme: 'github-light' });
 } } });
-export const site = { name: 'Daily Daily On', description: 'IT 기술로 일상을 가볍게. 개발과 업무 자동화, 미국 주식에 관한 기록.', url: 'https://antdailycraft.github.io' };
+export const site = { name: 'Daily Daily On', description: 'IT 기술로 일상을 가볍게. 개발과 업무 자동화, 미국 주식에 관한 기록.', url: 'https://blog.aidaon.com' };
 export const labels = { vscode: 'VS Code', python: 'Python', jekyll: 'Jekyll', media: '일상과 음악', tutorial: '튜토리얼', markdown: 'Markdown' };
 export const label = (name) => labels[name] || name;
 export const terms = (value) => Array.isArray(value) ? value.map(String) : String(value || '').split(/\s+/).filter(Boolean);

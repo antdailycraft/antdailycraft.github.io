@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
 export default defineConfig({
-  site: 'https://antdailycraft.github.io',
+  site: 'https://blog.aidaon.com',
   output: 'static',
   trailingSlash: 'always',
   server: { allowedHosts: ['metis', '.ts.net'] },
