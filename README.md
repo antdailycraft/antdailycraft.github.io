@@ -59,16 +59,15 @@ npm run preview # 빌드 결과 확인
 `nateherkai/scroll-craft` 스킬을 적용한 스크롤 연출이 홈에 포함됩니다. 홈 전용 스타일/동작은 `src/styles/scroll-home.css`와 `src/scripts/scroll-home.ts`입니다. 브리프는 `scrollcraft/builds/daily-on/BRIEF.md`, 검증 이미지와 보고서는 같은 폴더의 `verification/`에 있습니다. 스킬 엔진을 수정하지 않고 사용하며 모바일·감소된 움직임·JavaScript 없는 환경에 별도 표시를 제공합니다.
 
 
-## 댓글과 공감 (giscus)
+## 댓글 (Remark42)
 
-글 본문 하단의 `src/components/Comments.astro`가 GitHub Discussions 기반 댓글과 공감을 표시합니다. 연결 설정은 `src/data/giscus.json`에 있으며 공개 저장소·카테고리 식별자만 포함합니다. 비밀 토큰은 사용하지 않습니다.
+글 하단의 `src/components/Comments.astro`가 공통 Remark42 서버에 연결합니다.
 
-- 저장소: `antdailycraft/antdailycraft.github.io`, Discussions 활성화 필요.
-- 카테고리: `Announcements`. giscus 앱을 이 저장소에 설치해야 읽기·쓰기가 작동합니다.
-- 설치: https://github.com/apps/giscus/installations/new 에서 저장소 소유자 계정으로 `Only select repositories` → `antdailycraft.github.io` 선택.
-- 글의 고정 경로(`/slug/`)를 `specific` 매핑 값으로 사용하므로 미리보기 호스트나 글 제목이 바뀌어도 같은 댓글로 연결합니다. 글 경로를 바꾸면 댓글 연결도 바뀝니다.
-- `giscus:backlink`는 공개 사이트의 정식 주소로 지정해 미리보기 주소가 댓글의 원문 링크로 남지 않게 합니다.
-- 한국어, 밝은 테마, 공감 활성화, 상단 입력창, 지연 로딩 설정입니다.
-- 댓글과 공감은 GitHub에 공개 저장되며 작성에 GitHub 로그인이 필요합니다. 실제 댓글로 테스트할 때도 GitHub에 게시됩니다.
+- 서버: `https://api.aidaon.com/remark42`, 사이트 ID: `blog`
+- 글의 정식 URL(`https://blog.aidaon.com/slug/`)을 댓글 식별자로 사용합니다. 미리보기 주소와 검색 문자열은 댓글을 나누지 않습니다.
+- 닉네임 익명 댓글, GitHub 로그인과 아바타, 한국어 UI를 지원합니다.
+- 댓글 불러오기를 누르기 전에는 외부 댓글 스크립트를 요청하지 않습니다.
+- 기존 giscus 설정은 `src/data/giscus.json`에 복구용으로 보존했습니다. 2026-11-24 전환 점검 당시 Discussions는 0건이었습니다.
+- 서버 운영 구성은 `shared-services/deploy/remark42/`에서 관리합니다. 비밀키와 DB는 Git에 넣지 않습니다.
 
-댓글 앱 설치와 사이트 배포는 별도 절차입니다. 사이트 변경은 위 GitHub Actions 배포 작업이 성공한 뒤 공개 사이트에 반영됩니다.
+사이트 변경은 GitHub Actions 배포가 성공한 뒤 공개 사이트에 반영됩니다.

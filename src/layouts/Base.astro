@@ -27,7 +27,6 @@ const nav = [['/', '기록'], ['/categories/', '주제별 보기'], ['/links/', 
     <link rel="icon" href="/favicon.ico" /><link rel="alternate" type="application/rss+xml" title={site.name} href="/feed.xml" />
     <meta property="og:title" content={title || site.name} /><meta property="og:description" content={description} />
     <meta property="og:type" content={article ? 'article' : 'website'} /><meta property="og:url" content={canonical} />
-    {article && <meta name="giscus:backlink" content={canonical} />}
     <meta property="og:locale" content="ko_KR" /><meta property="og:site_name" content={site.name} />
     {image && <meta property="og:image" content={new URL(image, site.url)} />}
   </head>
