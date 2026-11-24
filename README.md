@@ -71,3 +71,9 @@ npm run preview # 빌드 결과 확인
 - 서버 운영 구성은 `shared-services/deploy/remark42/`에서 관리합니다. 비밀키와 DB는 Git에 넣지 않습니다.
 
 사이트 변경은 GitHub Actions 배포가 성공한 뒤 공개 사이트에 반영됩니다.
+
+## Metis 개발 미리보기
+
+Tailscale에 연결한 기기에서 http://metis.aidaon.com:8440/ 으로 접속합니다.
+실행: `npm run dev -- --host 0.0.0.0 --port 8440`.
+정식 사이트 주소는 `https://blog.aidaon.com`을 유지합니다.
